@@ -1,0 +1,7 @@
+[
+{
+		"name": "Leader limit",
+		"resourceType": "Bonus",
+		"uniques": ["Will not be displayed in Civilopedia"]
+	},
+]
