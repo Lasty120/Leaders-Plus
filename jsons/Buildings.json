@@ -11,7 +11,7 @@
   "uniqueTo": "Austria",
   "cost": 1,
 //  "replacementTextForUniques": "+1 [Food], +1 [Gold] from every Farm in Bonus resource tiles
-  +1 [Food], +1 [Gold] from every Plantation in Citrus/Sugar/Wine/Spices tiles",
+//  +1 [Food], +1 [Gold] from every Plantation in Citrus/Sugar/Wine/Spices tiles",
   "uniques": ["Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "[+1 Food, +1 Gold] from every [Farm] <in [Bonus resource] tiles>", "[+1 Food, +1 Gold] from every [Plantation] <in [Sugar] tiles>",
   "[+1 Food, +1 Gold] from every [Plantation] <in [Citrus] tiles>", "[+1 Food, +1 Gold] from every [Plantation] <in [Spices] tiles>", 
@@ -22,7 +22,7 @@
   "uniqueTo": "Austria",
   "cost": 1,
 //  "replacementTextForUniques": "Earn 100% of killed Military unit's Strength as [Faith] in Friendly Land tiles (+150% during the Medieval era)
-  Gain 50 [Faith] upon conquering a city (+50 Faith additionally for built Shrine and Temple in cities)",
+//  Gain 50 [Faith] upon conquering a city (+50 Faith additionally for built Shrine and Temple in cities)",
   "uniques": ["Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Earn [100]% of killed [Military] unit's [Strength] as [Faith] <in [Friendly Land] tiles> <starting from the [Ancient era]> <before the [Medieval era]>",
   "Earn [150]% of killed [Military] unit's [Strength] as [Faith] <in [Friendly Land] tiles> <during the [Medieval era]>", "Earn [100]% of killed [Military] unit's [Strength] as [Faith] <in [Friendly Land] tiles> <starting from the [Renaissance era]>",
