@@ -24,8 +24,8 @@
 //  "replacementTextForUniques": "Earn 100% of killed Military unit's Strength as [Faith] in Friendly Land tiles (+150% during the Medieval era)
 //  Gain 50 [Faith] upon conquering a city (+50 Faith additionally for built Shrine and Temple in cities)",
   "uniques": ["Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "Earn [100]% of killed [Military] unit's [Strength] as [Faith] <in [Friendly Land] tiles> <starting from the [Ancient era]> <before the [Medieval era]>",
-  "Earn [150]% of killed [Military] unit's [Strength] as [Faith] <in [Friendly Land] tiles> <during the [Medieval era]>", "Earn [100]% of killed [Military] unit's [Strength] as [Faith] <in [Friendly Land] tiles> <starting from the [Renaissance era]>",
+  "Earn [100]% of killed [Military] unit's [Strength] as [Faith] <when fighting in [Friendly Land] tiles> <starting from the [Ancient era]> <before the [Medieval era]>",
+  "Earn [150]% of killed [Military] unit's [Strength] as [Faith] <when fighting in [Friendly Land] tiles> <during the [Medieval era]>", "Earn [100]% of killed [Military] unit's [Strength] as [Faith] <when fighting in [Friendly Land] tiles> <starting from the [Renaissance era]>",
   "Gain [50] [Faith] <upon conquering a city>", "Gain [50] [Faith] <upon conquering a city> <in cities with a [Shrine]>", "Gain [50] [Faith] <upon conquering a city> <in cities with a [Temple]>"],
 },
 ]
