@@ -32,8 +32,7 @@
   "name": "Founder of America (George Washington)",
   "uniqueTo": "America",
   "cost": 1,
-  "replacementTextForUniques": "+15% Strength when fighting in Friendly Land tiles
-+25% Strength for cities when defending",
+  "replacementTextForUniques": "+15% Strength when fighting in Friendly Land tiles. +25% Strength for cities when defending",
   "uniques": ["Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "[+15]% Strength <when fighting in [Friendly Land] tiles>", "[+25]% Strength for cities <when defending>"],
 },
