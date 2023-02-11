@@ -4,6 +4,6 @@
   "uniqueTo": "",
   "cost": 1,
   "replacementTextForUniques": "Если что сюда пишется что будет отображаться вместо uniques",
-  "uniques": ["Only available <without [Leader limit]>", "Provides [Leader limit]"],
+  "uniques": ["Only available <without [Leader limit]>", "Provides [1] [Leader limit]"],
 },
 ]
