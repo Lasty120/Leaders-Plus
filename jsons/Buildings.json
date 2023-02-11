@@ -28,4 +28,13 @@
   "Earn [150]% of killed [Military] unit's [Strength] as [Faith] <during the [Medieval era]>", "Earn [75]% of killed [Military] unit's [Strength] as [Faith] <starting from the [Renaissance era]>",
   "Gain [50] [Faith] <upon conquering a city>", "Gain [50] [Faith] <upon conquering a city> <in cities with a [Shrine]>", "Gain [50] [Faith] <upon conquering a city> <in cities with a [Temple]>"],
 },
+{
+  "name": "Founder of America (George Washington)",
+  "uniqueTo": "America",
+  "cost": 1,
+  "replacementTextForUniques": "+15% Strength when fighting in Friendly Land tiles
+  +25% Strength for cities when defending and",
+  "uniques": ["Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
+  "[+15]% Strength <when fighting in [Friendly Land] tiles>", "[+25]% Strength for cities <when defending>"],
+},
 ]
