@@ -60,7 +60,7 @@
 //  "replacementTextForUniques": "Provides a free Melee unit in cities on foreign continents. Provides a free Melee Water in first 4 cities with a Harbor",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Provides a [Free Melee unit] in your first [999] cities for free <on foreign continents>",
-  "Provides a [Free Water unit] in your first [4] cities for free <upon constructing [Harbor] [in this city]>"],
+  "Provides a [Free Water unit] in your first [4] cities for free <in cities with a [Harbor]>"],
 },
 {
   "name": "Free Melee unit",
