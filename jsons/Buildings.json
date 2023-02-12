@@ -64,14 +64,19 @@
 {
   "name": "Free Melee unit",
   "cost": 1,
+//  "replacementTextForUniques": "Gain a free Melee unit",
   "uniques": ["Unbuildable", "Cannot be purchased", "Free [Melee] appears",
   "Will not be displayed in Civilopedia", "Unsellable"]
 },
 {
   "name": "Free Water unit",
   "cost": 1,
-  "uniques": ["Unbuildable", "Cannot be purchased", "Free [Melee Water] appears",
-  "Will not be displayed in Civilopedia", "Unsellable"]
+//  "replacementTextForUniques": "Gain a free Melee Water unit",
+  "uniques": ["Unbuildable", "Cannot be purchased", "Free [Trireme] appears <after discovering [Sailing]> <before discovering [Astronomy]>",
+  "Will not be displayed in Civilopedia", "Unsellable", "Free [Caravel] appears <after discovering [Astronomy]> <before discovering [Navigation]>", 
+  "Free [Privateer] appears <after discovering [Navigation]> <before discovering [Steam Power]>", 
+  "Free [Ironclad] appears <after discovering [Steam Power]> <before discovering [Combustion]>", 
+  "Free [Destroyer] appears <after discovering [Combustion]>"]
 },
   {
   "name": "Free Water unitt",
