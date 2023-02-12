@@ -45,4 +45,21 @@
   "All newly-trained [Military] units [in all cities] receive the [Reduced maintenance II] promotion <in cities with a [Windmill]>", 
   "All newly-trained [Military] units [in all cities] receive the [Reduced maintenance III] promotion <in cities with a [Factory]>"],
 },
+{
+  "name": "Rise of the Fine Arts (Elizabeth)",
+  "uniqueTo": "England",
+  "cost": 1,
+//  "replacementTextForUniques": "+10% [Culture] from all [Happiness] buildings. +5% [Culture] from all [Culture] buildings",
+  "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
+  "[+10]% [Culture] from all [Happiness] buildings", "[+5]% [Culture] from all [Culture] buildings"],
+},
+{
+  "name": "Pax Britannica (Victoria)",
+  "uniqueTo": "England",
+  "cost": 1,
+//  "replacementTextForUniques": "Provides a free Melee unit in cities on foreign continents. Provides a free Ranged Water in first 4 cities",
+  "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
+  "Provides a [Free Melee unit] in your first [999] cities for free <on foreign continents>",
+  "Provides a [Free Water unit] in your first [4] cities for free <in cities with a [Harbor]>"],
+},
 ]
