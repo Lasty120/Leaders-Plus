@@ -3,7 +3,6 @@
   "name": " ",
   "uniqueTo": "",
   "cost": 1,
-  "isNationalWonder": true,
 //  "replacementTextForUniques": "Если что сюда пишется что будет отображаться вместо uniques",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]"],
 },
@@ -59,8 +58,8 @@
   "cost": 1,
 //  "replacementTextForUniques": "Provides a free Melee unit in cities on foreign continents. Provides a free Melee Water in first 4 cities with a Harbor",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "Provides a [Free Melee unit] in your first [999] cities for free <on foreign continents>",
-  "Provides a [Free Water unit] in your first [4] cities for free <in cities with a [Harbor]>"],
+  "Gain a free [Free Melee unit] [in all cities] <on foreign continents>",
+  "Provides a [Free Water unitt] in your first [4] cities for free", "Gain a free [Free Water unit] [in all cities] <in cities with a [Harbor]> <in cities with a [Free Water unitt]>"],
 },
 {
   "name": "Free Melee unit",
@@ -74,4 +73,12 @@
   "uniques": ["Unbuildable", "Cannot be purchased", "Free [Melee Water] appears",
   "Will not be displayed in Civilopedia", "Unsellable"]
 },
+  {
+  "name": "Free Water unitt",
+  "cost": 1,
+  "uniques": ["Unbuildable", "Cannot be purchased",
+  "Will not be displayed in Civilopedia", "Unsellable"]
+},
+  {
+  },
 ]
