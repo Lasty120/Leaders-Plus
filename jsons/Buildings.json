@@ -57,9 +57,19 @@
   "name": "Pax Britannica (Victoria)",
   "uniqueTo": "England",
   "cost": 1,
-//  "replacementTextForUniques": "Provides a free Melee unit in cities on foreign continents. Provides a free Ranged Water in first 4 cities",
+//  "replacementTextForUniques": "Provides a free Melee unit in cities on foreign continents. Provides a free Melee Water in first 4 cities with a Harbor",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Provides a [Free Melee unit] in your first [999] cities for free <on foreign continents>",
-  "Provides a [Free Water unit] in your first [4] cities for free <in cities with a [Harbor]>"],
+  "Provides a [Free Water unit] in your first [4] cities for free <upon constructing [Harbor] [in this city]>"],
+},
+{
+  "name": "Free Melee unit",
+  "cost": 1,
+  "uniques": ["Free [Melee] appears"]
+},
+{
+  "name": "Free Water unit",
+  "cost": 1,
+  "uniques": ["Free [Melee Water] appears"]
 },
 ]
