@@ -65,11 +65,13 @@
 {
   "name": "Free Melee unit",
   "cost": 1,
-  "uniques": ["Free [Melee] appears"]
+  "uniques": ["Unbuildable", "Cannot be purchased", "Free [Melee] appears",
+  "Will not be displayed in Civilopedia", "Unsellable"]
 },
 {
   "name": "Free Water unit",
   "cost": 1,
-  "uniques": ["Free [Melee Water] appears"]
+  "uniques": ["Unbuildable", "Cannot be purchased", "Free [Melee Water] appears",
+  "Will not be displayed in Civilopedia", "Unsellable"]
 },
 ]
