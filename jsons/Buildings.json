@@ -22,7 +22,7 @@
   "uniqueTo": "Austria",
   "cost": 1,
   "replacementTextForUniques": "[Earn 75% of killed Military unit's Strength as [Faith] (+150% during the Medieval era)]
-[Gain 50 [Faith] upon conquering a city (+50 Faith additionally for built Shrine and Temple in this cities)]",
+[Gain 50 [Faith] upon conquering a city (+50 [Faith] additionally for built Shrine and Temple in this cities)]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Earn [75]% of killed [Military] unit's [Strength] as [Faith] <starting from the [Ancient era]> <before the [Medieval era]>",
   "Earn [150]% of killed [Military] unit's [Strength] as [Faith] <during the [Medieval era]>", "Earn [75]% of killed [Military] unit's [Strength] as [Faith] <starting from the [Renaissance era]>",
