@@ -113,7 +113,7 @@
   "uniqueTo": "Arabia",
   "cost": 1,
 //  "replacementTextForUniques": "[+100% to Flank Attack bonuses when adjacent to a [Great Prophet] unit]
-  [+30% Spread Religion Strength]",
+//  [+30% Spread Religion Strength]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "[+100]% to Flank Attack bonuses <when adjacent to a [Great Prophet] unit>", "[+30]% Spread Religion Strength"],
 },
