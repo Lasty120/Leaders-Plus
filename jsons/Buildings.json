@@ -95,4 +95,26 @@
   "uniques": ["Unbuildable", "Cannot be purchased",
   "Will not be displayed in Civilopedia", "Unsellable", "Provides a [Free Water unitt] in your first [6] cities for free"]
 },
+{
+  "name": "Righteousness (Harun Al Rashid)",
+  "uniqueTo": "Arabia",
+  "cost": 1,
+//  "replacementTextForUniques": "[-50% cost of purchasing [Faith] buildings] 
+//  [+15% [Culture], +15% [Science] from all [Faith] buildings reseived with [Faith]]",
+  "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
+  "[Faith] cost of purchasing [Faith] buildings [-50]%", "[+15]% [Culture] from every [Cathedral]",
+  "[+15]% [Science] from every [Cathedral]", [+15]% [Culture] from every [Monastery]",
+  "[+15]% [Science] from every [Monastery]", [+15]% [Culture] from every [Mosque]",
+  "[+15]% [Science] from every [Mosque]", [+15]% [Culture] from every [Pagoda]",
+  "[+15]% [Science] from every [Pagoda]"],
+},
+{
+  "name": "Victorious (Saladin)",
+  "uniqueTo": "Arabia",
+  "cost": 1,
+//  "replacementTextForUniques": "[+100% to Flank Attack bonuses when adjacent to a [Great Prophet] unit]
+  [+30% Spread Religion Strength]",
+  "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
+  "[+100]% to Flank Attack bonuses <when adjacent to a [Great Prophet] unit>", "[+30]% Spread Religion Strength"],
+},
 ]
