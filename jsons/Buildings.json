@@ -52,8 +52,8 @@
   "name": "Rise of the Fine Arts (Elizabeth)",
   "uniqueTo": "England",
   "cost": 1,
-//  "replacementTextForUniques": "[+10% [Culture] from all [Happiness] buildings]
-//  [+5% [Culture] from all [Culture] buildings]",
+  "replacementTextForUniques": "[+10% [Culture] from all [Happiness] buildings]
+[+5% [Culture] from all [Culture] buildings]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "[+10]% [Culture] from every [Colosseum]", "[+5]% [Culture] from every [Monument]",
   "[+10]% [Culture] from every [Theatre]", "[+10]% [Culture] from every [Stadium]",
@@ -64,8 +64,8 @@
   "name": "Pax Britannica (Victoria)",
   "uniqueTo": "England",
   "cost": 1,
-//  "replacementTextForUniques": "[Provides a free Melee unit in cities on foreign continents] 
-//  [Provides a free Melee Water in first 6 cities with a Harbor]",
+  "replacementTextForUniques": "[Provides a free Melee unit in cities on foreign continents] 
+[Provides a free Melee Water in first 6 cities with a Harbor]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Free [Warrior] appears <upon founding a city> <on foreign continents> <before discovering [Iron Working]>",
   "Gain a free [Free Water unit] [in capital] <in cities with a [Harbor]>", "Free [Trireme] appears <upon constructing [Free Water unitt]> <after discovering [Sailing]> <before discovering [Astronomy]>",
