@@ -103,9 +103,9 @@
 //  [+15% [Culture], +15% [Science] from all [Faith] buildings reseived with [Faith]]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "[Faith] cost of purchasing [Faith] buildings [-50]%", "[+15]% [Culture] from every [Cathedral]",
-  "[+15]% [Science] from every [Cathedral]", [+15]% [Culture] from every [Monastery]",
-  "[+15]% [Science] from every [Monastery]", [+15]% [Culture] from every [Mosque]",
-  "[+15]% [Science] from every [Mosque]", [+15]% [Culture] from every [Pagoda]",
+  "[+15]% [Science] from every [Cathedral]", "[+15]% [Culture] from every [Monastery]",
+  "[+15]% [Science] from every [Monastery]", "[+15]% [Culture] from every [Mosque]",
+  "[+15]% [Science] from every [Mosque]", "[+15]% [Culture] from every [Pagoda]",
   "[+15]% [Science] from every [Pagoda]"],
 },
 {
