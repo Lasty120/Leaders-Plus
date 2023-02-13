@@ -60,7 +60,7 @@
 //  "replacementTextForUniques": "Provides a free Melee unit in cities on foreign continents. Provides a free Melee Water in first 4 cities with a Harbor",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Free [Warrior] appears <upon founding a city> <on foreign continents>",
-  "Provides a [Free Water unitt] in your first [4] cities for free <upon discovering [Compass]>", "Free [Trireme] appears <upon constructing [Free Water unitt]> <after discovering [Sailing]> <before discovering [Astronomy]>",
+  "Gain a free [Free Water unit] [in capital] <in cities with a [Harbor]>", "Free [Trireme] appears <upon constructing [Free Water unitt]> <after discovering [Sailing]> <before discovering [Astronomy]>",
   "Free [Caravel] appears <upon constructing [Free Water unitt]> <after discovering [Astronomy]> <before discovering [Navigation]>", 
   "Free [Privateer] appears <upon constructing [Free Water unitt]> <after discovering [Navigation]> <before discovering [Steam Power]>", 
   "Free [Ironclad] appears <upon constructing [Free Water unitt]> <after discovering [Steam Power]> <before discovering [Combustion]>", 
@@ -71,5 +71,11 @@
   "cost": 1,
   "uniques": ["Unbuildable", "Cannot be purchased",
   "Will not be displayed in Civilopedia", "Unsellable"]
+},
+{
+  "name": "Free Water unit",
+  "cost": 1,
+  "uniques": ["Unbuildable", "Cannot be purchased",
+  "Will not be displayed in Civilopedia", "Unsellable", "Provides a [Free Water unitt] in your first [4] cities for free"]
 },
 ]
