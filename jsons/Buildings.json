@@ -10,7 +10,8 @@
   "name": "Landowning reforms (Maria Theresa)",
   "uniqueTo": "Austria",
   "cost": 1,
-//  "replacementTextForUniques": "+1 [Food], +1 [Gold] from every Farm in Bonus resource tiles. +1 [Food], +1 [Gold] from every Plantation in Citrus/Sugar/Wine/Spices tiles",
+//  "replacementTextForUniques": "[+1 [Food], +1 [Gold] from every Farm in Bonus resource tiles]
+//  [+1 [Food], +1 [Gold] from every Plantation in Citrus/Sugar/Wine/Spices tiles]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "[+1 Food, +1 Gold] from every [Farm] <in [Bonus resource] tiles>", "[+1 Food, +1 Gold] from every [Plantation] <in [Sugar] tiles>",
   "[+1 Food, +1 Gold] from every [Plantation] <in [Citrus] tiles>", "[+1 Food, +1 Gold] from every [Plantation] <in [Spices] tiles>", 
@@ -20,7 +21,8 @@
   "name": "King of the Habsburgs (Otakar II)",
   "uniqueTo": "Austria",
   "cost": 1,
-//  "replacementTextForUniques": "Earn 75% of killed Military unit's Strength as [Faith] (+150% during the Medieval era). Gain 50 [Faith] upon conquering a city (+50 Faith additionally for built Shrine and Temple in cities)",
+//  "replacementTextForUniques": "[Earn 75% of killed Military unit's Strength as [Faith] (+150% during the Medieval era)]
+//  [Gain 50 [Faith] upon conquering a city (+50 Faith additionally for built Shrine and Temple in this cities)]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Earn [75]% of killed [Military] unit's [Strength] as [Faith] <starting from the [Ancient era]> <before the [Medieval era]>",
   "Earn [150]% of killed [Military] unit's [Strength] as [Faith] <during the [Medieval era]>", "Earn [75]% of killed [Military] unit's [Strength] as [Faith] <starting from the [Renaissance era]>",
@@ -39,7 +41,8 @@
   "name": "Union Guardian (Abraham Lincoln)",
   "uniqueTo": "America",
   "cost": 1,
-//  "replacementTextForUniques": "+1 [Happiness] from all [Production] buildings. Production buildings provide -25% maintenance cost for all newly-trained Military units.",
+//  "replacementTextForUniques": "[+1 [Happiness] from all [Production] buildings]
+//   [Production buildings provide -25% maintenance cost for all newly-trained Military units]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "[+1 Happiness] from all [Production] buildings", "All newly-trained [Military] units [in all cities] receive the [Reduced maintenance I] promotion <in cities with a [Workshop]>",
   "All newly-trained [Military] units [in all cities] receive the [Reduced maintenance II] promotion <in cities with a [Windmill]>", 
@@ -49,7 +52,8 @@
   "name": "Rise of the Fine Arts (Elizabeth)",
   "uniqueTo": "England",
   "cost": 1,
-//  "replacementTextForUniques": "+10% [Culture] from all [Happiness] buildings. +5% [Culture] from all [Culture] buildings",
+//  "replacementTextForUniques": "[+10% [Culture] from all [Happiness] buildings]
+//  [+5% [Culture] from all [Culture] buildings]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "[+10]% [Culture] from all [Happiness] buildings", "[+5]% [Culture] from all [Culture] buildings"],
 },
@@ -57,7 +61,8 @@
   "name": "Pax Britannica (Victoria)",
   "uniqueTo": "England",
   "cost": 1,
-//  "replacementTextForUniques": "Provides a free Melee unit in cities on foreign continents. Provides a free Melee Water in first 4 cities with a Harbor",
+//  "replacementTextForUniques": "[Provides a free Melee unit in cities on foreign continents] 
+//  [Provides a free Melee Water in first 4 cities with a Harbor]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Free [Warrior] appears <upon founding a city> <on foreign continents>",
   "Gain a free [Free Water unit] [in capital] <in cities with a [Harbor]>", "Free [Trireme] appears <upon constructing [Free Water unitt]> <after discovering [Sailing]> <before discovering [Astronomy]>",
