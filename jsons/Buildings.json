@@ -10,8 +10,8 @@
   "name": "Landowning reforms (Maria Theresa)",
   "uniqueTo": "Austria",
   "cost": 1,
-//  "replacementTextForUniques": "[+1 [Food], +1 [Gold] from every Farm in Bonus resource tiles]
-//  [+1 [Food], +1 [Gold] from every Plantation in Citrus/Sugar/Wine/Spices tiles]",
+  "replacementTextForUniques": "[+1 [Food], +1 [Gold] from every Farm in Bonus resource tiles]
+[+1 [Food], +1 [Gold] from every Plantation in Citrus/Sugar/Wine/Spices tiles]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "[+1 Food, +1 Gold] from every [Farm] <in [Bonus resource] tiles>", "[+1 Food, +1 Gold] from every [Plantation] <in [Sugar] tiles>",
   "[+1 Food, +1 Gold] from every [Plantation] <in [Citrus] tiles>", "[+1 Food, +1 Gold] from every [Plantation] <in [Spices] tiles>", 
@@ -21,8 +21,8 @@
   "name": "King of the Habsburgs (Otakar II)",
   "uniqueTo": "Austria",
   "cost": 1,
-//  "replacementTextForUniques": "[Earn 75% of killed Military unit's Strength as [Faith] (+150% during the Medieval era)]
-//  [Gain 50 [Faith] upon conquering a city (+50 Faith additionally for built Shrine and Temple in this cities)]",
+  "replacementTextForUniques": "[Earn 75% of killed Military unit's Strength as [Faith] (+150% during the Medieval era)]
+[Gain 50 [Faith] upon conquering a city (+50 Faith additionally for built Shrine and Temple in this cities)]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Earn [75]% of killed [Military] unit's [Strength] as [Faith] <starting from the [Ancient era]> <before the [Medieval era]>",
   "Earn [150]% of killed [Military] unit's [Strength] as [Faith] <during the [Medieval era]>", "Earn [75]% of killed [Military] unit's [Strength] as [Faith] <starting from the [Renaissance era]>",
@@ -32,8 +32,8 @@
   "name": "Founder of America (George Washington)",
   "uniqueTo": "America",
   "cost": 1,
-//  "replacementTextForUniques": "[+15% Strength when fighting in Friendly Land tiles] 
-//  [+25% Strength for cities when defending]",
+  "replacementTextForUniques": "[+15% Strength when fighting in Friendly Land tiles] 
+[+25% Strength for cities when defending]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "[+15]% Strength <when fighting in [Friendly Land] tiles>", "[+25]% Strength for cities <when defending>"],
 },
@@ -41,8 +41,8 @@
   "name": "Union Guardian (Abraham Lincoln)",
   "uniqueTo": "America",
   "cost": 1,
-//  "replacementTextForUniques": "[+1 [Happiness] from all [Production] buildings]
-//   [Production buildings provide -25% maintenance cost for all newly-trained Military units]",
+  "replacementTextForUniques": "[+1 [Happiness] from all [Production] buildings]
+[Production buildings provide -25% maintenance cost for all newly-trained Military units]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "[+1 Happiness] from all [Production] buildings", "All newly-trained [Military] units [in all cities] receive the [Reduced maintenance I] promotion <in cities with a [Workshop]>",
   "All newly-trained [Military] units [in all cities] receive the [Reduced maintenance II] promotion <in cities with a [Windmill]>", 
@@ -55,21 +55,31 @@
 //  "replacementTextForUniques": "[+10% [Culture] from all [Happiness] buildings]
 //  [+5% [Culture] from all [Culture] buildings]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "[+10]% [Culture] from all [Happiness] buildings", "[+5]% [Culture] from all [Culture] buildings"],
+  "[+10]% [Culture] from every [Colosseum]", "[+5]% [Culture] from every [Monument]",
+  "[+10]% [Culture] from every [Theatre]", "[+10]% [Culture] from every [Stadium]",
+  "[+5]% [Culture] from every [Amphitheater]", "[+5]% [Culture] from every [Opera House]",
+  "[+5]% [Culture] from every [Museum]", "[+5]% [Culture] from every [Broadcast Tower]"],
 },
 {
   "name": "Pax Britannica (Victoria)",
   "uniqueTo": "England",
   "cost": 1,
 //  "replacementTextForUniques": "[Provides a free Melee unit in cities on foreign continents] 
-//  [Provides a free Melee Water in first 4 cities with a Harbor]",
+//  [Provides a free Melee Water in first 6 cities with a Harbor]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "Free [Warrior] appears <upon founding a city> <on foreign continents>",
+  "Free [Warrior] appears <upon founding a city> <on foreign continents> <before discovering [Iron Working]>",
   "Gain a free [Free Water unit] [in capital] <in cities with a [Harbor]>", "Free [Trireme] appears <upon constructing [Free Water unitt]> <after discovering [Sailing]> <before discovering [Astronomy]>",
   "Free [Caravel] appears <upon constructing [Free Water unitt]> <after discovering [Astronomy]> <before discovering [Navigation]>", 
   "Free [Privateer] appears <upon constructing [Free Water unitt]> <after discovering [Navigation]> <before discovering [Steam Power]>", 
   "Free [Ironclad] appears <upon constructing [Free Water unitt]> <after discovering [Steam Power]> <before discovering [Combustion]>", 
-  "Free [Destroyer] appears <upon constructing [Free Water unitt]> <after discovering [Combustion]>"],
+  "Free [Destroyer] appears <upon constructing [Free Water unitt]> <after discovering [Combustion]>",
+  "Free [Swordsman] appears <upon founding a city> <on foreign continents> <before discovering [Steel]> <after discovering [Iron Working]>",
+  "Free [Longswordsman] appears <upon founding a city> <on foreign continents> <before discovering [Gunpowder]> <after discovering [Steel]>",
+  "Free [Musketman] appears <upon founding a city> <on foreign continents> <before discovering [Rifling]> <after discovering [Gunpowder]>",
+  "Free [Rifleman] appears <upon founding a city> <on foreign continents> <before discovering [Replaceable Parts]> <after discovering [Rifling]>",
+  "Free [Great War Infantry] appears <upon founding a city> <on foreign continents> <before discovering [Plastics]> <after discovering [Replaceable Parts]>",
+  "Free [Infantry] appears <upon founding a city> <on foreign continents> <before discovering [Mobile Tactics]> <after discovering [Plastics]>",
+  "Free [Mechanized Infantry] appears <upon founding a city> <on foreign continents> <after discovering [Mobile Tactics]>"],
 },
   {
   "name": "Free Water unitt",
@@ -81,6 +91,6 @@
   "name": "Free Water unit",
   "cost": 1,
   "uniques": ["Unbuildable", "Cannot be purchased",
-  "Will not be displayed in Civilopedia", "Unsellable", "Provides a [Free Water unitt] in your first [4] cities for free"]
+  "Will not be displayed in Civilopedia", "Unsellable", "Provides a [Free Water unitt] in your first [6] cities for free"]
 },
 ]
