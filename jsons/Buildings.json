@@ -169,8 +169,7 @@
   "name": "2 Workers1",
   "cost": 70,
 //  "replacementTextForUniques": "2 Free Workers",
-  "uniques": ["Unbuildable", "Cannot be purchased",
-  "Will not be displayed in Civilopedia", "Unsellable",
+  "uniques": ["Will not be displayed in Civilopedia", "Unsellable",
   "[2] free [Worker] units appear", "Consumes [1] [Worker limit] <before the [Medieval era]>",
   "Only available <with [Worker limit]>", "Only available <starting from the [Classical era]> <before the [Medieval era]>"]
 },
@@ -178,8 +177,7 @@
   "name": "2 Workers2",
   "cost": 70,
 //  "replacementTextForUniques": "2 Free Workers",
-  "uniques": ["Unbuildable", "Cannot be purchased",
-  "Will not be displayed in Civilopedia", "Unsellable",
+  "uniques": ["Will not be displayed in Civilopedia", "Unsellable",
   "[2] free [Worker] units appear", "Consumes [1] [Worker limit] <before the [Renaissance era]>",
   "Only available <with [Worker limit]>", "Only available <starting from the [Medieval era]> <before the [Renaissance era]>"]
 },
@@ -187,8 +185,7 @@
   "name": "2 Workers3",
   "cost": 70,
 //  "replacementTextForUniques": "2 Free Workers",
-  "uniques": ["Unbuildable", "Cannot be purchased",
-  "Will not be displayed in Civilopedia", "Unsellable",
+  "uniques": ["Will not be displayed in Civilopedia", "Unsellable",
   "[2] free [Worker] units appear", "Consumes [1] [Worker limit] <before the [Industrial era]>",
   "Only available <with [Worker limit]>", "Only available <starting from the [Renaissance era]> <before the [Industrial era]>"]
 },
@@ -196,8 +193,7 @@
   "name": "2 Workers4",
   "cost": 70,
 //  "replacementTextForUniques": "2 Free Workers",
-  "uniques": ["Unbuildable", "Cannot be purchased",
-  "Will not be displayed in Civilopedia", "Unsellable",
+  "uniques": ["Will not be displayed in Civilopedia", "Unsellable",
   "[2] free [Worker] units appear", "Consumes [1] [Worker limit] <before the [Modern era]>",
   "Only available <with [Worker limit]>", "Only available <starting from the [Industrial era]> <before the [Modern era]>"]
 },
@@ -205,8 +201,7 @@
   "name": "2 Workers5",
   "cost": 70,
 //  "replacementTextForUniques": "2 Free Workers",
-  "uniques": ["Unbuildable", "Cannot be purchased",
-  "Will not be displayed in Civilopedia", "Unsellable",
+  "uniques": ["Will not be displayed in Civilopedia", "Unsellable",
   "[2] free [Worker] units appear", "Consumes [1] [Worker limit] <before the [Atomic era]>",
   "Only available <with [Worker limit]>", "Only available <starting from the [Modern era]> <before the [Atomic era]>"]
 },
@@ -214,8 +209,7 @@
   "name": "2 Workers6",
   "cost": 70,
 //  "replacementTextForUniques": "2 Free Workers",
-  "uniques": ["Unbuildable", "Cannot be purchased",
-  "Will not be displayed in Civilopedia", "Unsellable",
+  "uniques": ["Will not be displayed in Civilopedia", "Unsellable",
   "[2] free [Worker] units appear", "Consumes [1] [Worker limit] <before the [Information era]>",
   "Only available <with [Worker limit]>", "Only available <starting from the [Atomic era]> <before the [Information era]>"]
 },
@@ -223,8 +217,7 @@
   "name": "2 Workers7",
   "cost": 70,
 //  "replacementTextForUniques": "2 Free Workers",
-  "uniques": ["Unbuildable", "Cannot be purchased",
-  "Will not be displayed in Civilopedia", "Unsellable",
+  "uniques": ["Will not be displayed in Civilopedia", "Unsellable",
   "[2] free [Worker] units appear", "Consumes [1] [Worker limit]",
   "Only available <with [Worker limit]>", "Only available <starting from the [Information era]>"]
 }
