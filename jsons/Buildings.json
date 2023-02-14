@@ -117,4 +117,29 @@
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "[+100]% to Flank Attack bonuses <when adjacent to a [Great Prophet] unit>", "[+30]% Spread Religion Strength"],
 },
+{
+  "name": "Gifts for Tlatoani (Montezuma I)",
+  "uniqueTo": "Aztecs",
+  "cost": 1,
+//  "replacementTextForUniques": "[+1 Happiness from each type of luxury resource]
+//  [+3% Strength from each type of luxury resource]",
+  "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
+  "[+1] Happiness from each type of luxury resource", "[+3]% Strength <with [Citrus]>", "[+3]% Strength <with [Copper]>", 
+  "[+3]% Strength <with [Cotton]>", "[+3]% Strength <with [Crab]>","[+3]% Strength <with [Dyes]>","[+3]% Strength <with [Furs]>",
+  "[+3]% Strength <with [Gems]>","[+3]% Strength <with [Gold Ore]>","[+3]% Strength <with [Incense]>","[+3]% Strength <with [Ivory]>",
+  "[+3]% Strength <with [Jewelry]>","[+3]% Strength <with [Marble]>","[+3]% Strength <with [Pearls]>","[+3]% Strength <with [Porcelain]>",
+  "[+3]% Strength <with [Salt]>","[+3]% Strength <with [Silk]>","[+3]% Strength <with [Silver]>","[+3]% Strength <with [Spices]>",
+  "[+3]% Strength <with [Sugar]>","[+3]% Strength <with [Truffles]>","[+3]% Strength <with [Whales]>","[+3]% Strength <with [Wine]>",
+  "[+3]% Strength <with [Aport]>","[+3]% Strength <with [Purple Glass]>",],
+},
+{
+  "name": "Great Baray (Ahuizotl)",
+  "uniqueTo": "Aztecs",
+  "cost": 1,
+//  "replacementTextForUniques": "[Melee units heals 25 damage if kills a unit]
+//  [+20% Strength when fighting in Forest or Jungle tiles]",
+  "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
+  "Heals [25] damage if it kills a unit <for [Melee] units>", "[+20]% Strength <when fighting in [Jungle] tiles>",
+  "[+20]% Strength <when fighting in [Forest] tiles>"],
+},
 ]
