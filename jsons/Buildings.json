@@ -160,6 +160,12 @@
   "cost": 1,
 //  "replacementTextForUniques": "",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  ""],
+  "Provides"],
+},
+{
+  "name": "2 Free Workers",
+  "cost": 1,
+  "uniques": ["Unbuildable", "Cannot be purchased",
+  "Will not be displayed in Civilopedia", "Unsellable"]
 },
 ]
