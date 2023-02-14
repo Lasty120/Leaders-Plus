@@ -4,4 +4,9 @@
 		"resourceType": "Bonus",
 		"uniques": ["Will not be displayed in Civilopedia"]
 	},
+{
+		"name": "Worker limit",
+		"resourceType": "Bonus",
+		"uniques": ["Will not be displayed in Civilopedia"]
+	},
 ]
