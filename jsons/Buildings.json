@@ -163,7 +163,10 @@
   "Provides [1] [Worker limit]", "[-10]% Production when constructing [2 Workers1] buildings [in all cities] <in cities with a [Windmill]>",
   "[-10]% Production when constructing [2 Workers2] buildings [in all cities] <in cities with a [Windmill]>", "[-10]% Production when constructing [2 Workers3] buildings [in all cities] <in cities with a [Windmill]>",
   "[-10]% Production when constructing [2 Workers4] buildings [in all cities] <in cities with a [Windmill]>", "[-10]% Production when constructing [2 Workers5] buildings [in all cities] <in cities with a [Windmill]>",
-  "[-10]% Production when constructing [2 Workers6] buildings [in all cities] <in cities with a [Windmill]>", "[-10]% Production when constructing [2 Workers7] buildings [in all cities] <in cities with a [Windmill]>",],
+  "[-10]% Production when constructing [2 Workers6] buildings [in all cities] <in cities with a [Windmill]>", "[-10]% Production when constructing [2 Workers7] buildings [in all cities] <in cities with a [Windmill]>",
+  "Provides [1] [Leader limit] <in cities with a [2 Worker1]> <starting from the [Medieval era]>", "Provides [1] [Leader limit] <in cities with a [2 Worker2]> <starting from the [Renaissance era]>",
+  "Provides [1] [Leader limit] <in cities with a [2 Worker3]> <starting from the [Industrial era]>", "Provides [1] [Leader limit] <in cities with a [2 Worker4]> <starting from the [Modern era]>",
+  "Provides [1] [Leader limit] <in cities with a [2 Worker5]> <starting from the [Atomic era]>", "Provides [1] [Leader limit] <in cities with a [2 Worker6]> <starting from the [Information era]>"],
 },
 {
   "name": "2 Workers1",
