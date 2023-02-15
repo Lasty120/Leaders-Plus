@@ -145,8 +145,8 @@
   "name": "Rabum abu (Nebuchadnezzar II)",
   "uniqueTo": "Babylon",
   "cost": 1,
-//  "replacementTextForUniques": "[+1 [Gold] from all buildings from Ancient and Classical era that require maintenance, but -20% Production when constructing All buildings during the Ancient and Classical era]
-//  [Upon capturing a city, receive 3 times its [Gold] production as [Faith] immediately]",
+  "replacementTextForUniques": "[+1 [Gold] from all buildings from Ancient and Classical era that require maintenance, but -20% Production when constructing All buildings during the Ancient and Classical era]
+  [Upon capturing a city, receive 3 times its [Gold] production as [Faith] immediately]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "[-20]% Production when constructing [All] buildings [in all cities] <starting from the [Ancient era]> <before the [Classical era]>", "[+1 Gold] from every [Monument]",
   "[+1 Gold] from every [Granary]","[+1 Gold] from every [Shrine]","[+1 Gold] from every [Library]","[+1 Gold] from every [Stone Works]",
@@ -158,7 +158,8 @@
   "name": "When Great Anu... (Hammurabi)",
   "uniqueTo": "Babylon",
   "cost": 1,
-//  "replacementTextForUniques": "",
+  "replacementTextForUniques": "[When built a worker for the first time gets the second for free starting from the Classical era]
+  [This effect is updates every era]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Provides [1] [Worker limit]", "[-10]% Production when constructing [2 Workers1] buildings [in all cities] <in cities with a [Windmill]>",
   "[-10]% Production when constructing [2 Workers2] buildings [in all cities] <in cities with a [Windmill]>", "[-10]% Production when constructing [2 Workers3] buildings [in all cities] <in cities with a [Windmill]>",
@@ -168,7 +169,7 @@
 {
   "name": "2 Workers1",
   "cost": 70,
-//  "replacementTextForUniques": "2 Free Workers",
+  "replacementTextForUniques": "2 Free Workers",
   "uniques": ["Will not be displayed in Civilopedia", "Unsellable",
   "[2] free [Worker] units appear", "Consumes [1] [Worker limit]", "Provides [1] [Worker limit] <starting from the [Medieval era]>",
   "Only available <with [Worker limit]>", "Only available <starting from the [Classical era]> <before the [Medieval era]>"]
@@ -176,7 +177,7 @@
 {
   "name": "2 Workers2",
   "cost": 70,
-//  "replacementTextForUniques": "2 Free Workers",
+  "replacementTextForUniques": "2 Free Workers",
   "uniques": ["Will not be displayed in Civilopedia", "Unsellable", "Provides [1] [Worker limit] <starting from the [Renaissance era]>",
   "[2] free [Worker] units appear", "Consumes [1] [Worker limit] <before the [Renaissance era]>",
   "Only available <with [Worker limit]>", "Only available <starting from the [Medieval era]> <before the [Renaissance era]>"]
@@ -184,7 +185,7 @@
 {
   "name": "2 Workers3",
   "cost": 70,
-//  "replacementTextForUniques": "2 Free Workers",
+  "replacementTextForUniques": "2 Free Workers",
   "uniques": ["Will not be displayed in Civilopedia", "Unsellable","Provides [1] [Worker limit] <starting from the [Industrial era]>",
   "[2] free [Worker] units appear", "Consumes [1] [Worker limit] <before the [Industrial era]>",
   "Only available <with [Worker limit]>", "Only available <starting from the [Renaissance era]> <before the [Industrial era]>"]
@@ -192,7 +193,7 @@
 {
   "name": "2 Workers4",
   "cost": 70,
-//  "replacementTextForUniques": "2 Free Workers",
+  "replacementTextForUniques": "2 Free Workers",
   "uniques": ["Will not be displayed in Civilopedia", "Unsellable","Provides [1] [Worker limit] <starting from the [Modern era]>",
   "[2] free [Worker] units appear", "Consumes [1] [Worker limit] <before the [Modern era]>",
   "Only available <with [Worker limit]>", "Only available <starting from the [Industrial era]> <before the [Modern era]>"]
@@ -200,7 +201,7 @@
 {
   "name": "2 Workers5",
   "cost": 70,
-//  "replacementTextForUniques": "2 Free Workers",
+  "replacementTextForUniques": "2 Free Workers",
   "uniques": ["Will not be displayed in Civilopedia", "Unsellable","Provides [1] [Worker limit] <starting from the [Atomic era]>",
   "[2] free [Worker] units appear", "Consumes [1] [Worker limit] <before the [Atomic era]>",
   "Only available <with [Worker limit]>", "Only available <starting from the [Modern era]> <before the [Atomic era]>"]
@@ -208,7 +209,7 @@
 {
   "name": "2 Workers6",
   "cost": 70,
-//  "replacementTextForUniques": "2 Free Workers",
+  "replacementTextForUniques": "2 Free Workers",
   "uniques": ["Will not be displayed in Civilopedia", "Unsellable","Provides [1] [Worker limit] <starting from the [Information era]>",
   "[2] free [Worker] units appear", "Consumes [1] [Worker limit] <before the [Information era]>",
   "Only available <with [Worker limit]>", "Only available <starting from the [Atomic era]> <before the [Information era]>"]
@@ -216,7 +217,7 @@
 {
   "name": "2 Workers7",
   "cost": 70,
-//  "replacementTextForUniques": "2 Free Workers",
+  "replacementTextForUniques": "2 Free Workers",
   "uniques": ["Will not be displayed in Civilopedia", "Unsellable","Provides [1] [Worker limit]",
   "[2] free [Worker] units appear", "Consumes [1] [Worker limit]",
   "Only available <with [Worker limit]>", "Only available <starting from the [Information era]>"]
