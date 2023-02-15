@@ -146,7 +146,7 @@
   "uniqueTo": "Babylon",
   "cost": 1,
   "replacementTextForUniques": "[+1 [Gold] from all buildings from Ancient and Classical era that require maintenance, but -20% Production when constructing All buildings during the Ancient and Classical era]
-  [Upon capturing a city, receive 3 times its [Gold] production as [Faith] immediately]",
+[Upon capturing a city, receive 3 times its [Gold] production as [Faith] immediately]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "[-20]% Production when constructing [All] buildings [in all cities] <starting from the [Ancient era]> <before the [Classical era]>", "[+1 Gold] from every [Monument]",
   "[+1 Gold] from every [Granary]","[+1 Gold] from every [Shrine]","[+1 Gold] from every [Library]","[+1 Gold] from every [Stone Works]",
@@ -159,7 +159,7 @@
   "uniqueTo": "Babylon",
   "cost": 1,
   "replacementTextForUniques": "[When built a worker for the first time gets the second for free starting from the Classical era]
-  [This effect is updates every era]",
+[This effect is updates every era]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Provides [1] [Worker limit]", "[-10]% Production when constructing [2 Workers1] buildings [in all cities] <in cities with a [Windmill]>",
   "[-10]% Production when constructing [2 Workers2] buildings [in all cities] <in cities with a [Windmill]>", "[-10]% Production when constructing [2 Workers3] buildings [in all cities] <in cities with a [Windmill]>",
