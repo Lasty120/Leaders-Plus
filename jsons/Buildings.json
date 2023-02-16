@@ -4,7 +4,8 @@
   "uniqueTo": "",
   "cost": 1,
 //  "replacementTextForUniques": "Если что сюда пишется что будет отображаться вместо uniques",
-  "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]"],
+  "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
+  "Destroyed when the city is captured"],
 },
 {
   "name": "Landowning reforms (Maria Theresa)",
@@ -15,7 +16,7 @@
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "[+1 Food, +1 Gold] from every [Farm] <in [Bonus resource] tiles>", "[+1 Food, +1 Gold] from every [Plantation] <in [Sugar] tiles>",
   "[+1 Food, +1 Gold] from every [Plantation] <in [Citrus] tiles>", "[+1 Food, +1 Gold] from every [Plantation] <in [Spices] tiles>", 
-  "[+1 Food, +1 Gold] from every [Plantation] <in [Wine] tiles>"],
+  "[+1 Food, +1 Gold] from every [Plantation] <in [Wine] tiles>", "Destroyed when the city is captured"],
 },
 {
   "name": "King of the Habsburgs (Otakar II)",
@@ -26,7 +27,8 @@
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Earn [75]% of killed [Military] unit's [Strength] as [Faith] <starting from the [Ancient era]> <before the [Medieval era]>",
   "Earn [150]% of killed [Military] unit's [Strength] as [Faith] <during the [Medieval era]>", "Earn [75]% of killed [Military] unit's [Strength] as [Faith] <starting from the [Renaissance era]>",
-  "Gain [50] [Faith] <upon conquering a city>", "Gain [50] [Faith] <upon conquering a city> <in cities with a [Shrine]>", "Gain [50] [Faith] <upon conquering a city> <in cities with a [Temple]>"],
+  "Gain [50] [Faith] <upon conquering a city>", "Gain [50] [Faith] <upon conquering a city> <in cities with a [Shrine]>", "Gain [50] [Faith] <upon conquering a city> <in cities with a [Temple]>",
+  "Destroyed when the city is captured"],
 },
 {
   "name": "Founder of America (George Washington)",
@@ -35,7 +37,8 @@
   "replacementTextForUniques": "[+15% Strength when fighting in Friendly Land tiles] 
 [+25% Strength for cities when defending]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "[+15]% Strength <when fighting in [Friendly Land] tiles>", "[+25]% Strength for cities <when defending>"],
+  "[+15]% Strength <when fighting in [Friendly Land] tiles>", "[+25]% Strength for cities <when defending>",
+  "Destroyed when the city is captured"],
 },
 {
   "name": "Union Guardian (Abraham Lincoln)",
@@ -48,7 +51,8 @@
   "All newly-trained [Military] units [in all cities] receive the [Reduced maintenance II] promotion <in cities with a [Windmill]>", 
   "All newly-trained [Military] units [in all cities] receive the [Reduced maintenance III] promotion <in cities with a [Factory]>",
   "All newly-trained [Military] units [in all cities] receive the [Reduced maintenance II] promotion <in cities with a [Solar Plant]>",
-  "All newly-trained [Military] units [in all cities] receive the [Reduced maintenance II] promotion <in cities with a [Nuclear Plant]>"],
+  "All newly-trained [Military] units [in all cities] receive the [Reduced maintenance II] promotion <in cities with a [Nuclear Plant]>",
+  "Destroyed when the city is captured"],
 },
 {
   "name": "Rise of the Fine Arts (Elizabeth)",
@@ -60,7 +64,8 @@
   "[+10]% [Culture] from every [Colosseum]", "[+5]% [Culture] from every [Monument]",
   "[+10]% [Culture] from every [Theatre]", "[+10]% [Culture] from every [Stadium]",
   "[+5]% [Culture] from every [Amphitheater]", "[+5]% [Culture] from every [Opera House]",
-  "[+5]% [Culture] from every [Museum]", "[+5]% [Culture] from every [Broadcast Tower]"],
+  "[+5]% [Culture] from every [Museum]", "[+5]% [Culture] from every [Broadcast Tower]",
+  "Destroyed when the city is captured"],
 },
 {
   "name": "Pax Britannica (Victoria)",
@@ -81,19 +86,20 @@
   "Free [Rifleman] appears <upon founding a city> <on foreign continents> <before discovering [Replaceable Parts]> <after discovering [Rifling]>",
   "Free [Great War Infantry] appears <upon founding a city> <on foreign continents> <before discovering [Plastics]> <after discovering [Replaceable Parts]>",
   "Free [Infantry] appears <upon founding a city> <on foreign continents> <before discovering [Mobile Tactics]> <after discovering [Plastics]>",
-  "Free [Mechanized Infantry] appears <upon founding a city> <on foreign continents> <after discovering [Mobile Tactics]>"],
+  "Free [Mechanized Infantry] appears <upon founding a city> <on foreign continents> <after discovering [Mobile Tactics]>", "Destroyed when the city is captured"],
 },
   {
   "name": "Free Water unitt",
   "cost": 1,
   "uniques": ["Unbuildable", "Cannot be purchased",
-  "Will not be displayed in Civilopedia", "Unsellable"]
+  "Will not be displayed in Civilopedia", "Unsellable", "Destroyed when the city is captured"]
 },
 {
   "name": "Free Water unit",
   "cost": 1,
   "uniques": ["Unbuildable", "Cannot be purchased",
-  "Will not be displayed in Civilopedia", "Unsellable", "Provides a [Free Water unitt] in your first [6] cities for free"]
+  "Will not be displayed in Civilopedia", "Unsellable", "Provides a [Free Water unitt] in your first [6] cities for free",
+  "Destroyed when the city is captured"]
 },
 {
   "name": "Righteousness (Harun Al Rashid)",
@@ -106,7 +112,7 @@
   "[+15]% [Science] from every [Cathedral]", "[+15]% [Culture] from every [Monastery]",
   "[+15]% [Science] from every [Monastery]", "[+15]% [Culture] from every [Mosque]",
   "[+15]% [Science] from every [Mosque]", "[+15]% [Culture] from every [Pagoda]",
-  "[+15]% [Science] from every [Pagoda]"],
+  "[+15]% [Science] from every [Pagoda]", "Destroyed when the city is captured"],
 },
 {
   "name": "Victorious (Saladin)",
@@ -115,7 +121,8 @@
   "replacementTextForUniques": "[+100% to Flank Attack bonuses when adjacent to a [Great Prophet] unit]
 [+30% Spread Religion Strength]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "[+100]% to Flank Attack bonuses <when adjacent to a [Great Prophet] unit>", "[+30]% Spread Religion Strength"],
+  "[+100]% to Flank Attack bonuses <when adjacent to a [Great Prophet] unit>", "[+30]% Spread Religion Strength",
+  "Destroyed when the city is captured"],
 },
 {
   "name": "Gifts for Tlatoani (Montezuma I)",
@@ -129,7 +136,8 @@
   "[+3]% Strength <with [Gems]>","[+3]% Strength <with [Gold Ore]>","[+3]% Strength <with [Incense]>","[+3]% Strength <with [Ivory]>",
   "[+3]% Strength <with [Jewelry]>","[+3]% Strength <with [Marble]>","[+3]% Strength <with [Pearls]>","[+3]% Strength <with [Porcelain]>",
   "[+3]% Strength <with [Salt]>","[+3]% Strength <with [Silk]>","[+3]% Strength <with [Silver]>","[+3]% Strength <with [Spices]>",
-  "[+3]% Strength <with [Sugar]>","[+3]% Strength <with [Truffles]>","[+3]% Strength <with [Whales]>","[+3]% Strength <with [Wine]>"],
+  "[+3]% Strength <with [Sugar]>","[+3]% Strength <with [Truffles]>","[+3]% Strength <with [Whales]>","[+3]% Strength <with [Wine]>",
+  "Destroyed when the city is captured"],
 },
 {
   "name": "Great Baray (Ahuizotl)",
@@ -139,7 +147,7 @@
 [+20% Strength when fighting in Forest or Jungle tiles]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Heals [25] damage if it kills a unit <for [Melee] units>", "[+20]% Strength <when fighting in [Jungle] tiles>",
-  "[+20]% Strength <when fighting in [Forest] tiles>"],
+  "[+20]% Strength <when fighting in [Forest] tiles>", "Destroyed when the city is captured"],
 },
 {
   "name": "Rabum abu (Nebuchadnezzar II)",
@@ -152,7 +160,8 @@
   "[+1 Gold] from every [Granary]","[+1 Gold] from every [Shrine]","[+1 Gold] from every [Library]","[+1 Gold] from every [Stone Works]",
   "[+1 Gold] from every [Lighthouse]","[+1 Gold] from every [Temple]","[+1 Gold] from every [Amphitheater]","[+1 Gold] from every [Water Mill]",
   "[+1 Gold] from every [Stable]","[+1 Gold] from every [Courthouse]","[+1 Gold] from every [Barracks]","[+1 Gold] from every [Colosseum]",
-  "[+1 Gold] from every [Aqueduct]", "Upon capturing a city, receive [3] times its [Gold] production as [Faith] immediately"],
+  "[+1 Gold] from every [Aqueduct]", "Upon capturing a city, receive [3] times its [Gold] production as [Faith] immediately",
+  "Destroyed when the city is captured"],
 },
 {
   "name": "When Great Anu... (Hammurabi)",
@@ -164,7 +173,8 @@
   "Provides [1] [Worker limit]", "[-10]% Production when constructing [2 Workers1] buildings [in all cities] <in cities with a [Windmill]>",
   "[-10]% Production when constructing [2 Workers2] buildings [in all cities] <in cities with a [Windmill]>", "[-10]% Production when constructing [2 Workers3] buildings [in all cities] <in cities with a [Windmill]>",
   "[-10]% Production when constructing [2 Workers4] buildings [in all cities] <in cities with a [Windmill]>", "[-10]% Production when constructing [2 Workers5] buildings [in all cities] <in cities with a [Windmill]>",
-  "[-10]% Production when constructing [2 Workers6] buildings [in all cities] <in cities with a [Windmill]>", "[-10]% Production when constructing [2 Workers7] buildings [in all cities] <in cities with a [Windmill]>"],
+  "[-10]% Production when constructing [2 Workers6] buildings [in all cities] <in cities with a [Windmill]>", "[-10]% Production when constructing [2 Workers7] buildings [in all cities] <in cities with a [Windmill]>",
+  "Destroyed when the city is captured"],
 },
 {
   "name": "2 Workers1",
@@ -172,7 +182,8 @@
   "replacementTextForUniques": "2 Free Workers",
   "uniques": ["Will not be displayed in Civilopedia", "Unsellable",
   "[2] free [Worker] units appear", "Consumes [1] [Worker limit]", "Provides [1] [Worker limit] <starting from the [Medieval era]>",
-  "Only available <with [Worker limit]>", "Only available <starting from the [Classical era]> <before the [Medieval era]>"]
+  "Only available <with [Worker limit]>", "Only available <starting from the [Classical era]> <before the [Medieval era]>",
+  "Destroyed when the city is captured"]
 },
 {
   "name": "2 Workers2",
@@ -180,7 +191,8 @@
   "replacementTextForUniques": "2 Free Workers",
   "uniques": ["Will not be displayed in Civilopedia", "Unsellable", "Provides [1] [Worker limit] <starting from the [Renaissance era]>",
   "[2] free [Worker] units appear", "Consumes [1] [Worker limit] <before the [Renaissance era]>",
-  "Only available <with [Worker limit]>", "Only available <starting from the [Medieval era]> <before the [Renaissance era]>"]
+  "Only available <with [Worker limit]>", "Only available <starting from the [Medieval era]> <before the [Renaissance era]>",
+  "Destroyed when the city is captured"]
 },
 {
   "name": "2 Workers3",
@@ -188,14 +200,15 @@
   "replacementTextForUniques": "2 Free Workers",
   "uniques": ["Will not be displayed in Civilopedia", "Unsellable","Provides [1] [Worker limit] <starting from the [Industrial era]>",
   "[2] free [Worker] units appear", "Consumes [1] [Worker limit] <before the [Industrial era]>",
-  "Only available <with [Worker limit]>", "Only available <starting from the [Renaissance era]> <before the [Industrial era]>"]
+  "Only available <with [Worker limit]>", "Only available <starting from the [Renaissance era]> <before the [Industrial era]>",
+  "Destroyed when the city is captured"]
 },
 {
   "name": "2 Workers4",
   "cost": 70,
   "replacementTextForUniques": "2 Free Workers",
   "uniques": ["Will not be displayed in Civilopedia", "Unsellable","Provides [1] [Worker limit] <starting from the [Modern era]>",
-  "[2] free [Worker] units appear", "Consumes [1] [Worker limit] <before the [Modern era]>",
+  "[2] free [Worker] units appear", "Consumes [1] [Worker limit] <before the [Modern era]>", "Destroyed when the city is captured",
   "Only available <with [Worker limit]>", "Only available <starting from the [Industrial era]> <before the [Modern era]>"]
 },
 {
@@ -211,7 +224,7 @@
   "cost": 70,
   "replacementTextForUniques": "2 Free Workers",
   "uniques": ["Will not be displayed in Civilopedia", "Unsellable","Provides [1] [Worker limit] <starting from the [Information era]>",
-  "[2] free [Worker] units appear", "Consumes [1] [Worker limit] <before the [Information era]>",
+  "[2] free [Worker] units appear", "Consumes [1] [Worker limit] <before the [Information era]>", "Destroyed when the city is captured",
   "Only available <with [Worker limit]>", "Only available <starting from the [Atomic era]> <before the [Information era]>"]
 },
 {
@@ -219,7 +232,7 @@
   "cost": 70,
   "replacementTextForUniques": "2 Free Workers",
   "uniques": ["Will not be displayed in Civilopedia", "Unsellable","Provides [1] [Worker limit]",
-  "[2] free [Worker] units appear", "Consumes [1] [Worker limit]",
+  "[2] free [Worker] units appear", "Consumes [1] [Worker limit]", "Destroyed when the city is captured",
   "Only available <with [Worker limit]>", "Only available <starting from the [Information era]>"]
 }
 ]
