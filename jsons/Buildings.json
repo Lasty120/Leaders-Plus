@@ -239,8 +239,8 @@
   "name": "Mitera tu lau (Feodora)",
   "uniqueTo": "Byzantium",
   "cost": 1,
-//  "replacementTextForUniques": "[+1 [Food] per 2 population in all cities]
-//  [+1 [Happiness] per 4 population and per 6 population in all cities]",
+  "replacementTextForUniques": "[+1 [Food] per 2 population in all cities]
+  [+1 [Happiness] per 4 population and per 6 population in all cities]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[+1 Food] per [2] population [in all cities]", "[+1 Happiness] per [4] population [in all cities]", "[+1 Happiness] per [6] population [in all cities]"],
 },
@@ -248,8 +248,8 @@
   "name": "Porphyrrogennetos (Basil II)",
   "uniqueTo": "Byzantium",
   "cost": 1,
-//  "replacementTextForUniques": "[Mounted units deal full damage when attacking cities]
-//  [Unique unit [Tagma] when adopting Pierty (replaces Knight, Horses not required, +3 strength, +15% strength bonus for Military units within 3 tiles)]",
+  "replacementTextForUniques": "[Mounted units deal full damage when attacking cities]
+  [Can build unique unit [Tagma] when adopting Pierty (replaces Knight, Horses not required, +3 strength, +15% strength bonus for Military units within 3 tiles)]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[+33]% Strength <for [Mounted] units> <vs cities> <when attacking>"],
 },
