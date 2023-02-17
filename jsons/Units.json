@@ -1,0 +1,16 @@
+[
+{
+		
+        "name": "Knight",
+	"unitType": "Mounted",
+	"movement": 4,
+	"strength": 23,
+	"cost": 120,
+	"requiredTech": "Chivalry",
+	"obsoleteTech": "Military Science",
+	"upgradesTo": "Cavalry",
+	"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit",
+        "[+15]% Strength bonus for [Military] units within [3] tiles", "Only available <after adopting [Piety]>", "Only available <in cities with a [Porphyrrogennetos (Basil II)]>"],
+	"attackSound": "horse"
+	},
+]
