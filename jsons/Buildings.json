@@ -280,4 +280,30 @@
   "Destroyed when the city is captured", "Provides [1] [Germany bonus]", "[+10]% Strength <vs cities>",
   "+30% Strength when fighting City-State units and cities <vs cities>"],
 },
+{
+	"name": "Barracks",
+	"hurryCostModifier": 25,
+	"maintenance": 1,
+	"uniques": ["New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured",
+        "New [Military] units start with [10] Experience [in this city] <with [Germany bonus]>"],
+	"requiredTech": "Bronze Working"
+	},
+{
+	"name": "Armory",
+	"hurryCostModifier": 25,
+	"maintenance": 1,
+	"requiredBuilding": "Barracks",
+	"uniques": ["New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured",
+        "New [Military] units start with [10] Experience [in this city] <with [Germany bonus]>"],
+	"requiredTech": "Steel"
+	},
+{
+	"name": "Military Academy",
+	"hurryCostModifier": 0,
+	"maintenance": 1,
+	"requiredBuilding": "Armory",
+	"uniques": ["New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured",
+        "New [Military] units start with [10] Experience [in this city] <with [Germany bonus]>"],
+	"requiredTech": "Military Science"
+	},
 ]
