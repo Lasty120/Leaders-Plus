@@ -275,10 +275,10 @@
   "uniqueTo": "Germany",
   "cost": 1,
   "replacementTextForUniques": "[Buildings that gives XP give an additional 10 XP]
-[+10% Strength vs cities (+30% additionaly vs City-States cities)]",
+[+10% Strength vs cities (+30% additionaly for Siege units)]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "Provides [1] [Germany bonus]", "[+10]% Strength <vs cities>",
-  "+30% Strength when fighting City-State units and cities <vs cities>"],
+  "[+30]% Strength <for [Siege] units> <vs cities>"],
 },
 {
 	"name": "Barracks",
