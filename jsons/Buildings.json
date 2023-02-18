@@ -253,4 +253,31 @@
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[+33]% Strength <for [Mounted] units> <vs cities> <when attacking>"],
 },
+{
+  "name": "Unioning with Iron and Blood (Otto Von Bismarck)",
+  "uniqueTo": "Germany",
+  "cost": 1,
+//  "replacementTextForUniques": "[+30% Strength vs cities when attacking but -2 Happiness in annexed cities for 10 turns]
+//  [+20% Strength when fighting in Neutral Land]",
+  "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
+  "Destroyed when the city is captured", "Gain a free [-2 Happiness] [in annexed cities]",
+  "[+30]% Strength <vs cities> <when attacking>", "[+20]% Strength <when fighting in [Foreign Land] tiles>",
+  "[-20]% Strength <when fighting in [Enemy Land] tiles>"],
+},
+{
+  "name": "-2 Happiness",
+  "cost": 1,
+  "uniques": ["Unsellable", "Will not be displayed in Civilopedia", "Unbuildable", "Cannot be purchased",
+  "Destroyed when the city is captured", "[-2 Happiness] <for [10] turns>"],
+},
+{
+  "name": "Iron Crown (Frederick Barbarossa)",
+  "uniqueTo": "Germany",
+  "cost": 1,
+//  "replacementTextForUniques": "[Buildings that gives XP give an additional 10 XP]
+//  [+10% Strength vs cities (+30% additionaly vs City-States cities)]",
+  "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
+  "Destroyed when the city is captured", "Provides [1] [Germany bonus]", "[+10]% Strength <vs cities>",
+  "+30% Strength when fighting City-State units and cities <vs cities>"],
+},
 ]
