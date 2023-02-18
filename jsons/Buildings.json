@@ -257,11 +257,11 @@
   "name": "Unioning with Iron and Blood (Otto Von Bismarck)",
   "uniqueTo": "Germany",
   "cost": 1,
-  "replacementTextForUniques": "[+30% Strength vs cities when attacking but -2 Happiness in annexed cities for 10 turns]
+  "replacementTextForUniques": "[+50% Strength vs cities when attacking but -2 Happiness in annexed cities for 10 turns]
   [+20% Strength when fighting in Neutral Land]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "Gain a free [-2 Happiness] [in annexed cities]",
-  "[+30]% Strength <vs cities> <when attacking>", "[+20]% Strength <when fighting in [Foreign Land] tiles>",
+  "[+50]% Strength <vs cities> <when attacking>", "[+20]% Strength <when fighting in [Foreign Land] tiles>",
   "[-20]% Strength <when fighting in [Enemy Land] tiles>"],
 },
 {
