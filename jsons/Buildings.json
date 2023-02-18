@@ -306,4 +306,34 @@
         "New [Military] units start with [10] Experience [in this city] <with [Germany bonus]>"],
 	"requiredTech": "Military Science"
 	},
+{
+  "name": "To the World's End (Alexander)",
+  "uniqueTo": "Greece",
+  "cost": 1,
+//  "replacementTextForUniques": "[Upon capturing a city, receive 4 times its [Production] production as [Faith], [Gold], [Science], [Culture] immediately (effect is doubled if this cities has a Wonder)]
+  [+2 [Happiness] upon conquering city for 10 turns]",
+  "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
+  "Destroyed when the city is captured", "Upon capturing a city, receive [4] times its [Production] production as [Faith] immediately",
+  "Upon capturing a city, receive [5] times its [Production] production as [Gold] immediately",
+  "Upon capturing a city, receive [5] times its [Production] production as [Science] immediately",
+  "Upon capturing a city, receive [5] times its [Production] production as [Culture] immediately",
+  "Gain a free [+2 Happiness] [in annexed cities]", "Upon capturing a city, receive [5] times its [Production] production as [Faith] immediately <in cities with a [Wonder]>",
+  "Upon capturing a city, receive [5] times its [Production] production as [Gold] immediately <in cities with a [Wonder]>",
+  "Upon capturing a city, receive [5] times its [Production] production as [Science] immediately <in cities with a [Wonder]>",
+  "Upon capturing a city, receive [5] times its [Production] production as [Culture] immediately <in cities with a [Wonder]>"],
+},
+{
+  "name": "+2 Happiness",
+  "cost": 1,
+  "uniques": ["Unsellable", "Will not be displayed in Civilopedia", "Unbuildable", "Cannot be purchased",
+  "Destroyed when the city is captured", "[+2 Happiness] <for [10] turns>"],
+},
+{
+  "name": "Surrounded by Glory (Pericles)",
+  "uniqueTo": "",
+  "cost": 1,
+//  "replacementTextForUniques": "",
+  "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
+  "Destroyed when the city is captured"],
+},
 ]
