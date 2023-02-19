@@ -338,4 +338,20 @@
   "Destroyed when the city is captured", "Allied City-States provide [Culture] equal to [+25]% of what they produce for themselves",
   "[+50]% [Culture] from City-States"],
 },
+{
+  "name": "Per-Ramses (Ramses)",
+  "uniqueTo": "Egypt",
+  "cost": 1,
+//  "replacementTextForUniques": "[+60% Production towards any buildings that already exist in th Capital in second city]
+//  [+10% Production when constructing All buildings in cities in River]",
+  "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
+  "Destroyed when the city is captured", "[+60]% Production towards any buildings that already exist in the Capital <in cities with a [Egypt bonus]>",
+  "Provides a [Egypt bonus] in your first [2] cities for free", "[+10]% Production when constructing [All] buildings [in all cities] <in [River] tiles>"],
+},
+{
+  "name": "Egypt bonus",
+  "cost": 1,
+  "uniques": ["Unsellable", "Will not be displayed in Civilopedia", "Unbuildable", "Cannot be purchased",
+  "Destroyed when the city is captured"],
+},
 ]
