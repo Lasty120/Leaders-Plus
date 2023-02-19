@@ -310,7 +310,7 @@
   "name": "To the World's End (Alexander)",
   "uniqueTo": "Greece",
   "cost": 1,
-//  "replacementTextForUniques": "[Upon capturing a city, receive 4 times its [Production] production as [Faith], [Gold], [Science], [Culture] immediately (effect is doubled if this cities has a Wonder)]
+//  "replacementTextForUniques": "[Upon capturing a city, receive 5 times its [Production] production as [Faith], [Gold], [Science], [Culture] immediately (effect is doubled if this cities has a Wonder)]
 //  [+2 [Happiness] upon conquering city for 10 turns]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "Upon capturing a city, receive [4] times its [Production] production as [Faith] immediately",
