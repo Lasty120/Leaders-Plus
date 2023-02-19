@@ -354,4 +354,28 @@
   "uniques": ["Unsellable", "Will not be displayed in Civilopedia", "Unbuildable", "Cannot be purchased",
   "Destroyed when the city is captured"],
 },
+{
+  "name": "",
+  "uniqueTo": "",
+  "cost": 1,
+//  "replacementTextForUniques": "",
+  "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
+  "Destroyed when the city is captured"],
+},
+{
+  "name": "",
+  "uniqueTo": "",
+  "cost": 1,
+//  "replacementTextForUniques": "",
+  "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
+  "Destroyed when the city is captured"],
+},
+{
+  "name": "",
+  "uniqueTo": "",
+  "cost": 1,
+//  "replacementTextForUniques": "",
+  "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
+  "Destroyed when the city is captured"],
+},
 ]
