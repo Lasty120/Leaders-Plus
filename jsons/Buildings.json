@@ -359,7 +359,7 @@
   "uniqueTo": "Egypt",
   "cost": 1,
 //  "replacementTextForUniques": "[Free Melee unit appears upon declaring friendship]
-  [No Maintenance costs for improvements in Foreignn Land tiles]",
+  [+1 [Food] from every Bonus resource in Flood plains tiles]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "Free [Warrior] appears <upon declaring friendship> <before discovering [Iron Working]>",
   "Free [Swordsman] appears <upon declaring friendship> <before discovering [Steel]> <after discovering [Iron Working]>",
@@ -390,7 +390,7 @@
   "name": "Ruler of Turks (Tobo-Kagan)",
   "uniqueTo": "The Huns",
   "cost": 1,
-//  "replacementTextForUniques": "[Unique Unit [Turkic Archer]]
+//  "replacementTextForUniques": "[Unique Unit [Turkic Archer] (replaces Knight, 23 Ranged Strength, 2 Range, Horses not required)]
 //  [+33% Strength for Mounted units vs cities when attacking before the Renaissance era]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "Provides [1] [Huns bonus]", "[+33]% Strength <for [Mounted] units> <vs cities> <when attacking> <before the [Renaissance era]>"],
