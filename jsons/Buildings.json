@@ -390,9 +390,9 @@
   "name": "Ruler of Turks (Tobo-Kagan)",
   "uniqueTo": "The Huns",
   "cost": 1,
-//  "replacementTextForUniques": "[]
-//  []",
+//  "replacementTextForUniques": "[Unique Unit [Turkic Archer]]
+//  [+33% Strength for Mounted units vs cities when attacking before the Renaissance era]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "Destroyed when the city is captured", "Provides ", "",],
+  "Destroyed when the city is captured", "Provides [1] [Huns bonus]", "[+33]% Strength <for [Mounted] units> <vs cities> <when attacking> <before the [Renaissance era]>"],
 },
 ]
