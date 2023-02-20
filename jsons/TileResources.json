@@ -19,4 +19,9 @@
 		"resourceType": "Bonus",
 		"uniques": [ ]
 	},
+{
+		"name": "Huns bonus",
+		"resourceType": "Bonus",
+		"uniques": [ ]
+	},
 ]
