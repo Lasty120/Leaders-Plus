@@ -251,7 +251,7 @@
   "replacementTextForUniques": "[Mounted units deal full damage when attacking cities]
 [Can build unique unit [Tagma] when adopting Pierty (replaces Knight, Horses not required, +3 strength, +15% strength bonus for Military units within 3 tiles)]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "Destroyed when the city is captured", "[+33]% Strength <for [Mounted] units> <vs cities> <when attacking>"],
+  "Destroyed when the city is captured", "[+33]% Strength <for [Mounted] units> <vs cities> <when attacking>", "Provides [1] [Byzantium bonus]"],
 },
 {
   "name": "Unioning with Iron and Blood (Otto Von Bismarck)",
