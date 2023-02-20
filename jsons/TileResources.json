@@ -14,4 +14,9 @@
 		"resourceType": "Bonus",
 		"uniques": [ ]
 	},
+{
+		"name": "Byzantium bonus",
+		"resourceType": "Bonus",
+		"uniques": [ ]
+	},
 ]
