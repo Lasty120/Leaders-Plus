@@ -13,4 +13,18 @@
         "Only available <after discovering [Chivalry]>"],
 	"attackSound": "horse"
 	},
+{
+	"name": "Knight",
+	"unitType": "Mounted",
+	"movement": 4,
+	"strength": 20,
+        "rangedStrength": 23,
+        "range": 2,
+	"cost": 120,
+	"obsoleteTech": "Military Science",
+	"upgradesTo": "Cavalry",
+	"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit",
+        "Only available <after discovering [Chivalry]>"],
+	"attackSound": "horse"
+	},
 ]
