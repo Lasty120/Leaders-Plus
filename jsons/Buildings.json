@@ -359,7 +359,7 @@
   "uniqueTo": "Egypt",
   "cost": 1,
 //  "replacementTextForUniques": "[Free Melee unit appears upon declaring friendship]
-  [+1 [Food] from every Bonus resource in Flood plains tiles]",
+//  [+1 [Food] from every Bonus resource in Flood plains tiles]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "Free [Warrior] appears <upon declaring friendship> <before discovering [Iron Working]>",
   "Free [Swordsman] appears <upon declaring friendship> <before discovering [Steel]> <after discovering [Iron Working]>",
