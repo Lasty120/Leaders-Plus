@@ -368,7 +368,7 @@
   "Free [Rifleman] appears <upon declaring friendship> <before discovering [Replaceable Parts]> <after discovering [Rifling]>",
   "Free [Great War Infantry] appears <upon declaring friendship> <before discovering [Plastics]> <after discovering [Replaceable Parts]>",
   "Free [Infantry] appears <upon declaring friendship> <before discovering [Mobile Tactics]> <after discovering [Plastics]>",
-  "Free [Mechanized Infantry] appears <upon declaring friendship> <after discovering [Mobile Tactics]>", "No Maintenance costs for improvements in [Foreign Land] tiles"],
+  "Free [Mechanized Infantry] appears <upon declaring friendship> <after discovering [Mobile Tactics]>", "[+1 Food] from every [Bonus resource] <in [Flood plains] tiles>"],
 },
 {
   "name": "",
