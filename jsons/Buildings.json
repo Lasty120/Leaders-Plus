@@ -342,8 +342,8 @@
   "name": "Per-Ramses (Ramses)",
   "uniqueTo": "Egypt",
   "cost": 1,
-//  "replacementTextForUniques": "[+60% Production towards any buildings that already exist in th Capital in second city]
-//  [+10% Production when constructing All buildings in cities in River]",
+  "replacementTextForUniques": "[+60% Production towards any buildings that already exist in th Capital in second city]
+[+10% Production when constructing All buildings in cities in River]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[+60]% Production towards any buildings that already exist in the Capital <in cities with a [Egypt bonus]>",
   "Provides a [Egypt bonus] in your first [2] cities for free", "[+10]% Production when constructing [All] buildings [in all cities] <in [River] tiles>"],
@@ -358,8 +358,8 @@
   "name": "Mediterranean's Bride (Cleopatra)",
   "uniqueTo": "Egypt",
   "cost": 1,
-//  "replacementTextForUniques": "[+1 [Culture] from every Land tiles with neighboring Flood plains tiles]
-//  [+1 [Food], +1 [Culture] from every Bonus resource in Flood plains tiles]",
+  "replacementTextForUniques": "[+1 [Culture] from every Land tiles with neighboring Flood plains tiles]
+[+1 [Food], +1 [Culture] from every Bonus resource in Flood plains tiles]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "Free [Warrior] appears <upon declaring friendship> <before discovering [Iron Working]>",
   "[+1 Food, +1 Culture] from every [Bonus resource] <in [Flood plains] tiles>", "[+1 Culture] from [Land] tiles [in all cities] <with [1] to [6] neighboring [Flood plains] tiles>"],
@@ -368,8 +368,8 @@
   "name": "Scourge of God (Attila)",
   "uniqueTo": "The Huns",
   "cost": 1,
-//  "replacementTextForUniques": "[When defending a Melee unit, recruit it with 25% chance]
-//  [Gain 20 [Culture] upon conquering city (+30 [Culture] per every era)]",
+  "replacementTextForUniques": "[When defending a Melee unit, recruit it with 25% chance]
+[Gain 20 [Culture] upon conquering city (+30 [Culture] per every era)]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "When defeating a [Melee] unit, earn [0] Gold and recruit it <with [25]% chance>",
   "Gain [20] [Culture] <upon conquering a city> <before the [Classical era]>", "Gain [50] [Culture] <upon conquering a city> <before the [Medieval era]> <starting from the [Classical era]>",
@@ -384,8 +384,8 @@
   "name": "Ruler of Turks (Tobo-Kagan)",
   "uniqueTo": "The Huns",
   "cost": 1,
-//  "replacementTextForUniques": "[Unique Unit [Turkic Archer] (replaces Knight, 23 Ranged Strength, 2 Range, Horses not required)]
-//  [+33% Strength for Mounted units vs cities when attacking before the Renaissance era]",
+  "replacementTextForUniques": "[Unique Unit [Turkic Archer] (replaces Knight, 23 Ranged Strength, 2 Range, Horses not required)]
+[+33% Strength for Mounted units vs cities when attacking before the Renaissance era]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "Provides [1] [Huns bonus]", "[+33]% Strength <for [Mounted] units> <vs cities> <when attacking> <before the [Renaissance era]>"],
 },
