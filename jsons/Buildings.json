@@ -358,17 +358,11 @@
   "name": "Mediterranean's Bride (Cleopatra)",
   "uniqueTo": "Egypt",
   "cost": 1,
-//  "replacementTextForUniques": "[Free Melee unit appears upon declaring friendship]
+//  "replacementTextForUniques": "[+1 [Culture] from every Land tiles with neighboring Flood plains tiles]
 //  [+1 [Food], +1 [Culture] from every Bonus resource in Flood plains tiles]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "Free [Warrior] appears <upon declaring friendship> <before discovering [Iron Working]>",
-  "Free [Swordsman] appears <upon declaring friendship> <before discovering [Steel]> <after discovering [Iron Working]>",
-  "Free [Longswordsman] appears <upon declaring friendship> <before discovering [Gunpowder]> <after discovering [Steel]>",
-  "Free [Musketman] appears <upon declaring friendship> <before discovering [Rifling]> <after discovering [Gunpowder]>",
-  "Free [Rifleman] appears <upon declaring friendship> <before discovering [Replaceable Parts]> <after discovering [Rifling]>",
-  "Free [Great War Infantry] appears <upon declaring friendship> <before discovering [Plastics]> <after discovering [Replaceable Parts]>",
-  "Free [Infantry] appears <upon declaring friendship> <before discovering [Mobile Tactics]> <after discovering [Plastics]>",
-  "Free [Mechanized Infantry] appears <upon declaring friendship> <after discovering [Mobile Tactics]>", "[+1 Food, +1 Culture] from every [Bonus resource] <in [Flood plains] tiles>"],
+  "[+1 Food, +1 Culture] from every [Bonus resource] <in [Flood plains] tiles>", "[+1 Culture] from [Land] tiles [in all cities] <with [1] to [6] neighboring [Flood plains] tiles>"],
 },
 {
   "name": "Scourge of God (Attila)",
