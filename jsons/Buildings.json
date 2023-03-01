@@ -401,18 +401,18 @@
   "name": "Thunder of the North (Harald Bluetooth)",
   "uniqueTo": "Denmark",
   "cost": 1,
-//  "replacementTextForUniques": "[+12% Strength for Water units within 2 tiles of a Land tiles (+25% within 1 tiles of a Land tiles)]
-//  [No movement cost to pillage for Water units]",
+  "replacementTextForUniques": "[+15% Strength for Water units within 2 tiles of a Land tiles (+30% within 1 tiles of a Land tiles)]
+[No movement cost to pillage for Water units]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "Destroyed when the city is captured", "[+12]% Strength <for [Water] units> <within [2] tiles of a [Land]>",
-  "[+13]% Strength <for [Water] units> <within [1] tiles of a [Land]>", "No movement cost to pillage <for [Water] units>"],
+  "Destroyed when the city is captured", "[+15]% Strength <for [Water] units> <within [2] tiles of a [Land]>",
+  "[+15]% Strength <for [Water] units> <within [1] tiles of a [Land]>", "No movement cost to pillage <for [Water] units>"],
 },
 {
   "name": "Hail Mig! (Ivan Wide Embrace)",
   "uniqueTo": "Denmark",
   "cost": 1,
-//  "replacementTextForUniques": "[Gain 50 [Gold] upon declaring war (+75 [Gold] additionaly per every Tech where discovering Melee unit)]
-//  [Military Water units gains the +30% Strength bonus for Military Land units within 2 tiles]",
+  "replacementTextForUniques": "[Gain 50 [Gold] upon declaring war with a major Civilization (+75 [Gold] additionaly per every Tech where discovering Melee unit)]
+[Military Water units gains the +30% Strength bonus for Military Land units within 2 tiles]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[{Military} {Water}] units gain the [Denmark bonus] promotion",
   "Gain [50] [Gold] <upon declaring war with a major Civilization> <before discovering [Bronze Working]>", "Gain [125] [Gold] <upon declaring war with a major Civilization> <before discovering [Iron Working]> <after discovering [Bronze Working]>",
