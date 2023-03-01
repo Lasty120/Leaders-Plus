@@ -397,4 +397,22 @@
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "Provides [1] [Huns bonus]", "[+33]% Strength <for [Mounted] units> <vs cities> <when attacking> <before the [Renaissance era]>"],
 },
+{
+  "name": "",
+  "uniqueTo": "",
+  "cost": 1,
+//  "replacementTextForUniques": "",
+  "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
+  "Destroyed when the city is captured"],
+},
+{
+  "name": "Thunder of the North (Harald Bluetooth)",
+  "uniqueTo": "Denmark",
+  "cost": 1,
+//  "replacementTextForUniques": "[+12% Strength for Water units within 2 tiles of a Land tiles (+25% within 1 tiles of a Land tiles)]
+//  [No movement cost to pillage for Water units]",
+  "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
+  "Destroyed when the city is captured", "[+12]% Strength <for [Water] units> <within [2] tiles of a [Land]>",
+  "[+13]% Strength <for [Water] units> <within [1] tiles of a [Land]>", "No movement cost to pillage <for [Water] units>"],
+},
 ]
