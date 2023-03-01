@@ -10,5 +10,9 @@
 {
   "name": "Reduced maintenance III",
   "uniques": ["[-25]% maintenance costs"]
+},
+{
+  "name": "Denmark bonus",
+  "uniques": ["[+30]% Strength bonus for [{Military} {Land}] units within [2] tiles"]
 }
 ]
