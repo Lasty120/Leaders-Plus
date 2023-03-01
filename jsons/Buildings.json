@@ -412,7 +412,7 @@
   "uniqueTo": "Denmark",
   "cost": 1,
 //  "replacementTextForUniques": "[Gain 50 [Gold] upon declaring war (+75 [Gold] additionaly per every Tech where discovering Melee unit)]
-  [Military Water units gains the +30% Strength bonus for Military Land units within 2 tiles]",
+//  [Military Water units gains the +30% Strength bonus for Military Land units within 2 tiles]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[{Military} {Water}] units gain the [Denmark bonus] promotion",
   "Gain [50] [Gold] <upon declaring war> <before discovering [Bronze Working]>", "Gain [125] [Gold] <upon declaring war> <before discovering [Iron Working]> <after discovering [Bronze Working]>",
