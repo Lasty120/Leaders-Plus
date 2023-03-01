@@ -415,4 +415,12 @@
   "Destroyed when the city is captured", "[+12]% Strength <for [Water] units> <within [2] tiles of a [Land]>",
   "[+13]% Strength <for [Water] units> <within [1] tiles of a [Land]>", "No movement cost to pillage <for [Water] units>"],
 },
+{
+  "name": "Hail Mig! (Ivan Wide Embrace)",
+  "uniqueTo": "Denmark",
+  "cost": 1,
+//  "replacementTextForUniques": "",
+  "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
+  "Destroyed when the city is captured", ""],
+},
 ]
