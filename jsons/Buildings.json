@@ -392,7 +392,7 @@
   "name": "Ruler of Turks (Tobo-Kagan)",
   "uniqueTo": "The Huns",
   "cost": 1,
-  "replacementTextForUniques": "[Unique Unit [Turkic Archer] (replaces Knight, 23 Ranged Strength, 2 Range, Horses not required)]
+  "replacementTextForUniques": "[Unique Unit [Turkic Archer] (replaces Knight, 23 Ranged Strength, 2 Range)]
 [+33% Strength for Mounted units vs cities when attacking before the Renaissance era]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "Provides [1] [Huns bonus]", "[+33]% Strength <for [Mounted] units> <vs cities> <when attacking> <before the [Renaissance era]>"],
@@ -412,7 +412,7 @@
   "uniqueTo": "Denmark",
   "cost": 1,
 //  "replacementTextForUniques": "[Gain 50 [Gold] upon declaring war (+75 [Gold] additionaly per every Tech where discovering Melee unit)]
-  [Military Water units gains the +30% Strength bonus for Military Land units within ]",
+  [Military Water units gains the +30% Strength bonus for Military Land units within 2 tiles]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[{Military} {Water}] units gain the [Denmark bonus] promotion",
   "Gain [50] [Gold] <upon declaring war> <before discovering [Bronze Working]>", "Gain [125] [Gold] <upon declaring war> <before discovering [Iron Working]> <after discovering [Bronze Working]>",
