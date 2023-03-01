@@ -401,7 +401,7 @@
   "name": "Thunder of the North (Harald Bluetooth)",
   "uniqueTo": "Denmark",
   "cost": 1,
-  "replacementTextForUniques": "[+15% Strength for Water units within 2 tiles of a Land tiles (+30% within 1 tiles of a Land tiles)]
+  "replacementTextForUniques": "[+15% Strength for Water units within 2 tiles of a Land tiles (+15% additionaly within 1 tiles of a Land tiles)]
 [No movement cost to pillage for Water units]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[+15]% Strength <for [Water] units> <within [2] tiles of a [Land]>",
