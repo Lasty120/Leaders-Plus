@@ -398,14 +398,6 @@
   "Destroyed when the city is captured", "Provides [1] [Huns bonus]", "[+33]% Strength <for [Mounted] units> <vs cities> <when attacking> <before the [Renaissance era]>"],
 },
 {
-  "name": "",
-  "uniqueTo": "",
-  "cost": 1,
-//  "replacementTextForUniques": "",
-  "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "Destroyed when the city is captured"],
-},
-{
   "name": "Thunder of the North (Harald Bluetooth)",
   "uniqueTo": "Denmark",
   "cost": 1,
@@ -419,8 +411,16 @@
   "name": "Hail Mig! (Ivan Wide Embrace)",
   "uniqueTo": "Denmark",
   "cost": 1,
-//  "replacementTextForUniques": "",
+//  "replacementTextForUniques": "[Gain 50 [Gold] upon declaring war (+75 [Gold] additionaly per every Tech where discovering Melee unit)]
+  [Military Water units gains the +30% Strength bonus for Military Land units within ]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "Destroyed when the city is captured", ""],
+  "Destroyed when the city is captured", "[{Military} {Water}] units gain the [Denmark bonus] promotion",
+  "Gain [50] [Gold] <upon declaring war> <before discovering [Bronze Working]>", "Gain [125] [Gold] <upon declaring war> <before discovering [Iron Working]> <after discovering [Bronze Working]>",
+  "Gain [200] [Gold] <upon declaring war> <before discovering [Steel]> <after discovering [Iron Working]>",
+  "Gain [275] [Gold] <upon declaring war> <before discovering [Gunpowder]> <after discovering [Steel]>",
+  "Gain [350] [Gold] <upon declaring war> <before discovering [Rifling]> <after discovering [Gunpowder]>",
+  "Gain [425] [Gold] <upon declaring war> <before discovering [Replaceable Parts]> <after discovering [Rifling]>",
+  "Gain [500] [Gold] <upon declaring war> <before discovering [Plastics]> <after discovering [Replaceable Parts]>",
+  "Gain [575] [Gold] <upon declaring war> <after discovering [Mobile Tactics]>"],
 },
 ]
