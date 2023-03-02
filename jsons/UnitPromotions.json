@@ -14,5 +14,29 @@
 {
   "name": "Denmark bonus",
   "uniques": ["[+30]% Strength bonus for [{Military} {Land}] units within [2] tiles"]
+},
+{
+  "name": "India Knight bonus",
+  "uniques": ["Can transform to [Cavalry]"]
+},
+{
+  "name": "India Crossbowman bonus",
+  "uniques": ["Can transform to [Gatling Gun]"]
+},
+{
+  "name": "India Trebuchet bonus",
+  "uniques": ["Can transform to [Cannon]"]
+},
+{
+  "name": "India Galleass bonus",
+  "uniques": ["Can transform to [Frigate]"]
+},
+{
+  "name": "India Longswordsman bonus",
+  "uniques": ["Can transform to [Musketman]"]
+},
+{
+  "name": "India Pikeman bonus",
+  "uniques": ["Can transform to [Lancer]"]
 }
 ]
