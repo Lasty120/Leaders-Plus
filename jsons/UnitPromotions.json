@@ -16,4 +16,8 @@
   "uniques": ["[+30]% Strength bonus for [{Military} {Land}] units within [2] tiles",
   "Will not be displayed in Civilopedia"]
 },
+{
+  "name": "Inca bonus",
+  "uniques": ["Will not be displayed in Civilopedia", "Double movement in [Improvement] <with [1] to [6] neighboring [Mountain] tiles>"]
+},
 ]
