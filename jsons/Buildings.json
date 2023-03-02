@@ -439,8 +439,8 @@
   "name": "Arthashastra (Chandragupta)",
   "uniqueTo": "India",
   "cost": 1,
-//  "replacementTextForUniques": "[+10% Strength and +1 Movement upon declaring war with a major Civilization for 10 turns]
-// [+10% Strength upon conquering a city for 5 turns]",
+//  "replacementTextForUniques": "[+10% Strength and +1 Movement for 10 turns upon declaring war with a major Civilization]
+// [+10% Strength for 5 turns upon conquering a city]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[+10]% Strength <upon declaring war with a major Civilization> <for [10] turns>",
   "[+1] Movement <upon declaring war with a major Civilization> <for [10] turns>", "[+10]% Strength <upon conquering a city> <for [5] turns>"],
