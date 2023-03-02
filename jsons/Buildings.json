@@ -436,11 +436,13 @@
   "[+2 Faith] [in this city] <after founding a religion>", "[+2 Faith] [in this city] <after enhancing religion>"],
 },
 {
-  "name": "",
-  "uniqueTo": "",
+  "name": "Arthashastra (Chandragupta)",
+  "uniqueTo": "India",
   "cost": 1,
-//  "replacementTextForUniques": "",
+//  "replacementTextForUniques": "[+10% Strength and +1 Movement upon declaring war with a major Civilization for 10 turns]
+// [+10% Strength upon conquering a city for 5 turns]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "Destroyed when the city is captured"],
+  "Destroyed when the city is captured", "[+10]% Strength <upon declaring war with a major Civilization> <for [10] turns>",
+  "[+1] Movement <upon declaring war with a major Civilization> <for [10] turns>", "[+10]% Strength <upon conquering a city> <for [5] turns>"],
 },
 ]
