@@ -129,14 +129,14 @@
   "uniqueTo": "Aztecs",
   "cost": 1,
   "replacementTextForUniques": "[+1 Happiness from each type of luxury resource]
-[+3% Strength from each type of luxury resource]",
+[+4% Strength from each type of luxury resource]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "[+1] Happiness from each type of luxury resource", "[+3]% Strength <with [Citrus]>", "[+3]% Strength <with [Copper]>", 
-  "[+3]% Strength <with [Cotton]>", "[+3]% Strength <with [Crab]>","[+3]% Strength <with [Dyes]>","[+3]% Strength <with [Furs]>",
-  "[+3]% Strength <with [Gems]>","[+3]% Strength <with [Gold Ore]>","[+3]% Strength <with [Incense]>","[+3]% Strength <with [Ivory]>",
-  "[+3]% Strength <with [Jewelry]>","[+3]% Strength <with [Marble]>","[+3]% Strength <with [Pearls]>","[+3]% Strength <with [Porcelain]>",
-  "[+3]% Strength <with [Salt]>","[+3]% Strength <with [Silk]>","[+3]% Strength <with [Silver]>","[+3]% Strength <with [Spices]>",
-  "[+3]% Strength <with [Sugar]>","[+3]% Strength <with [Truffles]>","[+3]% Strength <with [Whales]>","[+3]% Strength <with [Wine]>",
+  "[+1] Happiness from each type of luxury resource", "[+4]% Strength <with [Citrus]>", "[+4]% Strength <with [Copper]>", 
+  "[+4]% Strength <with [Cotton]>", "[+4]% Strength <with [Crab]>","[+4]% Strength <with [Dyes]>","[+4]% Strength <with [Furs]>",
+  "[+4]% Strength <with [Gems]>","[+4]% Strength <with [Gold Ore]>","[+4]% Strength <with [Incense]>","[+4]% Strength <with [Ivory]>",
+  "[+4]% Strength <with [Jewelry]>","[+4]% Strength <with [Marble]>","[+4]% Strength <with [Pearls]>","[+4]% Strength <with [Porcelain]>",
+  "[+4]% Strength <with [Salt]>","[+4]% Strength <with [Silk]>","[+4]% Strength <with [Silver]>","[+4]% Strength <with [Spices]>",
+  "[+4]% Strength <with [Sugar]>","[+4]% Strength <with [Truffles]>","[+4]% Strength <with [Whales]>","[+4]% Strength <with [Wine]>",
   "Destroyed when the city is captured"],
 },
 {
@@ -451,8 +451,8 @@
   "name": "Qhapaq Nan (Pachacuti)",
   "uniqueTo": "Inca",
   "cost": 1,
-//  "replacementTextForUniques": "[]
-// []",
+//  "replacementTextForUniques": "[Cities gain +1 [Food] for every adjacent Mountain tiles]
+// [Double movement in Improvement tiles with neighboring Mountain tiles]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[+1 Food] [in all cities] <with [1] to [1] neighboring [Mountain] tiles>",
   "[+2 Food] [in all cities] <with [2] to [2] neighboring [Mountain] tiles>", "[+3 Food] [in all cities] <with [3] to [3] neighboring [Mountain] tiles>",
@@ -460,11 +460,12 @@
   "[Land] units gain the [Inca bonus] promotion"],
 },
 {
-  "name": "",
-  "uniqueTo": "",
+  "name": "Sapa Inca (Huayna Capac)",
+  "uniqueTo": "Inca",
   "cost": 1,
 //  "replacementTextForUniques": "",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "Destroyed when the city is captured"],
+  "Destroyed when the city is captured", "[+30]% Strength <for [Melee] units> <vs [Archery] units> <when attacking>",
+  ""],
 },
 ]
