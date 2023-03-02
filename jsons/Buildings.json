@@ -427,8 +427,8 @@
   "name": "Satyagraha (Gandhi)",
   "uniqueTo": "India",
   "cost": 1,
-//  "replacementTextForUniques": "[Gain enough Faith for 5% of a Great Prophet upon declaring friendship after founding a Pantheon (+5% additionaly after founding and enhancing a religion)]
-// [+2 [Faith] after founding a Pantheon, founding and enhancing a religion]",
+  "replacementTextForUniques": "[Gain enough Faith for 5% of a Great Prophet upon declaring friendship after founding a Pantheon (+5% additionaly after founding and enhancing a religion)]
+[+2 [Faith] after founding a Pantheon, founding and enhancing a religion]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "Gain enough Faith for [5]% of a Great Prophet <upon declaring friendship> <after founding a Pantheon> <before founding a religion>",
   "Gain enough Faith for [10]% of a Great Prophet <upon declaring friendship> <after founding a religion> <before enhancing a religion>",
@@ -439,8 +439,8 @@
   "name": "Arthashastra (Chandragupta)",
   "uniqueTo": "India",
   "cost": 1,
-//  "replacementTextForUniques": "[1 population in a random city upon conquering a city]
-// [All units from Medieval era upgrades for free]",
+  "replacementTextForUniques": "[1 population in a random city upon conquering a city]
+[All units from Medieval era upgrades for free]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[1] population in a random city <upon conquering a city>",
   "[-100]% Gold cost of upgrading <for [Knight] units>", "[-100]% Gold cost of upgrading <for [Crossbowman] units>",
