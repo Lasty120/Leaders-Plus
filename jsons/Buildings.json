@@ -463,9 +463,10 @@
   "name": "Sapa Inca (Huayna Capac)",
   "uniqueTo": "Inca",
   "cost": 1,
-//  "replacementTextForUniques": "",
+//  "replacementTextForUniques": "[+3% Strength for Melee units vs Archery units when attacking]
+// [+1 [Happiness] per 4 population in all cities connected to capital]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[+30]% Strength <for [Melee] units> <vs [Archery] units> <when attacking>",
-  ""],
+  "[+1 Happiness] per [4] population [in all cities connected to capital]"],
 },
 ]
