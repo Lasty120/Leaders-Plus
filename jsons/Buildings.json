@@ -447,4 +447,24 @@
   "[-100]% Gold cost of upgrading <for [Pikeman] units>", "[-100]% Gold cost of upgrading <for [Trebuchet] units>",
   "[-100]% Gold cost of upgrading <for [Galleass] units>", "[-100]% Gold cost of upgrading <for [Longswordsman] units>"],
 },
+{
+  "name": "Qhapaq Nan (Pachacuti)",
+  "uniqueTo": "Inca",
+  "cost": 1,
+//  "replacementTextForUniques": "[]
+// []",
+  "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
+  "Destroyed when the city is captured", "[+1 Food] [in all cities] <with [1] to [1] neighboring [Mountain] tiles>",
+  "[+2 Food] [in all cities] <with [2] to [2] neighboring [Mountain] tiles>", "[+3 Food] [in all cities] <with [3] to [3] neighboring [Mountain] tiles>",
+  "[+4 Food] [in all cities] <with [4] to [4] neighboring [Mountain] tiles>", "[+5 Food] [in all cities] <with [5] to [5] neighboring [Mountain] tiles>",
+  "[Land] units gain the [Inca bonus] promotion"],
+},
+{
+  "name": "",
+  "uniqueTo": "",
+  "cost": 1,
+//  "replacementTextForUniques": "",
+  "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
+  "Destroyed when the city is captured"],
+},
 ]
