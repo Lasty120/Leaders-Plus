@@ -1,15 +1,15 @@
 [
 {
   "name": "Reduced maintenance I",
-  "uniques": ["[-25]% maintenance costs", ""]
+  "uniques": ["[-25]% maintenance costs", "Will not be displayed in Civilopedia"]
 },
 {
   "name": "Reduced maintenance II",
-  "uniques": ["[-25]% maintenance costs", ""]
+  "uniques": ["[-25]% maintenance costs", "Will not be displayed in Civilopedia"]
 },
 {
   "name": "Reduced maintenance III",
-  "uniques": ["[-25]% maintenance costs", ""]
+  "uniques": ["[-25]% maintenance costs", "Will not be displayed in Civilopedia"]
 },
 {
   "name": "Denmark bonus",
