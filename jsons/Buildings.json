@@ -439,16 +439,12 @@
   "name": "Arthashastra (Chandragupta)",
   "uniqueTo": "India",
   "cost": 1,
-//  "replacementTextForUniques": "[+10% Strength and +1 Movement for 10 turns upon declaring war with a major Civilization]
-// [+10% Strength for 5 turns upon conquering a city]",
+//  "replacementTextForUniques": "[1 population in a random city upon conquering a city]
+// [All units from Medieval era upgrades for free]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "Destroyed when the city is captured", "[+10]% Strength <for [10] turns> <upon declaring war with a major Civilization>",
-  "[+1] Movement <for [10] turns> <upon declaring war with a major Civilization>", "Gain a free [India bonus] [in annexed cities]"],
-},
-{
-  "name": "India bonus",
-  "cost": 1,
-  "uniques": ["Unsellable", "Will not be displayed in Civilopedia", "Unbuildable", "Cannot be purchased",
-  "Destroyed when the city is captured", "[+10]% Strength <for [5] turns>"],
+  "Destroyed when the city is captured", "[1] population in a random city <upon conquering a city>",
+  "[Knight] units gain the [India Knight bonus] promotion", "[Galleass] units gain the [India Galleass bonus] promotion",
+  "[Crossbowman] units gain the [India Crossbowman bonus] promotion", "[Longswordsman] units gain the [India Longswordsman bonus] promotion",
+  "[Pikeman] units gain the [India Pikeman bonus] promotion", "[Trebuchet] units gain the [India Trebuchet bonus] promotion"],
 },
 ]
