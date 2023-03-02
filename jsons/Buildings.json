@@ -442,13 +442,13 @@
 //  "replacementTextForUniques": "[+10% Strength and +1 Movement for 10 turns upon declaring war with a major Civilization]
 // [+10% Strength for 5 turns upon conquering a city]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "Destroyed when the city is captured", "[+10]% Strength <for [All] units> <for [10] turns> <upon declaring war with a major Civilization>",
-  "[+1] Movement <for [All] units> <for [10] turns> <upon declaring war with a major Civilization>", "Gain a free [India bonus] [in annexed cities]",],
+  "Destroyed when the city is captured", "[+10]% Strength <for [10] turns> <upon declaring war with a major Civilization>",
+  "[+1] Movement <for [10] turns> <upon declaring war with a major Civilization>", "Gain a free [India bonus] [in annexed cities]"],
 },
 {
   "name": "India bonus",
   "cost": 1,
   "uniques": ["Unsellable", "Will not be displayed in Civilopedia", "Unbuildable", "Cannot be purchased",
-  "Destroyed when the city is captured", "[+10]% Strength <for [All] units> <for [5] turns>"],
+  "Destroyed when the city is captured", "[+10]% Strength <for [5] turns>"],
 },
 ]
