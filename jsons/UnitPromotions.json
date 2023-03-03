@@ -18,19 +18,6 @@
 },
 {
   "name": "Inca bonus",
-  "replacementTextForUniques": "Double movement in Improvement with neighboring Mountain tiles",
-  "uniques": ["Will not be displayed in Civilopedia", "Double movement in [Farm] <with [1] to [6] neighboring [Mountain] tiles>",
-  "Double movement in [Lumber mill] <with [1] to [6] neighboring [Mountain] tiles>","Double movement in [Mine] <with [1] to [6] neighboring [Mountain] tiles>",
-  "Double movement in [Trading post] <with [1] to [6] neighboring [Mountain] tiles>","Double movement in [Camp] <with [1] to [6] neighboring [Mountain] tiles>",
-  "Double movement in [Offshore Platform] <with [1] to [6] neighboring [Mountain] tiles>","Double movement in [Oil well] <with [1] to [6] neighboring [Mountain] tiles>",
-  "Double movement in [Pasture] <with [1] to [6] neighboring [Mountain] tiles>","Double movement in [Plantation] <with [1] to [6] neighboring [Mountain] tiles>",
-  "Double movement in [Quarry] <with [1] to [6] neighboring [Mountain] tiles>","Double movement in [Fishing Boats] <with [1] to [6] neighboring [Mountain] tiles>",
-  "Double movement in [Fort] <with [1] to [6] neighboring [Mountain] tiles>","Double movement in [Road] <with [1] to [6] neighboring [Mountain] tiles>",
-  "Double movement in [Railroad] <with [1] to [6] neighboring [Mountain] tiles>","Double movement in [Academy] <with [1] to [6] neighboring [Mountain] tiles>",
-  "Double movement in [Landmark] <with [1] to [6] neighboring [Mountain] tiles>","Double movement in [Manufactory] <with [1] to [6] neighboring [Mountain] tiles>",
-  "Double movement in [Customs house] <with [1] to [6] neighboring [Mountain] tiles>","Double movement in [Holy site] <with [1] to [6] neighboring [Mountain] tiles>",
-  "Double movement in [Citadel] <with [1] to [6] neighboring [Mountain] tiles>","Double movement in [Moai] <with [1] to [6] neighboring [Mountain] tiles>",
-  "Double movement in [Terrace farm] <with [1] to [6] neighboring [Mountain] tiles>","Double movement in [Polder] <with [1] to [6] neighboring [Mountain] tiles>",
-  "Double movement in [City ruins] <with [1] to [6] neighboring [Mountain] tiles>", "Double movement in [City center] <with [1] to [6] neighboring [Mountain] tiles>"]
+  "uniques": ["Will not be displayed in Civilopedia", "Double movement in [Friendly Land] <with [1] to [6] neighboring [Mountain] tiles>"]
 },
 ]
