@@ -18,6 +18,6 @@
 },
 {
   "name": "Inca bonus",
-  "uniques": ["Will not be displayed in Civilopedia", "Double movement in [Land] <in [Improvement] tiles> <with [1] to [6] neighboring [Mountain] tiles>"]
+  "uniques": ["Will not be displayed in Civilopedia", "Double movement in [Land] <in [Farm] tiles> <with [1] to [6] neighboring [Mountain] tiles>"]
 },
 ]
