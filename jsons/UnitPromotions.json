@@ -18,6 +18,19 @@
 },
 {
   "name": "Inca bonus",
-  "uniques": ["Will not be displayed in Civilopedia", "Double movement in [Land] <in [Farm] tiles> <with [1] to [6] neighboring [Mountain] tiles>"]
+// "replacementTextForUniques": "Double movement in Improvement with neighboring Mountain tiles",
+  "uniques": ["Will not be displayed in Civilopedia", "Double movement in [Land] <in [Farm] tiles> <with [1] to [6] neighboring [Mountain] tiles>",
+  "Double movement in [Land] <in [Lumber mill] tiles> <with [1] to [6] neighboring [Mountain] tiles>","Double movement in [Land] <in [Mine] tiles> <with [1] to [6] neighboring [Mountain] tiles>",
+  "Double movement in [Land] <in [Trading post] tiles> <with [1] to [6] neighboring [Mountain] tiles>","Double movement in [Land] <in [Camp] tiles> <with [1] to [6] neighboring [Mountain] tiles>",
+  "Double movement in [Land] <in [Oil well] tiles> <with [1] to [6] neighboring [Mountain] tiles>","Double movement in [Land] <in [Offshore Platform] tiles> <with [1] to [6] neighboring [Mountain] tiles>",
+  "Double movement in [Land] <in [Pasture] tiles> <with [1] to [6] neighboring [Mountain] tiles>","Double movement in [Land] <in [Plantation] tiles> <with [1] to [6] neighboring [Mountain] tiles>",
+  "Double movement in [Land] <in [Quarry] tiles> <with [1] to [6] neighboring [Mountain] tiles>","Double movement in [Land] <in [Fishing Boats] tiles> <with [1] to [6] neighboring [Mountain] tiles>",
+  "Double movement in [Land] <in [Fort] tiles> <with [1] to [6] neighboring [Mountain] tiles>","Double movement in [Land] <in [Road] tiles> <with [1] to [6] neighboring [Mountain] tiles>",
+  "Double movement in [Land] <in [Railroad] tiles> <with [1] to [6] neighboring [Mountain] tiles>","Double movement in [Land] <in [Academy] tiles> <with [1] to [6] neighboring [Mountain] tiles>",
+  "Double movement in [Land] <in [Landmark] tiles> <with [1] to [6] neighboring [Mountain] tiles>","Double movement in [Land] <in [Manufactory] tiles> <with [1] to [6] neighboring [Mountain] tiles>",
+  "Double movement in [Land] <in [Customs house] tiles> <with [1] to [6] neighboring [Mountain] tiles>","Double movement in [Land] <in [Holy site] tiles> <with [1] to [6] neighboring [Mountain] tiles>",
+  "Double movement in [Land] <in [Citadel] tiles> <with [1] to [6] neighboring [Mountain] tiles>","Double movement in [Land] <in [Moai] tiles> <with [1] to [6] neighboring [Mountain] tiles>",
+  "Double movement in [Land] <in [Terrace farm] tiles> <with [1] to [6] neighboring [Mountain] tiles>","Double movement in [Land] <in [Polder] tiles> <with [1] to [6] neighboring [Mountain] tiles>",
+  "Double movement in [Land] <in [City ruins] tiles> <with [1] to [6] neighboring [Mountain] tiles>","Double movement in [Land] <in [City center] tiles> <with [1] to [6] neighboring [Mountain] tiles>"]
 },
 ]
