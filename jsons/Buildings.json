@@ -5,7 +5,7 @@
   "cost": 1,
 //  "replacementTextForUniques": "Если что сюда пишется что будет отображаться вместо uniques",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "Destroyed when the city is captured"],
+  "Destroyed when the city is captured", "Triggers the following global alert: [[]'s leader – []]"],
 },
 {
   "name": "Landowning reforms (Maria Theresa)",
