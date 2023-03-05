@@ -500,14 +500,24 @@
   "Triggers the following global alert: [Iroquois' leader – Poundmaker]"],
 },
 {
-  "name": "",
+  "name": "Spanish Inquisition (Isabella)",
+  "uniqueTo": "Spain",
+  "cost": 1,
+//  "replacementTextForUniques": "",
+  "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
+  "Destroyed when the city is captured", "Triggers the following global alert: [Spain's leader – Isabella]",
+  "[Inquisitor] units built [in all cities] can [Remove Foreign religions from your own cities] [1] extra times",
+  "[Inquisitor] units gain the [Spain bonus] promotion"],
+},
+{
+  "name": "Officials also plows the land (Wu Zetian)",
   "uniqueTo": "China",
   "cost": 1,
-//  "replacementTextForUniques": "[]
-// []",
+//  "replacementTextForUniques": "[-50% Food consumtion by specialists but also +25% Unhappiness from them]
+// [+1 [Food] from Farm tiles with neighboring City center]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "Destroyed when the city is captured", "Triggers the following global alert: [China's leader – ]", 
+  "Destroyed when the city is captured", "Triggers the following global alert: [China's leader – Wu Zetian]", 
   "[-50]% Food consumption by specialists [in all cities]", "[+25]% Unhappiness from [Specialists] [in all cities]",
-  "[+1 Food] from every [Farm] <with [1] to [6] neighboring [City centre] tiles>"],
+  "[+1 Food] from every [Farm] <with [1] to [6] neighboring [City center] tiles>"],
 },
 ]
