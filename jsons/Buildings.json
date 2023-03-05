@@ -503,11 +503,26 @@
   "name": "Spanish Inquisition (Isabella)",
   "uniqueTo": "Spain",
   "cost": 1,
-//  "replacementTextForUniques": "",
+//  "replacementTextForUniques": "[Inquisitors can Remove Foreign religions from your own cities 1 extra times]
+// [Inquisitors gives +5% to +25% strength to Military units within 4 to 0 tiles]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "Triggers the following global alert: [Spain's leader – Isabella]",
   "[Inquisitor] units built [in all cities] can [Remove Foreign religions from your own cities] [1] extra times",
   "[Inquisitor] units gain the [Spain bonus] promotion"],
+},
+{
+  "name": "El Escorial (Philip II)",
+  "uniqueTo": "Spain",
+  "cost": 1,
+//  "replacementTextForUniques": "[+2 [Culture], [Science], [Gold] for every known Natural Wonder (+3 additionaly per every era)]
+// [+15% Strength when fighting in Enemy Land tiles after founding a religion (effect is doubled when fighting on foreign continents)]",
+  "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
+  "Destroyed when the city is captured", "Triggers the following global alert: [Spain's leader – Philip II]",
+  "[+15]% Strength <when fighting in [Enemy Land] tiles> <after founding a religion>", "[+15]% Strength <when fighting in [Enemy Land] tiles> <on foreign continents> <after founding a religion>",
+  "[+3 Culture, +2 Science, +2 Gold] for every known Natural Wonder", "[+3 Culture, +3 Science, +3 Gold] for every known Natural Wonder <starting from the [Classical era]>",
+  "[+3 Culture, +3 Science, +3 Gold] for every known Natural Wonder <starting from the [Medieval era]>","[+3 Culture, +3 Science, +3 Gold] for every known Natural Wonder <starting from the [Renaissance era]>",
+  "[+3 Culture, +3 Science, +3 Gold] for every known Natural Wonder <starting from the [Industrial era]>","[+3 Culture, +3 Science, +3 Gold] for every known Natural Wonder <starting from the [Modern era]>",
+  "[+3 Culture, +3 Science, +3 Gold] for every known Natural Wonder <starting from the [Atomic era]>","[+3 Culture, +3 Science, +3 Gold] for every known Natural Wonder <starting from the [Information era]>"],
 },
 {
   "name": "Officials also plows the land (Wu Zetian)",
