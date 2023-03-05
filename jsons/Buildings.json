@@ -473,8 +473,8 @@
   "name": "Indian Confederation (Hiawatha)",
   "uniqueTo": "Iroquois",
   "cost": 1,
-//  "replacementTextForUniques": "[Militaristic City-States grant units [2] times as fast when you are at war with a common nation]
-// [Allied City-States provide [Gold] equal to [+20]% of what they produce for themselves]",
+  "replacementTextForUniques": "[Militaristic City-States grant units [2] times as fast when you are at war with a common nation]
+[Allied City-States provide [Gold] equal to [+20]% of what they produce for themselves]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "Militaristic City-States grant units [2] times as fast when you are at war with a common nation",
   "Allied City-States provide [Gold] equal to [+20]% of what they produce for themselves"],
@@ -483,8 +483,8 @@
   "name": "Favorable Terms (Poundmaker)",
   "uniqueTo": "Iroquois",
   "cost": 1,
-//  "replacementTextForUniques": "[+1 [Food] from Camp and Pasture tiles in all cities connected to capital]
-// [+1 [Gold] from Farm tiles in all cities connected to capital]",
+  "replacementTextForUniques": "[+1 [Food] from Camp and Pasture tiles in all cities connected to capital]
+[+1 [Gold] from Farm tiles in all cities connected to capital]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[+1 Food] from [Pasture] tiles [in all cities connected to capital]", 
   "[+1 Food] from [Camp] tiles [in all cities connected to capital]", "[+1 Gold] from [Farm] tiles [in all cities connected to capital]"],
