@@ -35,8 +35,8 @@
 },
 {
   "name": "Spain bonus",
-  "uniques": ["[+5]% Strength bonus for [Military] units within [4] tiles","[+5]% Strength bonus for [Military] units within [3] tiles",
+  "uniques": ["[+5]% Strength bonus for [Military] units within [4] tiles", "[+5]% Strength bonus for [Military] units within [3] tiles",
   "[+5]% Strength bonus for [Military] units within [2] tiles","[+5]% Strength bonus for [Military] units within [1] tiles",
-  "[+5]% Strength bonus for [Military] units within [0] tiles",]
+  "[+5]% Strength bonus for [Military] units within [0] tiles"]
 },
 ]
