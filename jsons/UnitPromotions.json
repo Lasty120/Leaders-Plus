@@ -18,7 +18,7 @@
 },
 {
   "name": "Inca bonus",
-// "replacementTextForUniques": "Double movement in Improvement with neighboring Mountain tiles",
+ "replacementTextForUniques": "Double movement in Improvement with neighboring Mountain tiles",
   "uniques": ["Will not be displayed in Civilopedia", "Double movement in [Land] <in [Farm] tiles> <with [1] to [6] neighboring [Mountain] tiles>",
   "Double movement in [Land] <in [Lumber mill] tiles> <with [1] to [6] neighboring [Mountain] tiles>","Double movement in [Land] <in [Mine] tiles> <with [1] to [6] neighboring [Mountain] tiles>",
   "Double movement in [Land] <in [Trading post] tiles> <with [1] to [6] neighboring [Mountain] tiles>","Double movement in [Land] <in [Camp] tiles> <with [1] to [6] neighboring [Mountain] tiles>",
