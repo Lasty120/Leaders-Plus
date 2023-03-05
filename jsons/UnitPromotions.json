@@ -33,4 +33,10 @@
   "Double movement in [Land] <in [Terrace farm] tiles> <with [1] to [6] neighboring [Mountain] tiles>","Double movement in [Land] <in [Polder] tiles> <with [1] to [6] neighboring [Mountain] tiles>",
   "Double movement in [Land] <in [City ruins] tiles> <with [1] to [6] neighboring [Mountain] tiles>","Double movement in [Land] <in [City center] tiles> <with [1] to [6] neighboring [Mountain] tiles>"]
 },
+{
+  "name": "Spain bonus",
+  "uniques": ["[+5]% Strength bonus for [Military] units within [4] tiles","[+]% Strength bonus for [Military] units within [3] tiles",
+  "[+5]% Strength bonus for [Military] units within [2] tiles","[+5]% Strength bonus for [Military] units within [1] tiles",
+  "[+5]% Strength bonus for [Military] units within [0] tiles",]
+},
 ]
