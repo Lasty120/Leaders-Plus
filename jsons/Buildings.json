@@ -499,4 +499,15 @@
   "[+1 Food] from [Camp] tiles [in all cities connected to capital]", "[+1 Gold] from [Farm] tiles [in all cities connected to capital]",
   "Triggers the following global alert: [Iroquois' leader – Poundmaker]"],
 },
+{
+  "name": "",
+  "uniqueTo": "China",
+  "cost": 1,
+//  "replacementTextForUniques": "[]
+// []",
+  "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
+  "Destroyed when the city is captured", "Triggers the following global alert: [China's leader – ]", 
+  "[-50]% Food consumption by specialists [in all cities]", "[+25]% Unhappiness from [Specialists] [in all cities]",
+  "[+1 Food] from every [Farm] <with [1] to [6] neighboring [City centre] tiles>"],
+},
 ]
