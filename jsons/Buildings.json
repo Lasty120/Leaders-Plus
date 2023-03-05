@@ -5,7 +5,7 @@
   "cost": 1,
 //  "replacementTextForUniques": "Если что сюда пишется что будет отображаться вместо uniques",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "Destroyed when the city is captured", "Triggers the following global alert: [[]'s leader – []]"],
+  "Destroyed when the city is captured", "Triggers the following global alert: ['s leader – ]"],
 },
 {
   "name": "Landowning reforms (Maria Theresa)",
@@ -16,7 +16,7 @@
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "[+1 Food, +1 Gold] from every [Farm] <in [Bonus resource] tiles>", "[+1 Food, +1 Gold] from every [Plantation] <in [Sugar] tiles>",
   "[+1 Food, +1 Gold] from every [Plantation] <in [Citrus] tiles>", "[+1 Food, +1 Gold] from every [Plantation] <in [Spices] tiles>", 
-  "[+1 Food, +1 Gold] from every [Plantation] <in [Wine] tiles>", "Destroyed when the city is captured"],
+  "[+1 Food, +1 Gold] from every [Plantation] <in [Wine] tiles>", "Destroyed when the city is captured", "Triggers the following global alert: [Austria's leader – Maria Theresa]"],
 },
 {
   "name": "King of the Habsburgs (Otakar II)",
@@ -28,7 +28,7 @@
   "Earn [75]% of killed [Military] unit's [Strength] as [Faith] <starting from the [Ancient era]> <before the [Medieval era]>",
   "Earn [150]% of killed [Military] unit's [Strength] as [Faith] <during the [Medieval era]>", "Earn [75]% of killed [Military] unit's [Strength] as [Faith] <starting from the [Renaissance era]>",
   "Gain [50] [Faith] <upon conquering a city>", "Gain [50] [Faith] <upon conquering a city> <in cities with a [Shrine]>", "Gain [50] [Faith] <upon conquering a city> <in cities with a [Temple]>",
-  "Destroyed when the city is captured"],
+  "Destroyed when the city is captured". "Triggers the following global alert: [Austria's leader – Otakar II]"],
 },
 {
   "name": "Founder of America (George Washington)",
@@ -38,7 +38,7 @@
 [+25% Strength for cities when defending]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "[+15]% Strength <when fighting in [Friendly Land] tiles>", "[+25]% Strength for cities <when defending>",
-  "Destroyed when the city is captured"],
+  "Destroyed when the city is captured", "Triggers the following global alert: [America's leader – George Washington]"],
 },
 {
   "name": "Union Guardian (Abraham Lincoln)",
@@ -52,7 +52,7 @@
   "All newly-trained [Military] units [in all cities] receive the [Reduced maintenance III] promotion <in cities with a [Factory]>",
   "All newly-trained [Military] units [in all cities] receive the [Reduced maintenance II] promotion <in cities with a [Solar Plant]>",
   "All newly-trained [Military] units [in all cities] receive the [Reduced maintenance II] promotion <in cities with a [Nuclear Plant]>",
-  "Destroyed when the city is captured"],
+  "Destroyed when the city is captured", "Triggers the following global alert: [Ameica's leader – Abraham Lincoln]"],
 },
 {
   "name": "Rise of the Fine Arts (Elizabeth)",
@@ -65,7 +65,7 @@
   "[+10]% [Culture] from every [Theatre]", "[+10]% [Culture] from every [Stadium]",
   "[+5]% [Culture] from every [Amphitheater]", "[+5]% [Culture] from every [Opera House]",
   "[+5]% [Culture] from every [Museum]", "[+5]% [Culture] from every [Broadcast Tower]",
-  "Destroyed when the city is captured"],
+  "Destroyed when the city is captured", "Triggers the following global alert: [England's leader – Elisabeth]"],
 },
 {
   "name": "Pax Britannica (Victoria)",
@@ -86,7 +86,8 @@
   "Free [Rifleman] appears <upon founding a city> <on foreign continents> <before discovering [Replaceable Parts]> <after discovering [Rifling]>",
   "Free [Great War Infantry] appears <upon founding a city> <on foreign continents> <before discovering [Plastics]> <after discovering [Replaceable Parts]>",
   "Free [Infantry] appears <upon founding a city> <on foreign continents> <before discovering [Mobile Tactics]> <after discovering [Plastics]>",
-  "Free [Mechanized Infantry] appears <upon founding a city> <on foreign continents> <after discovering [Mobile Tactics]>", "Destroyed when the city is captured"],
+  "Free [Mechanized Infantry] appears <upon founding a city> <on foreign continents> <after discovering [Mobile Tactics]>", "Destroyed when the city is captured",
+  "Triggers the following global alert: [England's leader – Victoria]"],
 },
   {
   "name": "Free Water unitt",
@@ -112,7 +113,7 @@
   "[+15]% [Science] from every [Cathedral]", "[+15]% [Culture] from every [Monastery]",
   "[+15]% [Science] from every [Monastery]", "[+15]% [Culture] from every [Mosque]",
   "[+15]% [Science] from every [Mosque]", "[+15]% [Culture] from every [Pagoda]",
-  "[+15]% [Science] from every [Pagoda]", "Destroyed when the city is captured"],
+  "[+15]% [Science] from every [Pagoda]", "Destroyed when the city is captured", "Triggers the following global alert: [Arabia's leader – Harun Al Rashid]"],
 },
 {
   "name": "Victorious (Saladin)",
@@ -122,7 +123,7 @@
 [+30% Spread Religion Strength]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "[+100]% to Flank Attack bonuses <when adjacent to a [Great Prophet] unit>", "[+30]% Spread Religion Strength",
-  "Destroyed when the city is captured"],
+  "Destroyed when the city is captured", "Triggers the following global alert: [Arabia's leader – Saladin]"],
 },
 {
   "name": "Gifts for Tlatoani (Montezuma I)",
@@ -137,7 +138,7 @@
   "[+4]% Strength <with [Jewelry]>","[+4]% Strength <with [Marble]>","[+4]% Strength <with [Pearls]>","[+4]% Strength <with [Porcelain]>",
   "[+4]% Strength <with [Salt]>","[+4]% Strength <with [Silk]>","[+4]% Strength <with [Silver]>","[+4]% Strength <with [Spices]>",
   "[+4]% Strength <with [Sugar]>","[+4]% Strength <with [Truffles]>","[+4]% Strength <with [Whales]>","[+4]% Strength <with [Wine]>",
-  "Destroyed when the city is captured"],
+  "Destroyed when the city is captured", "Triggers the following global alert: [Aztecs' leader – Montezuma I]"],
 },
 {
   "name": "Great Baray (Ahuizotl)",
@@ -147,7 +148,7 @@
 [+20% Strength when fighting in Forest or Jungle tiles]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Heals [25] damage if it kills a unit <for [Melee] units>", "[+20]% Strength <when fighting in [Jungle] tiles>",
-  "[+20]% Strength <when fighting in [Forest] tiles>", "Destroyed when the city is captured"],
+  "[+20]% Strength <when fighting in [Forest] tiles>", "Destroyed when the city is captured", "Triggers the following global alert: [Aztecs' leader – Ahuizotl]"],
 },
 {
   "name": "Rabum abu (Nebuchadnezzar II)",
@@ -161,7 +162,7 @@
   "[+1 Gold] from every [Lighthouse]","[+1 Gold] from every [Temple]","[+1 Gold] from every [Amphitheater]","[+1 Gold] from every [Water Mill]",
   "[+1 Gold] from every [Stable]","[+1 Gold] from every [Courthouse]","[+1 Gold] from every [Barracks]","[+1 Gold] from every [Colosseum]",
   "[+1 Gold] from every [Aqueduct]", "Upon capturing a city, receive [3] times its [Gold] production as [Faith] immediately",
-  "Destroyed when the city is captured"],
+  "Destroyed when the city is captured", "Triggers the following global alert: [Babylon's leader – Nebuchadnezzar II]"],
 },
 {
   "name": "When Great Anu... (Hammurabi)",
@@ -174,7 +175,7 @@
   "[-10]% Production when constructing [2 Workers2] buildings [in all cities] <in cities with a [Windmill]>", "[-10]% Production when constructing [2 Workers3] buildings [in all cities] <in cities with a [Windmill]>",
   "[-10]% Production when constructing [2 Workers4] buildings [in all cities] <in cities with a [Windmill]>", "[-10]% Production when constructing [2 Workers5] buildings [in all cities] <in cities with a [Windmill]>",
   "[-10]% Production when constructing [2 Workers6] buildings [in all cities] <in cities with a [Windmill]>", "[-10]% Production when constructing [2 Workers7] buildings [in all cities] <in cities with a [Windmill]>",
-  "Destroyed when the city is captured"],
+  "Destroyed when the city is captured", "Triggers the following global alert: [Babylon's leader – Hammurabi]"],
 },
 {
   "name": "2 Workers1",
@@ -242,7 +243,8 @@
   "replacementTextForUniques": "[+1 [Food] per 2 population in all cities]
 [+1 [Happiness] per 4 population and per 6 population in all cities]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "Destroyed when the city is captured", "[+1 Food] per [2] population [in all cities]", "[+1 Happiness] per [4] population [in all cities]", "[+1 Happiness] per [6] population [in all cities]"],
+  "Destroyed when the city is captured", "[+1 Food] per [2] population [in all cities]", "[+1 Happiness] per [4] population [in all cities]", "[+1 Happiness] per [6] population [in all cities]",
+  "Triggers the following global alert: [Byzatium's leader – Feodora]"],
 },
 {
   "name": "Porphyrrogennetos (Basil II)",
@@ -251,7 +253,8 @@
   "replacementTextForUniques": "[Mounted units deal full damage when attacking cities]
 [Can build unique unit [Tagma] when adopting Pierty (replaces Knight, Horses not required, +3 strength, +15% strength bonus for Military units within 3 tiles)]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "Destroyed when the city is captured", "[+33]% Strength <for [Mounted] units> <vs cities> <when attacking>", "Provides [1] [Byzantium bonus]"],
+  "Destroyed when the city is captured", "[+33]% Strength <for [Mounted] units> <vs cities> <when attacking>", "Provides [1] [Byzantium bonus]",
+  "Triggers the following global alert: [Byzantium's leader – Basil II]"],
 },
 {
   "name": "Unioning with Iron and Blood (Otto Von Bismarck)",
@@ -262,7 +265,7 @@
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "Gain a free [-2 Happiness] [in annexed cities]",
   "[+50]% Strength <vs cities> <when attacking>", "[+20]% Strength <when fighting in [Foreign Land] tiles>",
-  "[-20]% Strength <when fighting in [Enemy Land] tiles>"],
+  "[-20]% Strength <when fighting in [Enemy Land] tiles>", "Triggers the following global alert: [Germany's leader – Otto Von Bismark]"],
 },
 {
   "name": "-2 Happiness",
@@ -278,7 +281,7 @@
 [+10% Strength vs cities (+30% additionaly for Siege units)]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "Provides [1] [Germany bonus]", "[+10]% Strength <vs cities>",
-  "[+30]% Strength <for [Siege] units> <vs cities>"],
+  "[+30]% Strength <for [Siege] units> <vs cities>", "Triggers the following global alert: [Germany's leader – Frederick Barbarossa]"],
 },
 {
 	"name": "Barracks",
@@ -320,7 +323,8 @@
   "Gain a free [+2 Happiness] [in annexed cities]", "Upon capturing a city, receive [5] times its [Gold] production as [Faith] immediately <in cities with a [Wonder]>",
   "Upon capturing a city, receive [5] times its [Gold] production as [Gold] immediately <in cities with a [Wonder]>",
   "Upon capturing a city, receive [5] times its [Gold] production as [Science] immediately <in cities with a [Wonder]>",
-  "Upon capturing a city, receive [5] times its [Gold] production as [Culture] immediately <in cities with a [Wonder]>"],
+  "Upon capturing a city, receive [5] times its [Gold] production as [Culture] immediately <in cities with a [Wonder]>",
+  "Triggers the following global alert: [Greece's leader – Alexander]"],
 },
 {
   "name": "+2 Happiness",
@@ -336,7 +340,7 @@
 [+50% [Culture] from City-States]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "Allied City-States provide [Culture] equal to [+25]% of what they produce for themselves",
-  "[+50]% [Culture] from City-States"],
+  "[+50]% [Culture] from City-States", "Triggers the following global alert: [Greece's leader – Pericles]"],
 },
 {
   "name": "Per-Ramses (Ramses)",
@@ -346,7 +350,8 @@
 [+10% Production when constructing All buildings in cities in River]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[+60]% Production towards any buildings that already exist in the Capital <in cities with a [Egypt bonus]>",
-  "Provides a [Egypt bonus] in your first [2] cities for free", "[+10]% Production when constructing [All] buildings [in all cities] <in [River] tiles>"],
+  "Provides a [Egypt bonus] in your first [2] cities for free", "[+10]% Production when constructing [All] buildings [in all cities] <in [River] tiles>",
+  "Triggers the following global alert: [Egypt's leader – Ramses]"],
 },
 {
   "name": "Egypt bonus",
@@ -370,7 +375,8 @@
   "Free [Rifleman] appears <upon founding a city> <on foreign continents> <before discovering [Replaceable Parts]> <after discovering [Rifling]>",
   "Free [Great War Infantry] appears <upon founding a city> <on foreign continents> <before discovering [Plastics]> <after discovering [Replaceable Parts]>",
   "Free [Infantry] appears <upon founding a city> <on foreign continents> <before discovering [Mobile Tactics]> <after discovering [Plastics]>",
-  "Free [Mechanized Infantry] appears <upon founding a city> <on foreign continents> <after discovering [Mobile Tactics]>"],
+  "Free [Mechanized Infantry] appears <upon founding a city> <on foreign continents> <after discovering [Mobile Tactics]>",
+  "Triggers the following global alert: [Egypt's leader – Cleopatra]"],
 },
 {
   "name": "Scourge of God (Attila)",
@@ -386,7 +392,7 @@
   "Gain [140] [Culture] <upon conquering a city> <before the [Modern era]> <starting from the [Industrial era]>",
   "Gain [170] [Culture] <upon conquering a city> <before the [Atomic era]> <starting from the [Modern era]>",
   "Gain [200] [Culture] <upon conquering a city> <before the [Information era]> <starting from the [Atomic era]>",
-  "Gain [230] [Culture] <upon conquering a city> <starting from the [Information era]>"],
+  "Gain [230] [Culture] <upon conquering a city> <starting from the [Information era]>", "Triggers the following global alert: [The Huns' leader – Attila]"],
 },
 {
   "name": "Ruler of Turks (Tobo-Kagan)",
@@ -395,7 +401,8 @@
   "replacementTextForUniques": "[Unique Unit [Turkic Archer] (replaces Knight, 23 Ranged Strength, 2 Range)]
 [+33% Strength for Mounted units vs cities when attacking before the Renaissance era]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "Destroyed when the city is captured", "Provides [1] [Huns bonus]", "[+33]% Strength <for [Mounted] units> <vs cities> <when attacking> <before the [Renaissance era]>"],
+  "Destroyed when the city is captured", "Provides [1] [Huns bonus]", "[+33]% Strength <for [Mounted] units> <vs cities> <when attacking> <before the [Renaissance era]>",
+  "Triggers the following global alert: [The Huns' leader – Tobo-Khagan]"],
 },
 {
   "name": "Thunder of the North (Harald Bluetooth)",
@@ -405,7 +412,8 @@
 [No movement cost to pillage for Water units]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[+15]% Strength <for [Water] units> <within [2] tiles of a [Land]>",
-  "[+15]% Strength <for [Water] units> <within [1] tiles of a [Land]>", "No movement cost to pillage <for [Water] units>"],
+  "[+15]% Strength <for [Water] units> <within [1] tiles of a [Land]>", "No movement cost to pillage <for [Water] units>",
+  "Triggers the following global alert: [Denmark's leader – Harald Bluetooth]"],
 },
 {
   "name": "Hail Mig! (Ivan Wide Embrace)",
@@ -421,7 +429,7 @@
   "Gain [350] [Gold] <upon declaring war with a major Civilization> <before discovering [Rifling]> <after discovering [Gunpowder]>",
   "Gain [425] [Gold] <upon declaring war with a major Civilization> <before discovering [Replaceable Parts]> <after discovering [Rifling]>",
   "Gain [500] [Gold] <upon declaring war with a major Civilization> <before discovering [Plastics]> <after discovering [Replaceable Parts]>",
-  "Gain [575] [Gold] <upon declaring war with a major Civilization> <after discovering [Mobile Tactics]>"],
+  "Gain [575] [Gold] <upon declaring war with a major Civilization> <after discovering [Mobile Tactics]>", "Triggers the following global alert: [Denmark's leader – Ivan Wide Embrace]"],
 },
 {
   "name": "Satyagraha (Gandhi)",
@@ -433,7 +441,7 @@
   "Destroyed when the city is captured", "Gain enough Faith for [5]% of a Great Prophet <upon declaring friendship> <after founding a Pantheon> <before founding a religion>",
   "Gain enough Faith for [10]% of a Great Prophet <upon declaring friendship> <after founding a religion> <before enhancing a religion>",
   "Gain enough Faith for [15]% of a Great Prophet <upon declaring friendship> <after enhancing a religion>", "[+2 Faith] [in this city] <after founding a Pantheon>",
-  "[+2 Faith] [in this city] <after founding a religion>", "[+2 Faith] [in this city] <after enhancing a religion>"],
+  "[+2 Faith] [in this city] <after founding a religion>", "[+2 Faith] [in this city] <after enhancing a religion>", "Triggers the following global alert: [India's leader – Gandhi]"],
 },
 {
   "name": "Arthashastra (Chandragupta)",
@@ -445,7 +453,8 @@
   "Destroyed when the city is captured", "[1] population in a random city <upon conquering a city>",
   "[-100]% Gold cost of upgrading <for [Knight] units>", "[-100]% Gold cost of upgrading <for [Crossbowman] units>",
   "[-100]% Gold cost of upgrading <for [Pikeman] units>", "[-100]% Gold cost of upgrading <for [Trebuchet] units>",
-  "[-100]% Gold cost of upgrading <for [Galleass] units>", "[-100]% Gold cost of upgrading <for [Longswordsman] units>"],
+  "[-100]% Gold cost of upgrading <for [Galleass] units>", "[-100]% Gold cost of upgrading <for [Longswordsman] units>",
+  "Triggers the following global alert: [India's leader – Chandragupta]"],
 },
 {
   "name": "Qhapaq Nan (Pachacuti)",
@@ -457,7 +466,7 @@
   "Destroyed when the city is captured", "[+1 Food] [in all cities] <with [1] to [1] neighboring [Mountain] tiles>",
   "[+2 Food] [in all cities] <with [2] to [2] neighboring [Mountain] tiles>", "[+3 Food] [in all cities] <with [3] to [3] neighboring [Mountain] tiles>",
   "[+4 Food] [in all cities] <with [4] to [4] neighboring [Mountain] tiles>", "[+5 Food] [in all cities] <with [5] to [5] neighboring [Mountain] tiles>",
-  "[Land] units gain the [Inca bonus] promotion"],
+  "[Land] units gain the [Inca bonus] promotion", "Triggers the following global alert: [Inca's leader – Pachacuti]"],
 },
 {
   "name": "Sapa Inca (Huayna Capac)",
@@ -467,7 +476,7 @@
 [+1 [Happiness] per 4 population in all cities connected to capital]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[+30]% Strength <for [Melee] units> <vs [Archery] units> <when attacking>",
-  "[+1 Happiness] per [4] population [in all cities connected to capital]"],
+  "[+1 Happiness] per [4] population [in all cities connected to capital]", "Triggers the following global alert: [Inca's leader – Huayna Capac]"],
 },
 {
   "name": "Indian Confederation (Hiawatha)",
@@ -477,7 +486,7 @@
 [Allied City-States provide [Gold] equal to [+20]% of what they produce for themselves]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "Militaristic City-States grant units [2] times as fast when you are at war with a common nation",
-  "Allied City-States provide [Gold] equal to [+20]% of what they produce for themselves"],
+  "Allied City-States provide [Gold] equal to [+20]% of what they produce for themselves", "Triggers the following global alert: [Iroquois' leader – Hiawatha]"],
 },
 {
   "name": "Favorable Terms (Poundmaker)",
@@ -487,6 +496,7 @@
 [+1 [Gold] from Farm tiles in all cities connected to capital]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[+1 Food] from [Pasture] tiles [in all cities connected to capital]", 
-  "[+1 Food] from [Camp] tiles [in all cities connected to capital]", "[+1 Gold] from [Farm] tiles [in all cities connected to capital]"],
+  "[+1 Food] from [Camp] tiles [in all cities connected to capital]", "[+1 Gold] from [Farm] tiles [in all cities connected to capital]",
+  "Triggers the following global alert: [Iroquois' leader – Poundmaker]"],
 },
 ]
