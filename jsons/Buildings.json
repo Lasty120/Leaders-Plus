@@ -451,8 +451,8 @@
   "name": "Qhapaq Nan (Pachacuti)",
   "uniqueTo": "Inca",
   "cost": 1,
-//  "replacementTextForUniques": "[Cities gain +1 [Food] for every adjacent Mountain tiles]
-// [Double movement in Improvement tiles with neighboring Mountain tiles]",
+  "replacementTextForUniques": "[Cities gain +1 [Food] for every adjacent Mountain tiles]
+[Double movement in Improvement tiles with neighboring Mountain tiles]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[+1 Food] [in all cities] <with [1] to [1] neighboring [Mountain] tiles>",
   "[+2 Food] [in all cities] <with [2] to [2] neighboring [Mountain] tiles>", "[+3 Food] [in all cities] <with [3] to [3] neighboring [Mountain] tiles>",
@@ -463,8 +463,8 @@
   "name": "Sapa Inca (Huayna Capac)",
   "uniqueTo": "Inca",
   "cost": 1,
-//  "replacementTextForUniques": "[+3% Strength for Melee units vs Archery units when attacking]
-// [+1 [Happiness] per 4 population in all cities connected to capital]",
+  "replacementTextForUniques": "[+30% Strength for Melee units vs Archery units when attacking]
+[+1 [Happiness] per 4 population in all cities connected to capital]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[+30]% Strength <for [Melee] units> <vs [Archery] units> <when attacking>",
   "[+1 Happiness] per [4] population [in all cities connected to capital]"],
