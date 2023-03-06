@@ -614,8 +614,8 @@
   "uniqueTo": "China",
   "cost": 1,
   "isWonder": true,
-//  "replacementTextForUniques": "[-50% Food consumtion by specialists but also +25% Unhappiness from them]
-// [+1 [Food] from Farm tiles with neighboring City center]",
+  "replacementTextForUniques": "[-50% Food consumtion by specialists but also +25% Unhappiness from them]
+[+1 [Food] from Farm tiles with neighboring City center]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "Triggers the following global alert: [China's leader – Wu Zetian]", 
   "[-50]% Food consumption by specialists [in all cities]", "[+25]% Unhappiness from [Specialists] [in all cities]",
@@ -626,8 +626,8 @@
   "uniqueTo": "China",
   "cost": 1,
   "isWonder": true,
-//  "replacementTextForUniques": "[Workers can construct Chinese Wall (replaces Fort, +10% additionaly defensive bonus, "Adjacent enemy units ending their turn take 12 damage",)]
-// [[-25]% tile improvement construction time]",
+  "replacementTextForUniques": "[Workers can construct Chinese Wall (replaces Fort, +10% additionaly defensive bonus, Adjacent enemy units ending their turn take 12 damage)]
+[[-25]% tile improvement construction time]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "Provides [1] [China bonus]", "[-25]% tile improvement construction time"],
 },
