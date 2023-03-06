@@ -701,8 +701,8 @@
   "uniqueTo": "Mongolia",
   "cost": 1,
   "isWonder": true,
-//  "replacementTextForUniques": "[When defeating a Mounted unit, earn 20 Gold and recruit it with 67% chance]
-// [+15% Strength for Mounted units and Provides 1 Horses per each technology with Mounted unit]",
+  "replacementTextForUniques": "[When defeating a Mounted unit, earn 20 Gold and recruit it with 67% chance]
+[+15% Strength for Mounted units and Provides 1 Horses per each technology with Mounted unit]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "When defeating a [Mounted] unit, earn [20] Gold and recruit it <with [67]% chance>",
   "[+15]% Strength <for [Mounted] units>", "Provides [1] [Horses] <after discovering [Animal Husbandry]>","Provides [1] [Horses] <after discovering [The Wheel]>",
@@ -714,8 +714,8 @@
   "uniqueTo": "Mongolia",
   "cost": 1,
   "isWonder": true,
-//  "replacementTextForUniques": "[Free random researchable Tech from your era upon constructing Market in annexed cities]
-// [+2 [Gold] from every specialist]",
+  "replacementTextForUniques": "[Free random researchable Tech from your era upon constructing Market in annexed cities]
+[+2 [Gold] from every specialist]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[1] free random researchable Tech(s) from the [Ancient era] <upon constructing [Market] [in annexed cities]> <during the [Ancient era]>",
   "[1] free random researchable Tech(s) from the [Classical era] <upon constructing [Market] [in annexed cities]> <during the [Classical era]>",
