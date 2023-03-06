@@ -688,12 +688,12 @@
   "cost": 1,
   "isWonder": true,
 //  "replacementTextForUniques": "[+10% Yield in all cities with neighboring Luxury resource tiles]
-// [+25% Strength for non-air units, but this effect decreases the closer units are to the capital]",
+// [+25% Strength for Military units, but this effect decreases the closer units are to the capital]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[+10]% [Happiness] [in all cities] <with [1] to [6] neighboring [Luxury resource] tiles>",
   "[+10]% [Science] [in all cities] <with [1] to [6] neighboring [Luxury resource] tiles>","[+10]% [Food] [in all cities] <with [1] to [6] neighboring [Luxury resource] tiles>",
   "[+10]% [Culture] [in all cities] <with [1] to [6] neighboring [Luxury resource] tiles>","[+10]% [Faith] [in all cities] <with [1] to [6] neighboring [Luxury resource] tiles>",
   "[+10]% [Gold] [in all cities] <with [1] to [6] neighboring [Luxury resource] tiles>","[+10]% [Production] [in all cities] <with [1] to [6] neighboring [Luxury resource] tiles>",
-  "[-25]% Strength decreasing with distance from the capital <for [non-air] units>", "[+25]% Strength <for [non-air] units>"],
+  "[-25]% Strength decreasing with distance from the capital", "[+25]% Strength"],
 },
 ]
