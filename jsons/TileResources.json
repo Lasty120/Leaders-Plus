@@ -29,4 +29,9 @@
 		"resourceType": "Bonus",
 		"uniques": [ ]
 	},
+{
+		"name": "China bonus",
+		"resourceType": "Bonus",
+		"uniques": [ ]
+	},
 ]
