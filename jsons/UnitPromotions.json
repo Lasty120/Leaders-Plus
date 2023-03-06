@@ -43,4 +43,8 @@
   "name": "Hannibal bonus",
   "uniques": ["Double movement in [Land] <with [1] to [6] neighboring [Mountain] tiles>"]
 },
+{
+  "name": "Ix Wan Chak Ajaw bonus",
+  "uniques": ["[+10]% Strength <when attacking>", "[+15]% Strength <when fighting in [Land] tiles> <with [1] to [6] neighboring [Luxury resource] tiles>"]
+},
 ]
