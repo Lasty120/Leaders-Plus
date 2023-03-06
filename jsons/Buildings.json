@@ -707,7 +707,7 @@
   "Destroyed when the city is captured", "When defeating a [Mounted] unit, earn [20] Gold and recruit it <with [67]% chance>",
   "[+15]% Strength <for [Mounted] units>", "Provides [1] [Horses] <after discovering [Animal Husbandry]>","Provides [1] [Horses] <after discovering [The Wheel]>",
   "Provides [1] [Horses] <after discovering [Horseback Riding]>","Provides [1] [Horses] <after discovering [Chivalry]>",
-  "Provides [1] [Horses] <after discovering [Metallurgy]>","Provides [1] [Horses] <after discovering [Military Science]>"],
+  "Provides [1] [Horses] <after discovering [Metallurgy]>","Provides [1] [Horses] <after discovering [Military Science]>"]
 },
 {
   "name": "Gerege (Kublai Khan)",
