@@ -570,7 +570,7 @@
 {
   "name": "Second capital",
   "cost": 1,
-  "uniques": ["Unsellable", "Will not be displayed in Civilopedia", "Unbuildable", "Cannot be purchased",
+  "uniques": ["Unsellable", "Will not be displayed in Civilopedia",
   "Destroyed when the city is captured", "Only available <with [Dido bonus]>", "Consumes [1] [Dido bonus]",
   "Indicates the capital city"],
 },
