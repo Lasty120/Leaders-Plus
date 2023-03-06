@@ -568,6 +568,13 @@
   "Destroyed when the city is captured", "Provides [1] [Carthage bonus]", "[-50]% tile improvement construction time <in [Land] tiles> <with [1] to [6] neighboring [City center] tiles>"],
 },
 {
+  "name": "Second capital",
+  "cost": 1,
+  "uniques": ["Unsellable", "Will not be displayed in Civilopedia", "Unbuildable", "Cannot be purchased",
+  "Destroyed when the city is captured", "Only available <with [Carthage bonus]>", "Consumes [1] [Carthage bonus]",
+  "Indicates the capital city"],
+},
+{
   "name": "Officials also plows the land (Wu Zetian)",
   "uniqueTo": "China",
   "cost": 1,
