@@ -562,17 +562,20 @@
   "uniqueTo": "Carthage",
   "cost": 1,
   "isWonder": true,
-//  "replacementTextForUniques": "[Can construct second capital, to which all bonuses "in capital" will be applied]
+//  "replacementTextForUniques": "[Can construct second capital, to which all bonuses "in capital" will be applied and +1 [Production], [Science], [Culture], [Food], [Gold] in capitals]
 // [-50% tile improvement construction time in all tiles with neighboring City center]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "Destroyed when the city is captured", "Provides [1] [Dido bonus]", "[-50]% tile improvement construction time <in [Land] tiles> <with [1] to [6] neighboring [City center] tiles>"],
+  "Destroyed when the city is captured", "Provides [1] [Dido bonus]", "[-50]% tile improvement construction time <in [Land] tiles> <with [1] to [6] neighboring [City center] tiles>",
+  "[+1 Culture, +1 Food, +1 Science, +1 Gold, +1 Production] [in capital] <starting from the [Classical era]>","[+1 Culture, +1 Food, +1 Science, +1 Gold, +1 Production] [in capital] <starting from the [Medieval era]>",
+  "[+1 Culture, +1 Food, +1 Science, +1 Gold, +1 Production] [in capital] <starting from the [Renaissance era]>","[+1 Culture, +1 Food, +1 Science, +1 Gold, +1 Production] [in capital] <starting from the [Industrial era]>",
+  "[+1 Culture, +1 Food, +1 Science, +1 Gold, +1 Production] [in capital] <starting from the [Atomic era]>","[+1 Culture, +1 Food, +1 Science, +1 Gold, +1 Production] [in capital] <starting from the [Information era]>"],
 },
 {
   "name": "Second capital",
   "cost": 1,
   "uniques": ["Unsellable", "Will not be displayed in Civilopedia",
   "Destroyed when the city is captured", "Only available <with [Dido bonus]>", "Consumes [1] [Dido bonus]",
-  "Indicates the capital city"],
+  "Indicates the capital city", "Only available <in cities without a [Palace]>"],
 },
 {
   "name": "Rome's main Enemy (Hannibal)",
