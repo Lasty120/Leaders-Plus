@@ -604,7 +604,7 @@
   "cost": 1,
   "isWonder": true,
 //  "replacementTextForUniques": "[+15% [Production] in all cities for 10 turns upon conquering a city]
-// [+5% [Science] in all cities upon conquering a city]",
+// [+7% [Science] in all cities upon conquering a city]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "Gain a free [Celts bonus] [in annexed cities]"],
 },
@@ -612,7 +612,7 @@
   "name": "Celts bonus",
   "cost": 1,
   "uniques": ["Unsellable", "Will not be displayed in Civilopedia", "Unbuildable", "Cannot be purchased",
-  "Destroyed when the city is captured", "[+5]% [Science] [in all cities]", "[+15]% [Production] [in all cities] <for [10] turns>"]
+  "Destroyed when the city is captured", "[+7]% [Science] [in all cities]"]
 },
 {
   "name": "Officials also plows the land (Wu Zetian)",
