@@ -593,8 +593,8 @@
   "uniqueTo": "Celts",
   "cost": 1,
   "isWonder": true,
-// "replacementTextForUniques": "[Cities are razed [4] times as fast]
-// [+50% XP gained from combat when fighting in Friendly Land tiles]",
+ "replacementTextForUniques": "[Cities are razed [4] times as fast]
+[+50% XP gained from combat when fighting in Friendly Land tiles]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "Cities are razed [4] times as fast", "[+50]% XP gained from combat <for [Military] units> <when fighting in [Friendly Land] tiles>"],
 },
@@ -603,17 +603,11 @@
   "uniqueTo": "Celts",
   "cost": 1,
   "isWonder": true,
-//  "replacementTextForUniques": "[Earn 100% of killed Military unit's Strength as [Science]]
-// [+7% [Science] in all cities upon conquering a city]",
+  "replacementTextForUniques": "[Earn 100% of killed Military unit's Strength as [Science]]
+[+5% [Science] in all cities upon conquering a city]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[+5]% [Science] [in all cities] <upon conquering a city>",
   "Earn [100]% of killed [Military] unit's [Strength] as [Science]"],
-},
-{
-  "name": "Celts bonus",
-  "cost": 1,
-  "uniques": ["Unsellable", "Will not be displayed in Civilopedia", "Unbuildable", "Cannot be purchased",
-  "Destroyed when the city is captured", "[+7]% [Science] [in all cities]"]
 },
 {
   "name": "Officials also plows the land (Wu Zetian)",
