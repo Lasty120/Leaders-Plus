@@ -1,6 +1,6 @@
 [
 {
-	"name": "Fort",
+	"name": "Chinese Wall",
 	"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Snow","Forest","Jungle"],
 	"turnsToBuild": 6,
         "uniqueTo": "China",
