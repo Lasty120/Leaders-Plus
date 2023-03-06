@@ -694,6 +694,6 @@
   "[+10]% [Science] [in all cities] <with [1] to [6] neighboring [Luxury resource] tiles>","[+10]% [Food] [in all cities] <with [1] to [6] neighboring [Luxury resource] tiles>",
   "[+10]% [Culture] [in all cities] <with [1] to [6] neighboring [Luxury resource] tiles>","[+10]% [Faith] [in all cities] <with [1] to [6] neighboring [Luxury resource] tiles>",
   "[+10]% [Gold] [in all cities] <with [1] to [6] neighboring [Luxury resource] tiles>","[+10]% [Production] [in all cities] <with [1] to [6] neighboring [Luxury resource] tiles>",
-  "[-25]% Strength decreasing with distance from the capital", "[+25]% Strength"],
+  "All newly-trained [non-air] units [in all cities connected to capital] receive the [Ix Wan Chak Ajaw bonus] promotion"],
 },
 ]
