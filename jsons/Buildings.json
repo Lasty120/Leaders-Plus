@@ -701,7 +701,7 @@
   "uniqueTo": "Mongolia",
   "cost": 1,
   "isWonder": true,
-//  "replacementTextForUniques": "[When defeating a Mounted unit, earn 10 Gold and recruit it with 67% chance]
+//  "replacementTextForUniques": "[When defeating a Mounted unit, earn 20 Gold and recruit it with 67% chance]
 // [+15% Strength for Mounted units and Provides 1 Horses per each technology with Mounted unit]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "When defeating a [Mounted] unit, earn [20] Gold and recruit it <with [67]% chance>",
