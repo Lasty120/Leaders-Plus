@@ -24,4 +24,9 @@
 		"resourceType": "Bonus",
 		"uniques": [ ]
 	},
+{
+		"name": "Carthage bonus",
+		"resourceType": "Bonus",
+		"uniques": [ ]
+	},
 ]
