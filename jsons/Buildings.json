@@ -612,7 +612,7 @@
   "name": "Celts bonus",
   "cost": 1,
   "uniques": ["Unsellable", "Will not be displayed in Civilopedia",
-  "Destroyed when the city is captured", "[+5]% [Science] [in all cities]", "[+15]% [Production] [in all cities] <for [10] turns>"],
+  "Destroyed when the city is captured", "[+5]% [Science] [in all cities]", "[+15]% [Production] [in all cities] <for [10] turns>"]
 },
 {
   "name": "Officials also plows the land (Wu Zetian)",
