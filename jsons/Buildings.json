@@ -738,7 +738,7 @@
   "Destroyed when the city is captured", "[+8]% Strength <when fighting in [Friendly Land] tiles> <after founding a Pantheon>",
   "[+8]% Strength <when fighting in [Friendly Land] tiles> <after founding a religion>", 
   "[+8]% Strength <when fighting in [Friendly Land] tiles> <after enhancing a religion>", "[Gold] cost of purchasing [Military] units [-20]% <when at war> <after founding a religion>",
-  "[-50]% maintenance costs <for [Military units> <when at war> <after founding a religion>"],
+  "[-50]% maintenance costs <for [Military] units> <when at war> <after founding a religion>"],
 },
 {
   "name": "Radio Oranje (Wilhelmina)",
