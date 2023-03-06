@@ -589,6 +589,32 @@
   "[+20]% Strength <for [Melee] units> <when adjacent to a [Melee] unit> <in [Enemy Land] tiles>"],
 },
 {
+  "name": "Freedom of Britain (Boudicca)",
+  "uniqueTo": "Celts",
+  "cost": 1,
+  "isWonder": true,
+// "replacementTextForUniques": "[Cities are razed [4] times as fast]
+// [+50% XP gained from combat when fighting in Friendly Land tiles]",
+  "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
+  "Destroyed when the city is captured", "Cities are razed [4] times as fast", "[+50]% XP gained from combat <for [Military] units> <when fighting in [Friendly Land] tiles>"],
+},
+{
+  "name": "Bannockburn (Robert the Bruce)",
+  "uniqueTo": "Celts",
+  "cost": 1,
+  "isWonder": true,
+//  "replacementTextForUniques": "[+15% [Production] in all cities for 10 turns upon conquering a city]
+// [+5% [Science] in all cities upon conquering a city]",
+  "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
+  "Destroyed when the city is captured", "Gain a free [Celts bonus] [in annexed cities]"],
+},
+{
+  "name": "Second capital",
+  "cost": 1,
+  "uniques": ["Unsellable", "Will not be displayed in Civilopedia",
+  "Destroyed when the city is captured", "[+5]% [Science] [in all cities]", "[+15]% [Production] [in all cities] <for [10] turns>"],
+},
+{
   "name": "Officials also plows the land (Wu Zetian)",
   "uniqueTo": "China",
   "cost": 1,
