@@ -565,14 +565,25 @@
 //  "replacementTextForUniques": "[Can construct second capital, to which all bonuses "in capital" will be applied]
 // [-50% tile improvement construction time in all tiles with neighboring City center]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "Destroyed when the city is captured", "Provides [1] [Carthage bonus]", "[-50]% tile improvement construction time <in [Land] tiles> <with [1] to [6] neighboring [City center] tiles>"],
+  "Destroyed when the city is captured", "Provides [1] [Dido bonus]", "[-50]% tile improvement construction time <in [Land] tiles> <with [1] to [6] neighboring [City center] tiles>"],
 },
 {
   "name": "Second capital",
   "cost": 1,
   "uniques": ["Unsellable", "Will not be displayed in Civilopedia", "Unbuildable", "Cannot be purchased",
-  "Destroyed when the city is captured", "Only available <with [Carthage bonus]>", "Consumes [1] [Carthage bonus]",
+  "Destroyed when the city is captured", "Only available <with [Dido bonus]>", "Consumes [1] [Dido bonus]",
   "Indicates the capital city"],
+},
+{
+  "name": "Rome's main Enemy (Hannibal)",
+  "uniqueTo": "Carthage",
+  "cost": 1,
+  "isWonder": true,
+//  "replacementTextForUniques": "[Double movement in tiles with neighboring Mountain tiles]
+// [+20% Strength for Melee units when adjacent to a Melee unit in Enemy Land tiles]",
+  "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
+  "Destroyed when the city is captured", "[{Land} {Military}] units gain the [Hannibal bonus] promotion",
+  "[+20]% Strength <for [Melee] units> <when adjacent to a [Melee] unit> <in [Enemy Land] tiles>"],
 },
 {
   "name": "Officials also plows the land (Wu Zetian)",
