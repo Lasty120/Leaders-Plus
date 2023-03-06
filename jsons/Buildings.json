@@ -3,6 +3,7 @@
   "name": " ",
   "uniqueTo": "",
   "cost": 1,
+  "isWonder": true,
 //  "replacementTextForUniques": "Если что сюда пишется что будет отображаться вместо uniques",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "Triggers the following global alert: ['s leader – ]"],
@@ -11,39 +12,43 @@
   "name": "Landowning reforms (Maria Theresa)",
   "uniqueTo": "Austria",
   "cost": 1,
+  "isWonder": true,
   "replacementTextForUniques": "[+1 [Food], +1 [Gold] from every Farm in Bonus resource tiles]
 [+1 [Food], +1 [Gold] from every Plantation in Citrus/Sugar/Wine/Spices tiles]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "[+1 Food, +1 Gold] from every [Farm] <in [Bonus resource] tiles>", "[+1 Food, +1 Gold] from every [Plantation] <in [Sugar] tiles>",
   "[+1 Food, +1 Gold] from every [Plantation] <in [Citrus] tiles>", "[+1 Food, +1 Gold] from every [Plantation] <in [Spices] tiles>", 
-  "[+1 Food, +1 Gold] from every [Plantation] <in [Wine] tiles>", "Destroyed when the city is captured", "Triggers the following global alert: [Austria's leader – Maria Theresa]"],
+  "[+1 Food, +1 Gold] from every [Plantation] <in [Wine] tiles>", "Destroyed when the city is captured"],
 },
 {
   "name": "King of the Habsburgs (Otakar II)",
   "uniqueTo": "Austria",
   "cost": 1,
+  "isWonder": true,
   "replacementTextForUniques": "[Earn 75% of killed Military unit's Strength as [Faith] (+150% during the Medieval era)]
 [Gain 50 [Faith] upon conquering a city (+50 [Faith] additionally from built Shrine and Temple in this city)]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Earn [75]% of killed [Military] unit's [Strength] as [Faith] <starting from the [Ancient era]> <before the [Medieval era]>",
   "Earn [150]% of killed [Military] unit's [Strength] as [Faith] <during the [Medieval era]>", "Earn [75]% of killed [Military] unit's [Strength] as [Faith] <starting from the [Renaissance era]>",
   "Gain [50] [Faith] <upon conquering a city>", "Gain [50] [Faith] <upon conquering a city> <in cities with a [Shrine]>", "Gain [50] [Faith] <upon conquering a city> <in cities with a [Temple]>",
-  "Destroyed when the city is captured", "Triggers the following global alert: [Austria's leader – Otakar II]"],
+  "Destroyed when the city is captured"],
 },
 {
   "name": "Founder of America (George Washington)",
   "uniqueTo": "America",
   "cost": 1,
+  "isWonder": true,
   "replacementTextForUniques": "[+15% Strength when fighting in Friendly Land tiles] 
 [+25% Strength for cities when defending]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "[+15]% Strength <when fighting in [Friendly Land] tiles>", "[+25]% Strength for cities <when defending>",
-  "Destroyed when the city is captured", "Triggers the following global alert: [America's leader – George Washington]"],
+  "Destroyed when the city is captured"],
 },
 {
   "name": "Union Guardian (Abraham Lincoln)",
   "uniqueTo": "America",
   "cost": 1,
+  "isWonder": true,
   "replacementTextForUniques": "[+1 [Happiness] from all [Production] buildings]
 [Production buildings provide -25% maintenance cost for all newly-trained Military units]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
@@ -58,6 +63,7 @@
   "name": "Rise of the Fine Arts (Elizabeth)",
   "uniqueTo": "England",
   "cost": 1,
+  "isWonder": true,
   "replacementTextForUniques": "[+10% [Culture] from all [Happiness] buildings]
 [+5% [Culture] from all [Culture] buildings]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
@@ -71,6 +77,7 @@
   "name": "Pax Britannica (Victoria)",
   "uniqueTo": "England",
   "cost": 1,
+  "isWonder": true,
   "replacementTextForUniques": "[Provides a free Melee unit in cities on foreign continents] 
 [Provides a free Melee Water in first 6 cities with a Harbor]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
@@ -106,6 +113,7 @@
   "name": "Righteousness (Harun Al Rashid)",
   "uniqueTo": "Arabia",
   "cost": 1,
+  "isWonder": true,
   "replacementTextForUniques": "[-50% cost of purchasing [Faith] buildings] 
 [+15% [Culture], +15% [Science] from all [Faith] buildings reseived with [Faith]]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
@@ -119,6 +127,7 @@
   "name": "Victorious (Saladin)",
   "uniqueTo": "Arabia",
   "cost": 1,
+  "isWonder": true,
   "replacementTextForUniques": "[+100% to Flank Attack bonuses when adjacent to a [Great Prophet] unit]
 [+30% Spread Religion Strength]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
@@ -129,6 +138,7 @@
   "name": "Gifts for Tlatoani (Montezuma I)",
   "uniqueTo": "Aztecs",
   "cost": 1,
+  "isWonder": true,
   "replacementTextForUniques": "[+1 Happiness from each type of luxury resource]
 [+4% Strength from each type of luxury resource]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
@@ -144,6 +154,7 @@
   "name": "Great Baray (Ahuizotl)",
   "uniqueTo": "Aztecs",
   "cost": 1,
+  "isWonder": true,
   "replacementTextForUniques": "[Melee units heals 25 damage if kills a unit]
 [+20% Strength when fighting in Forest or Jungle tiles]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
@@ -154,6 +165,7 @@
   "name": "Rabum abu (Nebuchadnezzar II)",
   "uniqueTo": "Babylon",
   "cost": 1,
+  "isWonder": true,
   "replacementTextForUniques": "[+1 [Gold] from all buildings from Ancient and Classical era that require maintenance, but -20% Production when constructing All buildings during the Ancient and Classical era]
 [Upon capturing a city, receive 3 times its [Gold] production as [Faith] immediately]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
@@ -168,6 +180,7 @@
   "name": "When Great Anu... (Hammurabi)",
   "uniqueTo": "Babylon",
   "cost": 1,
+  "isWonder": true,
   "replacementTextForUniques": "[When built a worker for the first time gets the second for free starting from the Classical era]
 [This effect is updates every era]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
@@ -240,6 +253,7 @@
   "name": "Mitera tu lau (Feodora)",
   "uniqueTo": "Byzantium",
   "cost": 1,
+  "isWonder": true,
   "replacementTextForUniques": "[+1 [Food] per 2 population in all cities]
 [+1 [Happiness] per 4 population and per 6 population in all cities]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
@@ -250,6 +264,7 @@
   "name": "Porphyrrogennetos (Basil II)",
   "uniqueTo": "Byzantium",
   "cost": 1,
+  "isWonder": true,
   "replacementTextForUniques": "[Mounted units deal full damage when attacking cities]
 [Can build unique unit [Tagma] when adopting Pierty (replaces Knight, Horses not required, +3 strength, +15% strength bonus for Military units within 3 tiles)]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
@@ -260,6 +275,7 @@
   "name": "Unioning with Iron and Blood (Otto Von Bismarck)",
   "uniqueTo": "Germany",
   "cost": 1,
+  "isWonder": true,
   "replacementTextForUniques": "[+50% Strength vs cities when attacking but -2 Happiness in annexed cities for 10 turns]
 [+20% Strength when fighting in Neutral Land]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
@@ -277,6 +293,7 @@
   "name": "Iron Crown (Frederick Barbarossa)",
   "uniqueTo": "Germany",
   "cost": 1,
+  "isWonder": true,
   "replacementTextForUniques": "[Buildings that gives XP give an additional 10 XP]
 [+10% Strength vs cities (+30% additionaly for Siege units)]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
@@ -313,6 +330,7 @@
   "name": "To the World's End (Alexander)",
   "uniqueTo": "Greece",
   "cost": 1,
+  "isWonder": true,
   "replacementTextForUniques": "[Upon capturing a city, receive 5 times its [Gold] production as [Faith], [Gold], [Science], [Culture] immediately (effect is doubled if this cities has a Wonder)]
 [+2 [Happiness] upon conquering city for 10 turns]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
@@ -336,6 +354,7 @@
   "name": "Surrounded by Glory (Pericles)",
   "uniqueTo": "Greece",
   "cost": 1,
+  "isWonder": true,
   "replacementTextForUniques": "[Allied City-States provide [Culture] equal to +25% of what they produce for themselves],
 [+50% [Culture] from City-States]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
@@ -346,6 +365,7 @@
   "name": "Per-Ramses (Ramses)",
   "uniqueTo": "Egypt",
   "cost": 1,
+  "isWonder": true,
   "replacementTextForUniques": "[+60% Production towards any buildings that already exist in th Capital in second city]
 [+10% Production when constructing All buildings in cities in River]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
@@ -363,6 +383,7 @@
   "name": "Mediterranean's Bride (Cleopatra)",
   "uniqueTo": "Egypt",
   "cost": 1,
+  "isWonder": true,
   "replacementTextForUniques": "[Free Melee unit appears upon declaring friendship]
 [+1 [Food], +1 [Culture] from every Bonus resource in Flood plains tiles]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
@@ -382,6 +403,7 @@
   "name": "Scourge of God (Attila)",
   "uniqueTo": "The Huns",
   "cost": 1,
+  "isWonder": true,
   "replacementTextForUniques": "[When defending a Melee unit, recruit it with 25% chance]
 [Gain 20 [Culture] upon conquering city (+30 [Culture] per every era)]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
@@ -398,6 +420,7 @@
   "name": "Ruler of Turks (Tobo-Kagan)",
   "uniqueTo": "The Huns",
   "cost": 1,
+  "isWonder": true,
   "replacementTextForUniques": "[Unique Unit [Turkic Archer] (replaces Knight, 23 Ranged Strength, 2 Range)]
 [+33% Strength for Mounted units vs cities when attacking before the Renaissance era]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
@@ -408,6 +431,7 @@
   "name": "Thunder of the North (Harald Bluetooth)",
   "uniqueTo": "Denmark",
   "cost": 1,
+  "isWonder": true,
   "replacementTextForUniques": "[+15% Strength for Water units within 2 tiles of a Land tiles (+15% additionaly within 1 tiles of a Land tiles)]
 [No movement cost to pillage for Water units]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
@@ -419,6 +443,7 @@
   "name": "Hail Mig! (Ivan Wide Embrace)",
   "uniqueTo": "Denmark",
   "cost": 1,
+  "isWonder": true,
   "replacementTextForUniques": "[Gain 50 [Gold] upon declaring war with a major Civilization (+75 [Gold] additionaly per every Tech where discovering Sword and Gunpowder units)]
 [Military Water units gains the +30% Strength bonus for Military Land units within 2 tiles]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
@@ -435,6 +460,7 @@
   "name": "Satyagraha (Gandhi)",
   "uniqueTo": "India",
   "cost": 1,
+  "isWonder": true,
   "replacementTextForUniques": "[Gain enough Faith for 5% of a Great Prophet upon declaring friendship after founding a Pantheon (+5% additionaly after founding and enhancing a religion)]
 [+2 [Faith] after founding a Pantheon, founding and enhancing a religion]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
@@ -447,6 +473,7 @@
   "name": "Arthashastra (Chandragupta)",
   "uniqueTo": "India",
   "cost": 1,
+  "isWonder": true,
   "replacementTextForUniques": "[1 population in a random city upon conquering a city]
 [All units from Medieval era upgrades for free]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
@@ -460,6 +487,7 @@
   "name": "Qhapaq Nan (Pachacuti)",
   "uniqueTo": "Inca",
   "cost": 1,
+  "isWonder": true,
   "replacementTextForUniques": "[Cities gain +1 [Food] for every adjacent Mountain tiles]
 [Double movement in Improvement tiles with neighboring Mountain tiles]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
@@ -472,6 +500,7 @@
   "name": "Sapa Inca (Huayna Capac)",
   "uniqueTo": "Inca",
   "cost": 1,
+  "isWonder": true,
   "replacementTextForUniques": "[+30% Strength for Melee units vs Archery units when attacking]
 [+1 [Happiness] per 4 population in all cities connected to capital]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
@@ -479,9 +508,10 @@
   "[+1 Happiness] per [4] population [in all cities connected to capital]", "Triggers the following global alert: [Inca's leader – Huayna Capac]"],
 },
 {
-  "name": "Indian Confederation (Hiawatha)",
+  "name": "Injun Confederation (Hiawatha)",
   "uniqueTo": "Iroquois",
   "cost": 1,
+  "isWonder": true,
   "replacementTextForUniques": "[Militaristic City-States grant units [2] times as fast when you are at war with a common nation]
 [Allied City-States provide [Gold] equal to [+20]% of what they produce for themselves]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
@@ -492,6 +522,7 @@
   "name": "Favorable Terms (Poundmaker)",
   "uniqueTo": "Iroquois",
   "cost": 1,
+  "isWonder": true,
   "replacementTextForUniques": "[+1 [Food] from Camp and Pasture tiles in all cities connected to capital]
 [+1 [Gold] from Farm tiles in all cities connected to capital]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
@@ -503,6 +534,7 @@
   "name": "Spanish Inquisition (Isabella)",
   "uniqueTo": "Spain",
   "cost": 1,
+  "isWonder": true,
   "replacementTextForUniques": "[Inquisitors can Remove Foreign religions from your own cities 1 extra times]
 [Inquisitors gives +5% to +25% strength to Military units within 4 to 0 tiles]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
@@ -514,6 +546,7 @@
   "name": "El Escorial (Philip II)",
   "uniqueTo": "Spain",
   "cost": 1,
+  "isWonder": true,
   "replacementTextForUniques": "[+2 [Culture], [Science], [Gold] for every known Natural Wonder (+3 additionaly per every era)]
 [+15% Strength when fighting in Enemy Land tiles after founding a religion (effect is doubled when fighting on foreign continents)]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
@@ -525,9 +558,20 @@
   "[+3 Culture, +3 Science, +3 Gold] for every known Natural Wonder <starting from the [Atomic era]>","[+3 Culture, +3 Science, +3 Gold] for every known Natural Wonder <starting from the [Information era]>"],
 },
 {
+  "name": "Founder of Carthage (Dido)",
+  "uniqueTo": "Carthage",
+  "cost": 1,
+  "isWonder": true,
+//  "replacementTextForUniques": "[Can construct second capital, to which all bonuses "in capital" will be applied]
+// [-50% tile improvement construction time in all tiles with neighboring City center]",
+  "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
+  "Destroyed when the city is captured", "Provides [1] [Carthage bonus]", "[-50]% tile improvement construction time <in [Land] tiles> <with [1] to [6] neighboring [City center] tiles>"],
+},
+{
   "name": "Officials also plows the land (Wu Zetian)",
   "uniqueTo": "China",
   "cost": 1,
+  "isWonder": true,
 //  "replacementTextForUniques": "[-50% Food consumtion by specialists but also +25% Unhappiness from them]
 // [+1 [Food] from Farm tiles with neighboring City center]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
