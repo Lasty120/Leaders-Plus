@@ -626,10 +626,9 @@
   "uniqueTo": "China",
   "cost": 1,
   "isWonder": true,
-//  "replacementTextForUniques": "[Workers can construct Chinese Wall (replaces Fort, +10% additionaly defensive bonus, Enemy units must spend 1 extra movement in this tile)]
+//  "replacementTextForUniques": "[Workers can construct Chinese Wall (replaces Fort, +10% additionaly defensive bonus, "Adjacent enemy units ending their turn take 12 damage",)]
 // [[-25]% tile improvement construction time]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "Destroyed when the city is captured", "Provides [1] [China bonus]", "[-25]% tile improvement construction time",
-  "Enemy [Land] units must spend [1] extra movement points when inside your territory <in [Chinese Wall] tiles>"],
+  "Destroyed when the city is captured", "Provides [1] [China bonus]", "[-25]% tile improvement construction time"],
 },
 ]
