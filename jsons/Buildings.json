@@ -609,7 +609,7 @@
   "Destroyed when the city is captured", "Gain a free [Celts bonus] [in annexed cities]"],
 },
 {
-  "name": "Second capital",
+  "name": "Celts bonus",
   "cost": 1,
   "uniques": ["Unsellable", "Will not be displayed in Civilopedia",
   "Destroyed when the city is captured", "[+5]% [Science] [in all cities]", "[+15]% [Production] [in all cities] <for [10] turns>"],
