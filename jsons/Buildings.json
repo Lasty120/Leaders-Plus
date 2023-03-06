@@ -603,10 +603,11 @@
   "uniqueTo": "Celts",
   "cost": 1,
   "isWonder": true,
-//  "replacementTextForUniques": "[+15% [Production] in all cities for 10 turns upon conquering a city]
+//  "replacementTextForUniques": "[Earn 100% of killed Military unit's Strength as [Science]]
 // [+7% [Science] in all cities upon conquering a city]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "Destroyed when the city is captured", "Gain a free [Celts bonus] [in annexed cities]"],
+  "Destroyed when the city is captured", "[+5]% [Science] [in all cities] <upon conquering a city>",
+  "Earn [100]% of killed [Military] unit's [Strength] as [Science]"],
 },
 {
   "name": "Celts bonus",
