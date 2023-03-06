@@ -631,4 +631,24 @@
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "Provides [1] [China bonus]", "[-25]% tile improvement construction time"],
 },
+{
+  "name": "Founder of Hangul language (Sejong)",
+  "uniqueTo": "Korea",
+  "cost": 1,
+  "isWonder": true,
+//  "replacementTextForUniques": "[+1 [Science] per 2 population (effect is doubled in cities with a Library)]
+// [+1 [Culture] from every Library and +2 [Culture] from all other [Science] buildings]",
+  "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
+  "Destroyed when the city is captured", "[+1 Science] per [2] population [in all cities]", "[+1 Science] per [2] population [in all cities] <in cities with a [Library]",
+  "[+2 Culture] from all [Science] buildings", "[-1 Culture] from every [Library]"],
+},
+{
+  "name": "",
+  "uniqueTo": "",
+  "cost": 1,
+  "isWonder": true,
+//  "replacementTextForUniques": "",
+  "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
+  "Destroyed when the city is captured"],
+},
 ]
