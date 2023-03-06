@@ -562,8 +562,8 @@
   "uniqueTo": "Carthage",
   "cost": 1,
   "isWonder": true,
-//  "replacementTextForUniques": "[Can construct second capital, to which all bonuses "in capital" will be applied and +1 [Production], [Science], [Culture], [Food], [Gold] in capitals]
-// [-50% tile improvement construction time in all tiles with neighboring City center]",
+  "replacementTextForUniques": "[Can construct second capital, to which all bonuses "in capital" will be applied and +1 [Production], [Science], [Culture], [Food], [Gold] in capitals per every era expect Ancient era]
+[-50% tile improvement construction time in all tiles with neighboring City center]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "Provides [1] [Dido bonus]", "[-50]% tile improvement construction time <in [Land] tiles> <with [1] to [6] neighboring [City center] tiles>",
   "[+1 Culture, +1 Food, +1 Science, +1 Gold, +1 Production] [in capital] <starting from the [Classical era]>","[+1 Culture, +1 Food, +1 Science, +1 Gold, +1 Production] [in capital] <starting from the [Medieval era]>",
@@ -582,8 +582,8 @@
   "uniqueTo": "Carthage",
   "cost": 1,
   "isWonder": true,
-//  "replacementTextForUniques": "[Double movement in tiles with neighboring Mountain tiles]
-// [+20% Strength for Melee units when adjacent to a Melee unit in Enemy Land tiles]",
+  "replacementTextForUniques": "[Double movement in tiles with neighboring Mountain tiles]
+[+20% Strength for Melee units when adjacent to a Melee unit in Enemy Land tiles]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[{Land} {Military}] units gain the [Hannibal bonus] promotion",
   "[+20]% Strength <for [Melee] units> <when adjacent to a [Melee] unit> <in [Enemy Land] tiles>"],
