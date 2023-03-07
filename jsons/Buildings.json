@@ -965,8 +965,7 @@
         "Vizier": 2},
 	"requiredBuilding": "Library",
 	"uniques": ["[+2 Science] from [Jungle] tiles [in this city]", "Only available <with [Suleiman bonus]>",
-        "Only available <in cities without a [University]>"],
-	"requiredTech": "Education"
+        "Only available <in cities without a [University]>", "Only available <after discovering [Education]>"],
 	},
 {
 	"name": "Suleiman's Observatory",
@@ -976,15 +975,14 @@
         "specialistSlots": {"Vizier": 2},
 	"requiredBuilding": "Library",
 	"uniques": ["Must be next to [Mountain]", "Only available <with [Suleiman bonus]>",
-        "Only available <in cities without a [Observatory]>"],
-	"requiredTech": "Astronomy"
+        "Only available <in cities without a [Observatory]>", "Only available <after discovering [Astronomy]>"],
 	},
 {
 	"name": "Observatory",
 	"maintenance": 0,
 	"hurryCostModifier": 15,
 	"percentStatBonus": {"science": 50},
-	"requiredBuilding": "Library",
+	"requiredBuilding": "Suleiman's Library",
 	"uniques": ["Must be next to [Mountain]", "Only available <without [Suleiman bonus]>",
         "Only available <in cities without a [Suleiman's Observatory]>"],
 	"requiredTech": "Astronomy"
@@ -994,12 +992,11 @@
 	"science": 3,
 	"specialistSlots": {"Scientist": 1,
         "Vizier": 2},
-	"requiredBuilding": "University",
+	"requiredBuilding": "Suleiman's University",
 	"maintenance": 3,
 	"hurryCostModifier": 0,
 	"uniques": ["[+1 Science] per [2] population [in this city]", "Only available <with [Suleiman bonus]>",
-        "Only available <in cities without a [Public School]>"],
-	"requiredTech": "Scientific Theory"
+        "Only available <in cities without a [Public School]>","Only available <after discovering [Scientific Theory]>"],
 	},
 {
 	"name": "Public School",
@@ -1010,7 +1007,7 @@
 	"hurryCostModifier": 0,
 	"uniques": ["[+1 Science] per [2] population [in this city]", "Only available <without [Suleiman bonus]>",
         "Only available <in cities without a [Suleiman's Public School]>"],
-	"requiredTech": "Scientific Theory"
+        "requiredTech": "Scientific Theory"
 	},
 {
 	"name": "Suleiman's Research Lab",
@@ -1018,10 +1015,9 @@
 	"percentStatBonus": {"science": 50},
 	"specialistSlots": {"Scientist": 1,
         "Vizier": 1},
-        "uniques": ["Only available <with [Suleiman bonus]>","Only available <in cities without a [Research Lab]>"]
-	"requiredBuilding": "Public School",
+        "uniques": ["Only available <with [Suleiman bonus]>","Only available <in cities without a [Research Lab]>", "Only available <after discovering [Plastics]>"]
+	"requiredBuilding": "Suleiman's Public School",
 	"maintenance": 3,
-	"requiredTech": "Plastics"
 	},
 {
 	"name": "Research Lab",
