@@ -751,4 +751,28 @@
   "Destroyed when the city is captured", "[+2 Culture] from each Trade Route", "[+1 Culture] [in all cities connected to capital]",
   "[-25]% Culture cost of natural border growth [in all cities connected to capital]"],
 },
+{
+  "name": "The Greatest Builder (Darius I)",
+  "uniqueTo": "Persia",
+  "cost": 1,
+  "isWonder": true,
+//  "replacementTextForUniques": "[+2 [Happiness] from All Defensive buildings including Palace]
+// [+15% Production when constructing All buildings before the Renaissance era]",
+  "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
+  "Destroyed when the city is captured", "[+2 Happiness] from every [Palace]",
+  "[+2 Happiness] from every [Walls]","[+2 Happiness] from every [Castle]",
+  "[+2 Happiness] from every [Arsenal]","[+2 Happiness] from every [Bomb Shelter]", 
+  "[+15]% Production when constructing [All] buildings <before the [Renaissance era]"],
+},
+{
+  "name": "Fall of Babylon (Cyrus)",
+  "uniqueTo": "Persia",
+  "cost": 1,
+  "isWonder": true,
+//  "replacementTextForUniques": "[Empire enters a 1-turn Golden Age upon defeating a Military units]
+// [+3 [Happiness] in all annexed cities with a garrison]",
+  "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
+  "Destroyed when the city is captured", "[Military] units gain the [Persia bonus] promotion",
+  "[+3 Happiness] [{in annexed cities} {in all cities with a garrison}]"],
+},
 ]
