@@ -802,17 +802,23 @@
   "uniqueTo": "Rome",
   "cost": 1,
   "isWonder": true,
-//  "replacementTextForUniques": "",
+//  "replacementTextForUniques": "[Receive triple Gold from Barbarian encampments and pillaging Cities [before the [Medieval era]]]
+// [Gain 150 [Gold] upon conquering a city (+75 [Gold] additionaly per every era)]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "Destroyed when the city is captured", "Receive triple Gold from Barbarian encampments and pillaging Cities",],
+  "Destroyed when the city is captured", "Receive triple Gold from Barbarian encampments and pillaging Cities <before the [Medieval era]>",
+  "Gain [150] [Gold] <upon conquering a city> <during the [Ancient era]>", "Gain [225] [Gold] <upon conquering a city> <during the [Classical era]>",
+  "Gain [300] [Gold] <upon conquering a city> <during the [Medieval era]>","Gain [375] [Gold] <upon conquering a city> <during the [Renaissance era]>",
+  "Gain [450] [Gold] <upon conquering a city> <during the [Industrial era]>","Gain [525] [Gold] <upon conquering a city> <during the [Modern era]>",
+  "Gain [600] [Gold] <upon conquering a city> <during the [Atomic era]>","Gain [675] [Gold] <upon conquering a city> <during the [Information era]>"
+],
 },
 {
-  "name": "",
-  "uniqueTo": "",
+  "name": "Trajan's Column (Trajan)",
+  "uniqueTo": "Rome",
   "cost": 1,
   "isWonder": true,
 //  "replacementTextForUniques": "",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "Destroyed when the city is captured"],
+  "Destroyed when the city is captured", "Provides the cheapest [stat] building in your first [999] cities for free"],
 },
 ]
