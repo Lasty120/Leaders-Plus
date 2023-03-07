@@ -775,4 +775,22 @@
   "Destroyed when the city is captured", "[Military] units gain the [Persia bonus] promotion",
   "[+3 Happiness] [{in annexed cities} {in all cities with a garrison}]"],
 },
+{
+  "name": "Unifier of Overseas Cities (Kameamea I)",
+  "uniqueTo": "Polynesia",
+  "cost": 1,
+  "isWonder": true,
+//  "replacementTextForUniques": "",
+  "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
+  "Destroyed when the city is captured", ""],
+},
+{
+  "name": "",
+  "uniqueTo": "",
+  "cost": 1,
+  "isWonder": true,
+//  "replacementTextForUniques": "",
+  "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
+  "Destroyed when the city is captured"],
+},
 ]
