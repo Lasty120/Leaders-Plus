@@ -34,4 +34,9 @@
 		"resourceType": "Bonus",
 		"uniques": [ ]
 	},
+{
+        "name": "Siam bonus",
+	"resourceType": "Bonus",
+	"uniques": [ ]
+}
 ]
