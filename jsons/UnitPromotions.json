@@ -37,22 +37,23 @@
   "name": "Spain bonus",
   "uniques": ["[+5]% Strength bonus for [Military] units within [4] tiles", "[+5]% Strength bonus for [Military] units within [3] tiles",
   "[+5]% Strength bonus for [Military] units within [2] tiles","[+5]% Strength bonus for [Military] units within [1] tiles",
-  "[+5]% Strength bonus for [Military] units within [0] tiles"]
+  "[+5]% Strength bonus for [Military] units within [0] tiles", "Will not be displayed in Civilopedia"]
 },
 {
   "name": "Hannibal bonus",
-  "uniques": ["Double movement in [Land] <with [1] to [6] neighboring [Mountain] tiles>"]
+  "uniques": ["Double movement in [Land] <with [1] to [6] neighboring [Mountain] tiles>", "Will not be displayed in Civilopedia"]
 },
 {
   "name": "Ix Wan Chak Ajaw bonus",
-  "uniques": ["[+10]% Strength <when attacking>", "[+15]% Strength <when fighting in [Land] tiles> <with [1] to [6] neighboring [Luxury resource] tiles>"]
+  "uniques": ["[+10]% Strength <when attacking>", "[+15]% Strength <when fighting in [Land] tiles> <with [1] to [6] neighboring [Luxury resource] tiles>",
+  "Will not be displayed in Civilopedia"]
 },
 {
   "name": "Persia bonus",
-  "uniques": ["Empire enters a [1]-turn Golden Age <upon defeating a [Military] unit>"]
+  "uniques": ["Empire enters a [1]-turn Golden Age <upon defeating a [Military] unit>", "Will not be displayed in Civilopedia"]
 },
 {
   "name": "Polynesia bonus",
-  "uniques": ["Defensive bonus when embarked", "May attack when embarked"]
+  "uniques": ["Defensive bonus when embarked", "May attack when embarked", "Will not be displayed in Civilopedia"]
 },
 ]
