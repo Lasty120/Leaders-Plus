@@ -928,6 +928,41 @@
   "[+1 Science, +1 Culture] from every [Vizier]"],
 },
 {
+	"name": "Library",
+	"hurryCostModifier": 25,
+	"maintenance": 1,
+	"uniques": ["[+1 Science] per [2] population [in this city]"],
+	"requiredTech": "Writing"
+	},
+{
+	"name": "Suleiman's Library",
+	"hurryCostModifier": 25,
+	"maintenance": 1,
+	"uniques": ["[+1 Science] per [2] population [in this city]"],
+	"requiredTech": "Writing"
+	},
+{
+	"name": "University",
+	"maintenance": 2,
+	"hurryCostModifier": 15,
+	"percentStatBonus": {"science": 33},
+	"specialistSlots": {"Scientist": 2},
+	"requiredBuilding": "Library",
+	"uniques": ["[+2 Science] from [Jungle] tiles [in this city]"],
+	"requiredTech": "Education"
+	},
+{
+	"name": "Suleiman's University",
+	"maintenance": 2,
+	"hurryCostModifier": 15,
+	"percentStatBonus": {"science": 33},
+	"specialistSlots": {"Scientist": 2,
+   },
+	"requiredBuilding": "Library",
+	"uniques": ["[+2 Science] from [Jungle] tiles [in this city]"],
+	"requiredTech": "Education"
+	},
+{
   "name": "",
   "uniqueTo": "",
   "cost": 1,
