@@ -54,6 +54,6 @@
 },
 {
   "name": "Polynesia bonus",
-  "uniques": ["Defensive bonus when embarked", "May attack when embarked", "Will not be displayed in Civilopedia"]
+  "uniques": ["Defense bonus when embarked", "May attack when embarked", "Will not be displayed in Civilopedia"]
 },
 ]
