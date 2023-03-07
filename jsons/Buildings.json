@@ -762,7 +762,7 @@
   "Destroyed when the city is captured", "[+2 Happiness] from every [Palace]",
   "[+2 Happiness] from every [Walls]","[+2 Happiness] from every [Castle]",
   "[+2 Happiness] from every [Arsenal]","[+2 Happiness] from every [Bomb Shelter]", 
-  "[+15]% Production when constructing [All] buildings <before the [Renaissance era]>"],
+  "[+15]% Production when constructing [All] buildings [in all cities] <before the [Renaissance era]>"],
 },
 {
   "name": "Fall of Babylon (Cyrus)",
