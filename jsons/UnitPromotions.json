@@ -53,6 +53,6 @@
 },
 {
   "name": "Polynesia bonus",
-  "uniques": ["Defensive bonus when embarked"]
+  "uniques": ["Defensive bonus when embarked", "May attack when embarked"]
 },
 ]
