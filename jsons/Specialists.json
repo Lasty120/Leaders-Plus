@@ -1,0 +1,8 @@
+{
+	"name": "Scientist",
+	"science": 2,
+        "culture": 2,
+	"greatPersonPoints": {"Great Scientist": 2,
+        "Great Artist": 2},
+	"color": [0,182,57]
+	},
