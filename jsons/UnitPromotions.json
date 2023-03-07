@@ -47,4 +47,12 @@
   "name": "Ix Wan Chak Ajaw bonus",
   "uniques": ["[+10]% Strength <when attacking>", "[+15]% Strength <when fighting in [Land] tiles> <with [1] to [6] neighboring [Luxury resource] tiles>"]
 },
+{
+  "name": "Persia bonus",
+  "uniques": ["Empire enters a [1]-turn Golden Age <upon defeating a [Military] unit>"]
+},
+{
+  "name": "Polynesia bonus",
+  "uniques": ["Defensive bonus when embarked"]
+},
 ]
