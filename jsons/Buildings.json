@@ -828,8 +828,8 @@
   "uniqueTo": "Russia",
   "cost": 1,
   "isWonder": true,
-//  "replacementTextForUniques": "[-50% Unhappiness from specialists but also +20% Food consumption by them]
-//  [+20% Production when constructing [Culture] buildings]",
+  "replacementTextForUniques": "[-50% Unhappiness from specialists but also +20% Food consumption by them]
+[+20% Production when constructing [Culture] buildings]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[+20]% Food consumption by specialists [in all cities]", "[-50]% Unhappiness from [Specialists] [in all cities]",
   "[+20]% Production when constructing [Culture] buildings [in all cities]"],
@@ -839,8 +839,8 @@
   "uniqueTo": "Russia",
   "cost": 1,
   "isWonder": true,
-//  "replacementTextForUniques": "[Gain 30 [Culture], [Science] upon declaring friendship (+60 additionaly per every era)]
-//  [Allied City-States provide [Culture] and [Science] equal to +5% of what the produce for themselves (+5% additionaly per every era)]",
+  "replacementTextForUniques": "[Gain 30 [Culture], [Science] upon declaring friendship (+60 additionaly per every era)]
+[Allied City-States provide [Culture] and [Science] equal to +5% of what the produce for themselves (+5% additionaly per every era)]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured",
   "Gain [30] [Culture] <upon declaring friendship> <during the [Ancient era]>", "Gain [30] [Science] <upon declaring friendship> <during the [Ancient era]>",
