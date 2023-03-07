@@ -797,4 +797,22 @@
   "Destroyed when the city is captured", "Free [Worker] appears <in cities with a [Palace]>",
   "[+3 Science, +3 Culture] [in all cities] <on foreign continents>"],
 },
+{
+  "name": "",
+  "uniqueTo": "",
+  "cost": 1,
+  "isWonder": true,
+//  "replacementTextForUniques": "",
+  "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
+  "Destroyed when the city is captured"],
+},
+{
+  "name": "",
+  "uniqueTo": "",
+  "cost": 1,
+  "isWonder": true,
+//  "replacementTextForUniques": "",
+  "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
+  "Destroyed when the city is captured"],
+},
 ]
