@@ -860,4 +860,22 @@
   "Allied City-States provide [Culture] equal to [+35]% of what they produce for themselves <during the [Atomic era]>", "Allied City-States provide [Science] equal to [+35]% of what they produce for themselves <during the [Atomic era]>",
   "Allied City-States provide [Culture] equal to [+40]% of what they produce for themselves <during the [Information era]>", "Allied City-States provide [Science] equal to [+40]% of what they produce for themselves <during the [Information era]>",],
 },
+{
+  "name": "Phra Ram Hamhaeng (Ramkhamhaeng)",
+  "uniqueTo": "Siam",
+  "cost": 1,
+  "isWonder": true,
+//  "replacementTextForUniques": "",
+  "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
+  "Destroyed when the city is captured", ""],
+},
+{
+  "name": "",
+  "uniqueTo": "",
+  "cost": 1,
+  "isWonder": true,
+//  "replacementTextForUniques": "",
+  "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
+  "Destroyed when the city is captured"],
+},
 ]
