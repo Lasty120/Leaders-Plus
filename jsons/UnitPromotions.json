@@ -56,4 +56,8 @@
   "name": "Polynesia bonus",
   "uniques": ["Defense bonus when embarked", "May attack when embarked", "Will not be displayed in Civilopedia"]
 },
+{
+  "name": "Mehmed II bonus",
+  "uniques": ["Ranged attacks may be performed over obstacles"]
+},
 ]
