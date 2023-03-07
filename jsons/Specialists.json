@@ -1,3 +1,4 @@
+[
 {
 	"name": "Scientist",
 	"science": 2,
@@ -6,3 +7,4 @@
         "Great Artist": 2},
 	"color": [0,182,57]
 	},
+]
