@@ -888,5 +888,30 @@
   "[+15]% [Culture] [in all cities] <within [2] tiles of a [Siamese Holy site]>","[+15]% [Faith] [in all cities] <within [2] tiles of a [Siamese Holy site]>",
   "Provides [1] [Siam bonus]"]
 },
-
+{
+  "name": "Africa's Greatest Empire (Askia)",
+  "uniqueTo": "Songhai",
+  "cost": 1,
+  "isWonder": true,
+//  "replacementTextForUniques": "[Empire enters golden age but Golder Age Length -20%]
+// [+1 [Happiness] [in annexed cities]]",
+  "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
+  "Destroyed when the city is captured", "Empire enters golden age <upon conquering a city>","[-20]% Golden Age length",
+  "[+1 Happiness] [in annexed cities]"],
+},
+{
+  "name": "Sahel Merchants (Mansa Musa)",
+  "uniqueTo": "Songhai",
+  "cost": 1,
+  "isWonder": true,
+//  "replacementTextForUniques": "[Cities gains +1 [Food], [Gold] for every adjacent Desert tiles]
+// [+1 [Gold] from each Trade Route per every 2 era]",
+  "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
+  "Destroyed when the city is captured", "[+1 Food, +1 Gold] [in all cities connected to capital] <with [1] to [1] neighboring [Desert] tiles>",
+  "[+2 Food, +2 Gold] [in all cities connected to capital] <with [2] to [2] neighboring [Desert] tiles>", "[+3 Food, +3 Gold] [in all cities connected to capital] <with [3] to [3] neighboring [Desert] tiles>",
+  "[+4 Food, +4 Gold] [in all cities connected to capital] <with [4] to [4] neighboring [Desert] tiles>","[+5 Food, +5 Gold] [in all cities connected to capital] <with [5] to [5] neighboring [Desert] tiles>",
+  "[+6 Food, +6 Gold] [in all cities connected to capital] <with [6] to [6] neighboring [Desert] tiles>", "[+1 Gold] from each Trade Route <starting from the [Classical era]>",
+  "[+1 Gold] from each Trade Route <starting from the [Renaissance era]>","[+1 Gold] from each Trade Route <starting from the [Modern era]>",
+  "[+1 Gold] from each Trade Route <starting from the [Information era]>",],
+},
 ]
