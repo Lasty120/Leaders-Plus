@@ -917,4 +917,23 @@
   "[-4 Food, -4 Gold] [in capital] <with [4] to [4] neighboring [Desert] tiles>","[-5 Food, -5 Gold] [in capital] <with [5] to [5] neighboring [Desert] tiles>",
   "[-6 Food, -6 Gold] [in capital] <with [6] to [6] neighboring [Desert] tiles>",]
 },
+{
+  "name": "Grand Vizier (Suleiman)",
+  "uniqueTo": "The Ottomans",
+  "cost": 1,
+  "isWonder": true,
+//  "replacementTextForUniques": "",
+  "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
+  "Destroyed when the city is captured", "Provides [1] [Suleiman bonus]", "[+1 Science, +1 Culture] from every specialist [in all cities]",
+  "[+1 Science, +1 Culture] from every [Vizier]"],
+},
+{
+  "name": "",
+  "uniqueTo": "",
+  "cost": 1,
+  "isWonder": true,
+//  "replacementTextForUniques": "",
+  "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
+  "Destroyed when the city is captured"],
+},
 ]
