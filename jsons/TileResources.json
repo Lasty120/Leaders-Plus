@@ -17,26 +17,31 @@
 {
 		"name": "Byzantium bonus",
 		"resourceType": "Bonus",
-		"uniques": [ ]
+		"uniques": ["Will not be displayed in Civilopedia"]
 	},
 {
 		"name": "Huns bonus",
 		"resourceType": "Bonus",
-		"uniques": [ ]
+		"uniques": ["Will not be displayed in Civilopedia"]
 	},
 {
 		"name": "Dido bonus",
 		"resourceType": "Bonus",
-		"uniques": [ ]
+		"uniques": ["Will not be displayed in Civilopedia"]
 	},
 {
 		"name": "China bonus",
 		"resourceType": "Bonus",
-		"uniques": [ ]
+		"uniques": ["Will not be displayed in Civilopedia"]
 	},
 {
         "name": "Siam bonus",
 	"resourceType": "Bonus",
-	"uniques": [ ]
-}
+	"uniques": ["Will not be displayed in Civilopedia"]
+},
+{
+        "name": "Suleiman bonus",
+	"resourceType": "Bonus",
+	"uniques": []
+},
 ]
