@@ -780,19 +780,21 @@
   "uniqueTo": "Polynesia",
   "cost": 1,
   "isWonder": true,
-//  "replacementTextForUniques": "[Military units gains the Defensive bonuz when embarked]
+//  "replacementTextForUniques": "[Military units gains the Defensive bonus when embarked]
 // [+1 [Happiness] in all cities on foreign continents (effect is doubled starting from the Medieval era]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[Military] units gain the [Polynesia bonus]", "[+1 Happiness] [in all cities] <on foreign continents>", 
   "[+1 Happiness] [in all cities] <on foreign continents> <starting from the [Medieval era]>"],
 },
 {
-  "name": "",
-  "uniqueTo": "",
+  "name": "Kupe's Voyage (Kupe)",
+  "uniqueTo": "Polynesia",
   "cost": 1,
   "isWonder": true,
-//  "replacementTextForUniques": "",
+//  "replacementTextForUniques": "[Free Worker appears in capital]
+// [+3 [Science], [Culture] in all cities on foreign continents]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "Destroyed when the city is captured"],
+  "Destroyed when the city is captured", "Free [Worker] appears <upon constructing [Palace]>",
+  "[+3 Science, +3 Culture] [in all cities] <on foreign continents>"],
 },
 ]
