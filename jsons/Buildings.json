@@ -881,7 +881,8 @@
   "uniqueTo": "Siam",
   "cost": 1,
   "isWonder": true,
-//  "replacementTextForUniques": "",
+//  "replacementTextForUniques": "[Holy sites can be built outside your borders and constructing it will take over the tiles around and assign them to your closest city and also Holy sites gives a defencive bonus of 60%]
+// [+15% [Science], [Culture], [Faith] in cities within tiles of a Holy site]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[+15]% [Science] [in all cities] <within [2] tiles of a [Holy site]>",
   "[+15]% [Culture] [in all cities] <within [2] tiles of a [Holy site]>","[+15]% [Faith] [in all cities] <within [2] tiles of a [Holy site]>",
