@@ -756,8 +756,8 @@
   "uniqueTo": "Persia",
   "cost": 1,
   "isWonder": true,
-//  "replacementTextForUniques": "[+2 [Happiness] from All Defensive buildings including Palace]
-// [+15% Production when constructing All buildings before the Renaissance era]",
+  "replacementTextForUniques": "[+2 [Happiness] from All Defensive buildings including Palace]
+[+15% Production when constructing All buildings before the Renaissance era]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[+2 Happiness] from every [Palace]",
   "[+2 Happiness] from every [Walls]","[+2 Happiness] from every [Castle]",
@@ -769,8 +769,8 @@
   "uniqueTo": "Persia",
   "cost": 1,
   "isWonder": true,
-//  "replacementTextForUniques": "[Empire enters a 1-turn Golden Age upon defeating a Military units]
-// [2 XP gained from combat for Melee units]",
+  "replacementTextForUniques": "[Empire enters a 1-turn Golden Age upon defeating a Military units]
+[2 XP gained from combat for Melee units]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[Military] units gain the [Persia bonus] promotion",
   "[2] XP gained from combat <for [Melee] units>"]
@@ -780,8 +780,8 @@
   "uniqueTo": "Polynesia",
   "cost": 1,
   "isWonder": true,
-//  "replacementTextForUniques": "[Military units gains the Defensive bonus when embarked]
-// [+1 [Happiness] in all cities on foreign continents (effect is doubled starting from the Medieval era]",
+  "replacementTextForUniques": "[Military units gains the Defensive bonus when embarked]
+[+1 [Happiness] in all cities on foreign continents (effect is doubled starting from the Medieval era]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[Military] units gain the [Polynesia bonus]", "[+1 Happiness] [in all cities] <on foreign continents>", 
   "[+1 Happiness] [in all cities] <on foreign continents> <starting from the [Medieval era]>"],
@@ -791,8 +791,8 @@
   "uniqueTo": "Polynesia",
   "cost": 1,
   "isWonder": true,
-//  "replacementTextForUniques": "[Free Worker appears in capital]
-// [+3 [Science], [Culture] in all cities on foreign continents]",
+  "replacementTextForUniques": "[Free Worker appears in capital]
+[+3 [Science], [Culture] in all cities on foreign continents]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "Free [Worker] appears <in cities with a [Palace]>",
   "[+3 Science, +3 Culture] [in all cities] <on foreign continents>"],
