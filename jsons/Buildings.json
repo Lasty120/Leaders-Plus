@@ -938,8 +938,8 @@
 	},
 {
 	"name": "Suleiman's Library",
-	"hurryCostModifier": 25,
 	"maintenance": 1,
+        "cost": 75,
         "specialistSlots": {"Vizier": 1},
 	"uniques": ["[+1 Science] per [2] population [in this city]", "Only available <with [Suleiman bonus]>",
         "Only available <in cities without a [Library]>"],
@@ -959,7 +959,7 @@
 {
 	"name": "Suleiman's University",
 	"maintenance": 2,
-	"hurryCostModifier": 15,
+        "cost": 160,
 	"percentStatBonus": {"science": 33},
 	"specialistSlots": {"Scientist": 2,
         "Vizier": 2},
@@ -970,7 +970,7 @@
 {
 	"name": "Suleiman's Observatory",
 	"maintenance": 0,
-	"hurryCostModifier": 15,
+        "cost": 200,
 	"percentStatBonus": {"science": 50},
         "specialistSlots": {"Vizier": 2},
 	"requiredBuilding": "Library",
@@ -980,7 +980,7 @@
 {
 	"name": "Observatory",
 	"maintenance": 0,
-	"hurryCostModifier": 15,
+        "cost": 200,
 	"percentStatBonus": {"science": 50},
 	"requiredBuilding": "Suleiman's Library",
 	"uniques": ["Must be next to [Mountain]", "Only available <without [Suleiman bonus]>",
@@ -994,7 +994,7 @@
         "Vizier": 2},
 	"requiredBuilding": "Suleiman's University",
 	"maintenance": 3,
-	"hurryCostModifier": 0,
+        "cost": 300,
 	"uniques": ["[+1 Science] per [2] population [in this city]", "Only available <with [Suleiman bonus]>",
         "Only available <in cities without a [Public School]>","Only available <after discovering [Scientific Theory]>"],
 	},
@@ -1015,6 +1015,7 @@
 	"percentStatBonus": {"science": 50},
 	"specialistSlots": {"Scientist": 1,
         "Vizier": 1},
+        "cost": 500,
         "uniques": ["Only available <with [Suleiman bonus]>","Only available <in cities without a [Research Lab]>", "Only available <after discovering [Plastics]>"]
 	"requiredBuilding": "Suleiman's Public School",
 	"maintenance": 3,
