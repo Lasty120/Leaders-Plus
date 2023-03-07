@@ -886,7 +886,7 @@
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[+15]% [Science] [in all cities] <within [2] tiles of a [Siamese Holy site]>",
   "[+15]% [Culture] [in all cities] <within [2] tiles of a [Siamese Holy site]>","[+15]% [Faith] [in all cities] <within [2] tiles of a [Siamese Holy site]>",
-  "Provides [1] [Siam bonus]"],
+  "Provides [1] [Siam bonus]"]
 },
 
 ]
