@@ -942,8 +942,7 @@
         "cost": 75,
         "specialistSlots": {"Vizier": 1},
 	"uniques": ["[+1 Science] per [2] population [in this city]", "Only available <with [Suleiman bonus]>",
-        "Only available <in cities without a [Library]>"],
-	"requiredTech": "Writing"
+        "Only available <in cities without a [Library]>", "Only available <after discovering [Writing]>"],
 	},
 {
 	"name": "University",
@@ -963,7 +962,7 @@
 	"percentStatBonus": {"science": 33},
 	"specialistSlots": {"Scientist": 2,
         "Vizier": 2},
-	"requiredBuilding": "Library",
+	"requiredBuilding": "Suleiman's Library",
 	"uniques": ["[+2 Science] from [Jungle] tiles [in this city]", "Only available <with [Suleiman bonus]>",
         "Only available <in cities without a [University]>", "Only available <after discovering [Education]>"],
 	},
@@ -973,7 +972,7 @@
         "cost": 200,
 	"percentStatBonus": {"science": 50},
         "specialistSlots": {"Vizier": 2},
-	"requiredBuilding": "Library",
+	"requiredBuilding": "Suleiman's Library",
 	"uniques": ["Must be next to [Mountain]", "Only available <with [Suleiman bonus]>",
         "Only available <in cities without a [Observatory]>", "Only available <after discovering [Astronomy]>"],
 	},
@@ -982,7 +981,7 @@
 	"maintenance": 0,
         "cost": 200,
 	"percentStatBonus": {"science": 50},
-	"requiredBuilding": "Suleiman's Library",
+	"requiredBuilding": "Library",
 	"uniques": ["Must be next to [Mountain]", "Only available <without [Suleiman bonus]>",
         "Only available <in cities without a [Suleiman's Observatory]>"],
 	"requiredTech": "Astronomy"
