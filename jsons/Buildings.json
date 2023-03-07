@@ -798,13 +798,13 @@
   "[+3 Science, +3 Culture] [in all cities] <on foreign continents>"],
 },
 {
-  "name": "",
-  "uniqueTo": "",
+  "name": "Veni, Vedi, Visi (Julius Caesar)",
+  "uniqueTo": "Rome",
   "cost": 1,
   "isWonder": true,
 //  "replacementTextForUniques": "",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "Destroyed when the city is captured"],
+  "Destroyed when the city is captured", "Receive triple Gold from Barbarian encampments and pillaging Cities",],
 },
 {
   "name": "",
