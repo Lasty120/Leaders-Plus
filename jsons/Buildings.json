@@ -780,7 +780,7 @@
   "uniqueTo": "Polynesia",
   "cost": 1,
   "isWonder": true,
-  "replacementTextForUniques": "[Military units gains the Defensive bonus when embarked]
+  "replacementTextForUniques": "[Military units gains the Defensive bonus and may attack when embarked]
 [+1 [Happiness] in all cities on foreign continents (effect is doubled starting from the Medieval era)]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[Military] units gain the [Polynesia bonus]", "[+1 Happiness] [in all cities] <on foreign continents>", 
