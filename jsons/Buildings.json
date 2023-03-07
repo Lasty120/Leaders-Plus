@@ -762,7 +762,7 @@
   "Destroyed when the city is captured", "[+2 Happiness] from every [Palace]",
   "[+2 Happiness] from every [Walls]","[+2 Happiness] from every [Castle]",
   "[+2 Happiness] from every [Arsenal]","[+2 Happiness] from every [Bomb Shelter]", 
-  "[+15]% Production when constructing [All] buildings <before the [Renaissance era]"],
+  "[+15]% Production when constructing [All] buildings <before the [Renaissance era]>"],
 },
 {
   "name": "Fall of Babylon (Cyrus)",
@@ -770,10 +770,10 @@
   "cost": 1,
   "isWonder": true,
 //  "replacementTextForUniques": "[Empire enters a 1-turn Golden Age upon defeating a Military units]
-// [+3 [Happiness] in all annexed cities with a garrison]",
+// [2 XP gained from combat for Melee units]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[Military] units gain the [Persia bonus] promotion",
-  "[+3 Happiness] [{in annexed cities} {in all cities with a garrison}]"],
+  "[2] XP gained from combat <for [Melee] units>"]
 },
 {
   "name": "Unifier of Overseas Cities (Kameamea I)",
@@ -794,7 +794,7 @@
 //  "replacementTextForUniques": "[Free Worker appears in capital]
 // [+3 [Science], [Culture] in all cities on foreign continents]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "Destroyed when the city is captured", "Free [Worker] appears <upon constructing [Palace]>",
+  "Destroyed when the city is captured", "Free [Worker] appears <in cities with a [Palace]>",
   "[+3 Science, +3 Culture] [in all cities] <on foreign continents>"],
 },
 ]
