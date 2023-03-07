@@ -904,7 +904,7 @@
   "uniqueTo": "Songhai",
   "cost": 1,
   "isWonder": true,
-//  "replacementTextForUniques": "[Cities gains +1 [Food], [Gold] for every adjacent Desert tiles]
+//  "replacementTextForUniques": "[Cities connected to capital gains +1 [Food], [Gold] for every adjacent Desert tiles]
 // [+1 [Gold] from each Trade Route per every 2 era]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[+1 Food, +1 Gold] [in all cities connected to capital] <with [1] to [1] neighboring [Desert] tiles>",
