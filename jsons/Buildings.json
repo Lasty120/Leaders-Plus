@@ -818,7 +818,7 @@
   "cost": 1,
   "isWonder": true,
 //  "replacementTextForUniques": "[Gain a free cheapest [Culture] building in all cities but -15% Production when constructing other [Culture] buildings]
-// [+1 [Gold] from Trading poat tiles in Road tiles]",
+// [+1 [Gold] from Trading post tiles in Road tiles]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "Provides the cheapest [Culture] building in your first [999] cities for free",
   "[-15]% Production when constructing [Culture] buildings [in all cities]", "[+1 Gold] from [Trading post] tiles [in all cities] <in [Road] tiles>"]
