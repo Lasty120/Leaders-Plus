@@ -58,6 +58,6 @@
 },
 {
   "name": "Mehmed II bonus",
-  "uniques": ["Ranged attacks may be performed over obstacles"]
+  "uniques": ["Ranged attacks may be performed over obstacles", "Will not be displayed in Civilopedia"]
 },
 ]
