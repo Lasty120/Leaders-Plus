@@ -1102,7 +1102,7 @@
   "uniqueTo": "Sweden",
   "cost": 1,
   "isWonder": true,
-  "replacementTextForUniques": "[Unique building – Queen's Bibliotheque (+2 [Culture], [Science], +2 Great Artist point and Great Scientist point, +1 [Culture] per 2 population in this city, +1 [Culture] from every specialist]
+  "replacementTextForUniques": "[Unique building – Queen's Bibliotheque (+2 [Culture], [Science], +2 Great Artist point and Great Scientist point, +1 [Culture] per 2 population in this city, +1 [Culture] from every specialist)]
 [Great Artist is earned 50% faster]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "Gain a free [Sweden bonus] [in capital]", "[Great Artist] is earned [50]% faster"],
