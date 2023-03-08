@@ -1178,7 +1178,7 @@
   "uniqueTo": "Japan",
   "cost": 1,
   "isWonder": true,
-  "replacementTextForUniques": "[+20% Strength when fighting in tiles with 1 to 6 neighboring Water tiles]
+  "replacementTextForUniques": "[+20% Strength when fighting in tiles with neighboring Water tiles]
 [+40% Production when constructing Faith and Military buildings]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[+20]% Strength <when fighting in [Land] tiles> <with [1] to [6] neighboring [Water] tiles>"
