@@ -1129,8 +1129,8 @@
   "uniqueTo": "Ethiopia",
   "cost": 1,
   "isWonder": true,
-//  "replacementTextForUniques": "[-25% Gold cost of upgrading (effect is doubled when at war)]
-// [Gold cost of purchasing All buildings and units -10% (effect is doubled when at war)]",
+  "replacementTextForUniques": "[-25% Gold cost of upgrading (effect is doubled when at war)]
+[Gold cost of purchasing All buildings and units -10% (effect is doubled when at war)]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[-25]% Gold cost of upgrading <for [Military] units> <when not at war>",
   "[-50]% Gold cost of upgrading <for [Military] units> <when at war>", "[Gold] cost of purchasing [All] buildings [-10]% <when not at war>",
@@ -1142,8 +1142,8 @@
   "uniqueTo": "Ethiopia",
   "cost": 1,
   "isWonder": true,
-//  "replacementTextForUniques": "[+15% growth and 15% Food is carried over after population increases in all cities connected to capital]
-// [+15% Strength when fighting in Hill tiles]",
+  "replacementTextForUniques": "[+15% growth and 15% Food is carried over after population increases in all cities connected to capital]
+[+15% Strength when fighting in Hill tiles]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[+15]% growth [in all cities connected to capital]", "[15]% Food is carried over after population increases [in all cities connected to capital]",
   "[+15]% Strength <when fighting in [Hill] tiles>"],
