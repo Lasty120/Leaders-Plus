@@ -1086,4 +1086,30 @@
   "[+5]% [Culture] from every [Porcelain Tower]", "[+1 Happiness] from every [Porcelain Tower]","[+5]% [Culture] from every [Sistine Chapel]", "[+1 Happiness] from every [Sistine Chapel]",
   "[+5]% [Culture] from every [Taj Mahal]", "[+1 Happiness] from every [Taj Mahal]"],
 },
+{
+  "name": "Gott Mit Uns! (Gustavus Adolphus)",
+  "uniqueTo": "Sweden",
+  "cost": 1,
+  "isWonder": true,
+//  "replacementTextForUniques": "[+50% XP gained from combat when fighting in Enemy Land]
+// [Melee units gain the Great Generals I promotion (Great General is earned 50% faster)]",
+  "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
+  "Destroyed when the city is captured",  "[+50]% XP gained from combat <for [Military] units> <when fighting in [Enemy Land] tiles>",
+  "[Melee] units gain the [Great Generals I] promotion"],
+},
+{
+  "name": "Minevra of the North (Kristina)",
+  "uniqueTo": "Sweden",
+  "cost": 1,
+  "isWonder": true,
+//  "replacementTextForUniques": "[]
+// []",
+  "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
+  "Destroyed when the city is captured", "Gain a free [Sweden bonus] [in capital]", ""],
+}{
+  "name": "Sweden bonus",
+  "cost": 1,
+  "uniques": ["Unsellable", "Will not be displayed in Civilopedia", "Unbuildable", "Cannot be purchased",
+  "Destroyed when the city is captured"],
+},
 ]
