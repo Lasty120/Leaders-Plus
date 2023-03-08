@@ -1,0 +1,104 @@
+
+game.png
+size: 2048, 512
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Rise of the Fine Arts (Elizabeth)
+  rotate: false
+  xy: 476, 65
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Suleiman Research Lab
+  rotate: false
+  xy: 584, 65
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Suleiman's Library
+  rotate: false
+  xy: 1092, 265
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Suleiman's Observatory
+  rotate: false
+  xy: 1200, 373
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Suleiman's Public School
+  rotate: false
+  xy: 692, 65
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Suleiman's University
+  rotate: false
+  xy: 1200, 265
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Chinese Wall
+  rotate: false
+  xy: 476, 173
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Siamese Holy site
+  rotate: false
+  xy: 1092, 373
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Chinese Wall
+  rotate: false
+  xy: 476, 24
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Siamese Holy site
+  rotate: false
+  xy: 800, 129
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Chinese Wall
+  rotate: false
+  xy: 1092, 201
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Siamese Holy site
+  rotate: false
+  xy: 1308, 409
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+UnitIcons/Tagma
+  rotate: false
+  xy: 784, 173
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+UnitIcons/Turkic archer
+  rotate: false
+  xy: 4, 4
+  size: 464, 469
+  orig: 464, 469
+  offset: 0, 0
+  index: -1
