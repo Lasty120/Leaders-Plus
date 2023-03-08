@@ -1048,7 +1048,7 @@
 //  "replacementTextForUniques": "",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[+1] Movement <for [Great General] units>", "[+1] Movement <for [Military] units> <in [Enemy Land] tiles>",
-  "[Military] units gain the [Napoleon bonus] promotion"],
+  "[-2] HP when healing <in [Enemy Land] tiles> <for [Military] units>", "Provides [1] [Napoleon bonus]"],
 },
 {
   "name": "",
