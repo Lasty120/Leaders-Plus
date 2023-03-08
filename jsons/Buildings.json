@@ -1041,12 +1041,12 @@
   "Earn [100]% of killed [Military] unit's [Strength] as [Faith] <for [Cannon] units>"],
 },
 {
-  "name": "Greatest General in world (Napoleon)",
+  "name": "Greatest General in World (Napoleon)",
   "uniqueTo": "France",
   "cost": 1,
   "isWonder": true,
-//  "replacementTextForUniques": "[+1 Movement and -2 HP when healing for Military units in Enemy Land]
-// [Great Generals gains +1 Movement and provides +10% Strength additionaly]",
+  "replacementTextForUniques": "[+1 Movement and -2 HP when healing for Military units in Enemy Land]
+[Great Generals gains +1 Movement and provides +10% Strength additionaly]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[+1] Movement <for [Great General] units>", "[+1] Movement <for [Military] units> <in [Enemy Land] tiles>",
   "[-2] HP when healing <in [Enemy Land] tiles> <for [Military] units>", "Provides [1] [Napoleon bonus]"],
@@ -1056,8 +1056,8 @@
   "uniqueTo": "France",
   "cost": 1,
   "isWonder": true,
-//  "replacementTextForUniques": "[+2 [Culture] from Improvement tiles in Luxury resource with neighboring City center tiles]
-// [+5% [Culture] and +1 [Happiness] from every World Wonder (effect is doubled for World Wonders from Medieval era and Renaissance era)]",
+  "replacementTextForUniques": "[+2 [Culture] from Improvement tiles in Luxury resource with neighboring City center tiles]
+[+5% [Culture] and +1 [Happiness] from every World Wonder (effect is doubled for World Wonders from Medieval era and Renaissance era)]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[+2 Culture] from [Mine] tiles [in all cities] <in [Luxury resource] tiles> <with [1] to [6] neighboring [City center] tiles>",
   "[+2 Culture] from [Plantation] tiles [in all cities] <in [Luxury resource] tiles> <with [1] to [6] neighboring [City center] tiles>", 
