@@ -922,8 +922,8 @@
   "uniqueTo": "The Ottomans",
   "cost": 1,
   "isWonder": true,
-//  "replacementTextForUniques": "[Unique specialist – Vizier (+2 [Science], [Culture], +2 Great Scientist point and Great Artist point). This specialist provided for 1 by Library and for 2 by other [Science] buildings]
-// [+1 [Science], [Culture] from every specialist starting from the Renaissance era (effect is doubled for Vizier)]",
+  "replacementTextForUniques": "[Unique specialist – Vizier (+2 [Science], [Culture], +2 Great Scientist point and Great Artist point). This specialist provided for 1 by Library and for 2 by other [Science] buildings]
+[+1 [Science], [Culture] from every specialist starting from the Renaissance era (effect is doubled for Vizier)]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "Provides [1] [Suleiman bonus]", "[+1 Science, +1 Culture] from every specialist [in all cities] <starting from the [Renaissance era]>",
   "[+1 Science, +1 Culture] from every [Vizier] <starting from the [Renaissance era]>"],
@@ -1034,8 +1034,8 @@
   "uniqueTo": "The Ottomans",
   "cost": 1,
   "isWonder": true,
-//  "replacementTextForUniques": "[Siege units can do ranged attacks over obstacles]
-// [Siege units earn 100% of killed Military unit's Strength as [Faith] (effect is doubled for Cannon)]",
+  "replacementTextForUniques": "[Siege units can do ranged attacks over obstacles]
+[Siege units earn 100% of killed Military unit's Strength as [Faith] (effect is doubled for Cannon)]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[Siege] units gain the [Mehmed II bonus] promotion", "Earn [100]% of killed [Military] unit's [Strength] as [Faith] <for [Siege] units>",
   "Earn [100]% of killed [Military] unit's [Strength] as [Faith] <for [Cannon] units>"],
