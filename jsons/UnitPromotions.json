@@ -60,4 +60,36 @@
   "name": "Mehmed II bonus",
   "uniques": ["Ranged attacks may be performed over obstacles", "Will not be displayed in Civilopedia"]
 },
+{
+  "name": "Japan bonus I",
+  "uniques": ["Will not be displayed in Civilopedia", "[+10]% Strength <when attacking>"]
+},
+{
+  "name": "Japan bonus II",
+  "uniques": ["Will not be displayed in Civilopedia", "[+10]% Strength <when attacking>"]
+},
+{
+  "name": "Japan bonus III",
+  "uniques": ["Will not be displayed in Civilopedia", "[+10]% Strength <when attacking>"]
+},
+{
+  "name": "Japan bonus IV",
+  "uniques": ["Will not be displayed in Civilopedia", "[+10]% Strength <when attacking>"]
+},
+{
+  "name": "Japan bonus V",
+  "uniques": ["Will not be displayed in Civilopedia", "[+10]% Strength <when attacking>"]
+},
+{
+  "name": "Japan bonus VI",
+  "uniques": ["Will not be displayed in Civilopedia", "[+10]% Strength <when attacking>"]
+},
+{
+  "name": "Japan bonus VII",
+  "uniques": ["Will not be displayed in Civilopedia", "[+10]% Strength <when attacking>"]
+},
+{
+  "name": "Japan bonus VIII",
+  "uniques": ["Will not be displayed in Civilopedia", "[+10]% Strength <when attacking>"]
+}
 ]
