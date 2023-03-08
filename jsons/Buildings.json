@@ -1142,13 +1142,10 @@
   "uniqueTo": "Ethiopia",
   "cost": 1,
   "isWonder": true,
-//  "replacementTextForUniques": "",
+//  "replacementTextForUniques": "[+15% growth and 15% Food is carried over after population increases in all cities connected to capital]
+// [+15% Strength when fighting in Hill tiles]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "Destroyed when the city is captured", "[-10]% [Science] [in foreign cities]","[-10]% [Culture] [in foreign cities]",
-  "[-10]% [Gold] [in foreign cities]","[-10]% [Faith] [in foreign cities]","[-10]% [Food] [in foreign cities]",
-  "[-10]% [Happiness] [in foreign cities]","[-10]% [Production] [in foreign cities]","[+10]% [Science] [in non-enemy foreign cities]",
-  "[+10]% [Culture] [in non-enemy foreign cities]","[+10]% [Gold] [in non-enemy foreign cities]","[+10]% [Faith] [in non-enemy foreign cities]",
-  "[+10]% [Food] [in non-enemy foreign cities]","[+10]% [Happiness] [in non-enemy foreign cities]","[+10]% [Production] [in non-enemy foreign cities]",
+  "Destroyed when the city is captured", "[+15]% growth [in all cities connected to capital]", "[15]% Food is carried over after population increases [in all cities connected to capital]",
   "[+15]% Strength <when fighting in [Hill] tiles>"],
 },
 ]
