@@ -1153,7 +1153,7 @@
   "uniqueTo": "Japan",
   "cost": 1,
   "isWonder": true,
-//  "replacementTextForUniques": "[+10% Strength when attacking for unit from every modernization]
+//  "replacementTextForUniques": "[+10% Strength when attacking from every modernization unit for Land units]
 // [Upon capturing a city, receive 10 times its [Science] production as [Science] immediately]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[Warrior] units gain the [Japan bonus I] promotion","[Swordsman] units gain the [Japan bonus II] promotion",
@@ -1174,12 +1174,12 @@
   "[Rocket Artillery] units gain the [Japan bonus V] promotion", "Upon capturing a city, receive [10] times its [Science] production as [Science] immediately"],
 },
 {
-  "name": "",
-  "uniqueTo": "",
+  "name": "Divine Wind (Hojo Tokimune)",
+  "uniqueTo": "Japan",
   "cost": 1,
   "isWonder": true,
 //  "replacementTextForUniques": "",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "Destroyed when the city is captured"],
+  "Destroyed when the city is captured", "[+20]% Strength <when fighting in [Land] tiles"],
 },
 ]
