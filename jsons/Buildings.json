@@ -14,11 +14,10 @@
   "cost": 1,
   "isWonder": true,
   "replacementTextForUniques": "[+1 [Food], +1 [Gold] from every Farm in Bonus resource tiles]
-[+1 [Food], +1 [Gold] from every Plantation in Citrus/Sugar/Wine/Spices tiles]",
+[+1 [Food], +1 [Gold] from every Plantation]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "[+1 Food, +1 Gold] from every [Farm] <in [Bonus resource] tiles>", "[+1 Food, +1 Gold] from every [Plantation] <in [Sugar] tiles>",
-  "[+1 Food, +1 Gold] from every [Plantation] <in [Citrus] tiles>", "[+1 Food, +1 Gold] from every [Plantation] <in [Spices] tiles>", 
-  "[+1 Food, +1 Gold] from every [Plantation] <in [Wine] tiles>", "Destroyed when the city is captured"],
+  "[+1 Food, +1 Gold] from every [Farm] <in [Bonus resource] tiles>", "[+1 Food, +1 Gold] from every [Plantation]",
+   "Destroyed when the city is captured"],
 },
 {
   "name": "King of the Habsburgs (Otakar II)",
@@ -166,14 +165,14 @@
   "uniqueTo": "Babylon",
   "cost": 1,
   "isWonder": true,
-  "replacementTextForUniques": "[+1 [Gold] from all buildings from Ancient and Classical era that require maintenance, but -20% Production when constructing All buildings during the Ancient and Classical era]
-[Upon capturing a city, receive 3 times its [Gold] production as [Faith] immediately]",
+  "replacementTextForUniques": "[+1 [Gold] from all buildings from Ancient and Classical era that require maintenance, but -10% Production when constructing All buildings during the Ancient and Classical era]
+[Upon capturing a city, receive 5 times its [Gold] production as [Faith] immediately]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "[-20]% Production when constructing [All] buildings [in all cities] <starting from the [Ancient era]> <before the [Classical era]>", "[+1 Gold] from every [Monument]",
+  "[-10]% Production when constructing [All] buildings [in all cities] <starting from the [Ancient era]> <before the [Classical era]>", "[+1 Gold] from every [Monument]",
   "[+1 Gold] from every [Granary]","[+1 Gold] from every [Shrine]","[+1 Gold] from every [Library]","[+1 Gold] from every [Stone Works]",
   "[+1 Gold] from every [Lighthouse]","[+1 Gold] from every [Temple]","[+1 Gold] from every [Amphitheater]","[+1 Gold] from every [Water Mill]",
   "[+1 Gold] from every [Stable]","[+1 Gold] from every [Courthouse]","[+1 Gold] from every [Barracks]","[+1 Gold] from every [Colosseum]",
-  "[+1 Gold] from every [Aqueduct]", "Upon capturing a city, receive [3] times its [Gold] production as [Faith] immediately",
+  "[+1 Gold] from every [Aqueduct]", "Upon capturing a city, receive [5] times its [Gold] production as [Faith] immediately",
   "Destroyed when the city is captured", "Triggers the following global alert: [Babylon's leader – Nebuchadnezzar II]"],
 },
 {
@@ -181,14 +180,14 @@
   "uniqueTo": "Babylon",
   "cost": 1,
   "isWonder": true,
-  "replacementTextForUniques": "[When built a worker for the first time gets the second for free starting from the Classical era]
-[This effect is updates every era]",
+  "replacementTextForUniques": "[When built a worker for the first time gets the second for free starting from the Classical era]. [This effect is updates every era]
+[+15% Production when constructing Settler units]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Provides [1] [Worker limit]", "[-10]% Production when constructing [2 Workers1] buildings [in all cities] <in cities with a [Windmill]>",
   "[-10]% Production when constructing [2 Workers2] buildings [in all cities] <in cities with a [Windmill]>", "[-10]% Production when constructing [2 Workers3] buildings [in all cities] <in cities with a [Windmill]>",
   "[-10]% Production when constructing [2 Workers4] buildings [in all cities] <in cities with a [Windmill]>", "[-10]% Production when constructing [2 Workers5] buildings [in all cities] <in cities with a [Windmill]>",
   "[-10]% Production when constructing [2 Workers6] buildings [in all cities] <in cities with a [Windmill]>", "[-10]% Production when constructing [2 Workers7] buildings [in all cities] <in cities with a [Windmill]>",
-  "Destroyed when the city is captured", "Triggers the following global alert: [Babylon's leader – Hammurabi]"],
+  "Destroyed when the city is captured", "[+15]% Production when constructing [Settler] units [in all cities]"],
 },
 {
   "name": "2 Workers1",
@@ -276,11 +275,11 @@
   "uniqueTo": "Germany",
   "cost": 1,
   "isWonder": true,
-  "replacementTextForUniques": "[+50% Strength vs cities when attacking but -2 Happiness in annexed cities for 10 turns]
+  "replacementTextForUniques": "["Can spend Gold to annex or puppet a City-State that has been your ally for [7] turns."]
 [+20% Strength when fighting in Neutral Land]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "Destroyed when the city is captured", "Gain a free [-2 Happiness] [in annexed cities]",
-  "[+50]% Strength <vs cities> <when attacking>", "[+20]% Strength <when fighting in [Foreign Land] tiles>",
+  "Destroyed when the city is captured",
+  "Can spend Gold to annex or puppet a City-State that has been your ally for [7] turns.", "[+20]% Strength <when fighting in [Foreign Land] tiles>",
   "[-20]% Strength <when fighting in [Enemy Land] tiles>", "Triggers the following global alert: [Germany's leader – Otto Von Bismark]"],
 },
 {
@@ -356,10 +355,10 @@
   "cost": 1,
   "isWonder": true,
   "replacementTextForUniques": "[Allied City-States provide [Culture] equal to +25% of what they produce for themselves],
-[+50% [Culture] from City-States]",
+[+75% [Culture] from City-States]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "Allied City-States provide [Culture] equal to [+25]% of what they produce for themselves",
-  "[+50]% [Culture] from City-States", "Triggers the following global alert: [Greece's leader – Pericles]"],
+  "[+75]% [Culture] from City-States", "Triggers the following global alert: [Greece's leader – Pericles]"],
 },
 {
   "name": "Per-Ramses (Ramses)",
@@ -404,10 +403,11 @@
   "uniqueTo": "The Huns",
   "cost": 1,
   "isWonder": true,
-  "replacementTextForUniques": "[When defending a Melee unit, recruit it with 25% chance]
+  "replacementTextForUniques": "[When Sword and Gunpowder units defending a Melee unit, recruit it with 25% chance]
 [Gain 20 [Culture] upon conquering city (+30 [Culture] per every era)]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "Destroyed when the city is captured", "When defeating a [Melee] unit, earn [0] Gold and recruit it <with [25]% chance>",
+  "Destroyed when the city is captured", "When defeating a [Melee] unit, earn [0] Gold and recruit it <with [25]% chance> <for [Sword] units>",
+  "When defeating a [Melee] unit, earn [0] Gold and recruit it <with [25]% chance> <for [Gunpowder] units>",
   "Gain [20] [Culture] <upon conquering a city> <before the [Classical era]>", "Gain [50] [Culture] <upon conquering a city> <before the [Medieval era]> <starting from the [Classical era]>",
   "Gain [80] [Culture] <upon conquering a city> <before the [Renaissance era]> <starting from the [Medieval era]>",
   "Gain [110] [Culture] <upon conquering a city> <before the [Industrial era]> <starting from the [Renaissance era]>",
@@ -421,7 +421,7 @@
   "uniqueTo": "The Huns",
   "cost": 1,
   "isWonder": true,
-  "replacementTextForUniques": "[Unique Unit [Turkic Archer] (replaces Knight, 23 Ranged Strength, 2 Range)]
+  "replacementTextForUniques": "[Unique Unit [Turkic Archer] (replaces Knight, not required Horses, 21 Ranged Strength, 2 Range)]
 [+33% Strength for Mounted units vs cities when attacking before the Renaissance era]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "Provides [1] [Huns bonus]", "[+33]% Strength <for [Mounted] units> <vs cities> <when attacking> <before the [Renaissance era]>",
