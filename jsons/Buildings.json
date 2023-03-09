@@ -275,7 +275,7 @@
   "uniqueTo": "Germany",
   "cost": 1,
   "isWonder": true,
-  "replacementTextForUniques": "["Can spend Gold to annex or puppet a City-State that has been your ally for [7] turns."]
+  "replacementTextForUniques": "[Can spend Gold to annex or puppet a City-State that has been your ally for [7] turns.]
 [+20% Strength when fighting in Neutral Land]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured",
