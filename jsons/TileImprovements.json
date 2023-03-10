@@ -15,4 +15,13 @@
         "Can be built just outside your borders", "Gives a defensive bonus of [60]%", "Only available <with [Siam bonus]>"
         "Constructing it will take over the tiles around it and assign them to your closest city"]
 	},
+{
+	"name": "Theattre",
+	"terrainsCanBeBuiltOn": ["Land"],
+	"culture": 2,
+        "happiness": 3,
+	"uniques": ["Great Improvement", "Removes removable features when built", "Pillaging this improvement yields approximately [+20 Gold]",
+        "Only available <with [Elizabeth bonus]>", "[+3 Happiness] <with [1] to [6] neighboring [City center] tiles>", 
+        "[+2 Culture] <with [1] to [6] neighboring [City center] tiles>"]
+	},
 ]
