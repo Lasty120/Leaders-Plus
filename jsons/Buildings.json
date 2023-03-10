@@ -66,12 +66,155 @@
   "replacementTextForUniques": "[Unique Unit - Great Actor. Can instantly construct Theatre (+3 [Happiness], +2 [Culture], effect is doubled with neighboring City center tiles) and start Golden Age. Points of this Great People gains for 2 from [Happiness] buildings and for 1 from [Culture] buildings]]
 [+10% [Culture] from all [Happiness] buildings]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "[+10]% [Culture] from every [Colosseum]", "[+5]% [Culture] from every [Monument]",
+  "[+10]% [Culture] from every [Colosseum]",
   "[+10]% [Culture] from every [Theatre]", "[+10]% [Culture] from every [Stadium]",
-  "[+5]% [Culture] from every [Amphitheater]", "[+5]% [Culture] from every [Opera House]",
-  "[+5]% [Culture] from every [Museum]", "[+5]% [Culture] from every [Broadcast Tower]",
   "Destroyed when the city is captured", "Triggers the following global alert: [England's leader – Elisabeth]"],
 },
+{
+		"name": "Monument",
+		"culture": 2,
+		"cost": 40,
+		"hurryCostModifier": 40,
+		"maintenance": 1,
+		"uniques": ["Destroyed when the city is captured", "Only available <without [Elizabeth bonus]>"]
+	},
+{
+		"name": "Colosseum",
+		"maintenance": 1,
+		"happiness": 2,
+		"hurryCostModifier": 25,
+		"requiredTech": "Construction",
+                "uniques": ["Only available <without [Elizabeth bonus]>"]
+	},
+{
+		"name": "Amphitheater",
+		"culture": 3,
+		"specialistSlots": {"Artist": 1},
+		"requiredBuilding": "Monument",
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"uniques": ["Destroyed when the city is captured", "Only available <without [Elizabeth bonus]>"],
+		"requiredTech": "Drama and Poetry"
+	},
+{
+		"name": "Opera House",
+		"culture": 4,
+		"specialistSlots": {"Artist": 1},
+		"hurryCostModifier": 10,
+		"requiredBuilding": "Amphitheater",
+		"maintenance": 2,
+		"requiredTech": "Acoustics",
+		"uniques": ["Destroyed when the city is captured", "Only available <without [Elizabeth bonus]>"]
+	},
+{
+		"name": "Theatre",
+		"happiness": 3,
+		"hurryCostModifier": 10,
+		"maintenance": 2,
+                "uniques": ["Only available <without [Elizabeth bonus]>"],
+		"requiredBuilding": "Colosseum",
+		"requiredTech": "Printing Press"
+	},
+{
+		"name": "Museum",
+		"culture": 5,
+		"specialistSlots": {"Artist": 2},
+		"requiredBuilding": "Opera House",
+		"maintenance": 3,
+		"hurryCostModifier": 0,
+		"requiredTech": "Archaeology",
+		"uniques": ["Destroyed when the city is captured", "Only available <without [Elizabeth bonus]>"]
+	},
+{
+		"name": "Stadium",
+		"happiness": 4,
+		"requiredBuilding": "Theatre",
+		"maintenance": 2,
+                "uniques": ["Only available <without [Elizabeth bonus]>"],
+		"requiredTech": "Refrigeration"
+	},
+{
+		"name": "Broadcast Tower",
+		"culture": 3,
+		"percentStatBonus": {"culture": 33},
+		"requiredBuilding": "Museum",
+		"maintenance": 3,
+		"requiredTech": "Radio",
+		"uniques": ["Destroyed when the city is captured", "Only available <without [Elizabeth bonus]>"]
+	},
+{
+		"name": "Elizabeth Monument",
+		"culture": 2,
+		"cost": 40,
+                "greatPersonPoints": {"Great Actor": 1},
+		"hurryCostModifier": 40,
+		"maintenance": 1,
+		"uniques": ["Destroyed when the city is captured", "Only available <with [Elizabeth bonus]>", "Only available <after discovering []>"]
+	},
+{
+		"name": "Elizabeth Colosseum",
+		"maintenance": 1,
+		"happiness": 2,
+                "greatPersonPoints": {"Great Actor": 2},
+		"hurryCostModifier": 25,
+                "uniques": ["Only available <with [Elizabeth bonus]>", "Only available <after discovering [Construction]>"],
+	},
+{
+		"name": "Elizabeth Amphitheater",
+		"culture": 3,
+		"specialistSlots": {"Artist": 1},
+		"requiredBuilding": "Monument",
+		"maintenance": 2,
+                "greatPersonPoints": {"Great Actor": 1},
+		"hurryCostModifier": 25,
+		"uniques": ["Destroyed when the city is captured", "Only available <with [Elizabeth bonus]>", "Only available <after discovering [Drama and Poetry]>"],
+	},
+{
+		"name": "Elizabeth Opera House",
+		"culture": 4,
+		"specialistSlots": {"Artist": 1},
+		"hurryCostModifier": 10,
+                "greatPersonPoints": {"Great Actor": 1},
+		"requiredBuilding": "Amphitheater",
+		"maintenance": 2,
+		"uniques": ["Destroyed when the city is captured", "Only available <with [Elizabeth bonus]>", "Only available <after discovering [Acoustics]>"]
+	},
+{
+		"name": "Elizabeth Theatre",
+		"happiness": 3,
+		"hurryCostModifier": 10,
+		"maintenance": 2,
+                "greatPersonPoints": {"Great Actor": 2},
+		"requiredBuilding": "Colosseum",
+                "uniques": ["Only available <with [Elizabeth bonus]>", "Only available <after discovering [Printing Press]>"],
+	},
+{
+		"name": "Elizabeth Museum",
+		"culture": 5,
+		"specialistSlots": {"Artist": 2},
+		"requiredBuilding": "Opera House",
+		"maintenance": 3,
+                "greatPersonPoints": {"Great Actor": 1},
+		"hurryCostModifier": 0,
+		"uniques": ["Destroyed when the city is captured", "Only available <with [Elizabeth bonus]>", "Only available <after discovering [Archaeology]>"]
+	},
+{
+		"name": "Elizabeth Stadium",
+		"happiness": 4,
+                "greatPersonPoints": {"Great Actor": 2},
+		"requiredBuilding": "Theatre",
+		"maintenance": 2,
+                "uniques": ["Only available <with [Elizabeth bonus]>", "Only available <after discovering [Refrigeration]>"],
+	},
+{
+		"name": "Elizabeth Broadcast Tower",
+		"culture": 3,
+                "greatPersonPoints": {"Great Actor": 1},
+		"percentStatBonus": {"culture": 33},
+		"requiredBuilding": "Museum",
+		"maintenance": 3,
+		"uniques": ["Destroyed when the city is captured", "Only available <with [Elizabeth bonus]>", "Only available <after discovering [Radio]>"]
+	},
 {
   "name": "Pax Britannica (Victoria)",
   "uniqueTo": "England",
@@ -150,7 +293,7 @@
   "Destroyed when the city is captured", "Triggers the following global alert: [Aztecs' leader – Montezuma I]"],
 },
 {
-  "name": "Great Baray (Ahuizotl)",
+  "name": "Legend of the Five Suns (Ahuizotl)",
   "uniqueTo": "Aztecs",
   "cost": 1,
   "isWonder": true,
@@ -636,10 +779,10 @@
   "uniqueTo": "Korea",
   "cost": 1,
   "isWonder": true,
-  "replacementTextForUniques": "[+1 [Science] per 2 population (effect is doubled in cities with a Library)]
+  "replacementTextForUniques": "[+1 [Science] per 2 population (effect is doubled in cities with a University)]
 [+1 [Culture] from every Library and +2 [Culture] from all other [Science] buildings]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "Destroyed when the city is captured", "[+1 Science] per [2] population [in all cities]", "[+1 Science] per [2] population [in all cities] <in cities with a [Library]>",
+  "Destroyed when the city is captured", "[+1 Science] per [2] population [in all cities]", "[+1 Science] per [2] population [in all cities] <in cities with a [University]>",
   "[+2 Culture] from all [Science] buildings", "[-1 Culture] from every [Library]"],
 },
 {
@@ -688,7 +831,7 @@
   "cost": 1,
   "isWonder": true,
   "replacementTextForUniques": "[+10% Yield in all cities with neighboring Luxury resource tiles]
-[All newly-trained Military units in all cities connected to capital receive the Ix Wan Chak Ajaw bonus promotion (+10% Strength when attacking, +15% when fighting in tiles with neighboring Luxury resource tiles)]",
+[All newly-trained Military units in all cities connected to capital receive the Ix Wan Chak Ajaw bonus promotion (+10% Strength, +15% when fighting in tiles with neighboring Luxury resource tiles)]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[+10]% [Happiness] [in all cities] <with [1] to [6] neighboring [Luxury resource] tiles>",
   "[+10]% [Science] [in all cities] <with [1] to [6] neighboring [Luxury resource] tiles>","[+10]% [Food] [in all cities] <with [1] to [6] neighboring [Luxury resource] tiles>",
