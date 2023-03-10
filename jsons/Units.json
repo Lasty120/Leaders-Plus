@@ -55,4 +55,13 @@
 	"Great Person - [War]", "Unbuildable", "Uncapturable"],
 	"movement": 2
 	},
+{
+	"name": "Great Actor",
+	"unitType": "Civilian",
+	"uniques": [
+        "Empire enters a [8]-turn Golden Age <by consuming this unit>",
+        "Can instantly construct a [Theattre] improvement <by consuming this unit>",
+	"Great Person - [Happiness]", "Unbuildable", "Uncapturable"],
+	"movement": 2
+	},
 ]
