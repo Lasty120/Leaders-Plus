@@ -149,7 +149,7 @@
                 "greatPersonPoints": {"Great Actor": 1},
 		"hurryCostModifier": 40,
 		"maintenance": 1,
-		"uniques": ["Destroyed when the city is captured", "Only available <with [Elizabeth bonus]>", "Only available <after discovering []>"]
+		"uniques": ["Destroyed when the city is captured", "Only available <with [Elizabeth bonus]>"]
 	},
 {
 		"name": "Elizabeth Colosseum",
