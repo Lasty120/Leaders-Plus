@@ -156,7 +156,7 @@
 		"maintenance": 1,
 		"happiness": 2,
                 "greatPersonPoints": {"Great Actor": 2},
-		"hurryCostModifier": 25,
+		"cost": 100,
                 "uniques": ["Only available <with [Elizabeth bonus]>", "Only available <after discovering [Construction]>"],
 	},
 {
@@ -166,14 +166,14 @@
 		"requiredBuilding": "Monument",
 		"maintenance": 2,
                 "greatPersonPoints": {"Great Actor": 1},
-		"hurryCostModifier": 25,
+		"cost": 100,
 		"uniques": ["Destroyed when the city is captured", "Only available <with [Elizabeth bonus]>", "Only available <after discovering [Drama and Poetry]>"],
 	},
 {
 		"name": "Elizabeth Opera House",
 		"culture": 4,
 		"specialistSlots": {"Artist": 1},
-		"hurryCostModifier": 10,
+		"cost": 200,
                 "greatPersonPoints": {"Great Actor": 1},
 		"requiredBuilding": "Amphitheater",
 		"maintenance": 2,
@@ -182,7 +182,7 @@
 {
 		"name": "Elizabeth Theatre",
 		"happiness": 3,
-		"hurryCostModifier": 10,
+		"cost": 200,
 		"maintenance": 2,
                 "greatPersonPoints": {"Great Actor": 2},
 		"requiredBuilding": "Colosseum",
@@ -195,12 +195,13 @@
 		"requiredBuilding": "Opera House",
 		"maintenance": 3,
                 "greatPersonPoints": {"Great Actor": 1},
-		"hurryCostModifier": 0,
+		"cost": 300,
 		"uniques": ["Destroyed when the city is captured", "Only available <with [Elizabeth bonus]>", "Only available <after discovering [Archaeology]>"]
 	},
 {
 		"name": "Elizabeth Stadium",
 		"happiness": 4,
+                "cost": 500,
                 "greatPersonPoints": {"Great Actor": 2},
 		"requiredBuilding": "Theatre",
 		"maintenance": 2,
@@ -209,6 +210,7 @@
 {
 		"name": "Elizabeth Broadcast Tower",
 		"culture": 3,
+                "cost": 500,
                 "greatPersonPoints": {"Great Actor": 1},
 		"percentStatBonus": {"culture": 33},
 		"requiredBuilding": "Museum",
