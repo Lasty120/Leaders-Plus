@@ -66,7 +66,7 @@
   "replacementTextForUniques": "[Unique Unit - Great Actor. Can instantly construct Theatre (+3 [Happiness], +2 [Culture], effect is doubled with neighboring City center tiles) and start Golden Age. Points of this Great People gains for 2 from [Happiness] buildings and for 1 from [Culture] buildings]
 [+10% [Culture] from all [Happiness] buildings]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "[+10]% [Culture] from every [Colosseum]",
+  "[+10]% [Culture] from every [Colosseum]", "Provides [1] [Elizabeth bonus]",
   "[+10]% [Culture] from every [Theatre]", "[+10]% [Culture] from every [Stadium]",
   "Destroyed when the city is captured", "Triggers the following global alert: [England's leader – Elisabeth]"],
 },
