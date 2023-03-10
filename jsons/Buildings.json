@@ -944,7 +944,7 @@
   "uniqueTo": "Rome",
   "cost": 1,
   "isWonder": true,
-  "replacementTextForUniques": "[Military units gain the 15 XP upon conquering a city]
+  "replacementTextForUniques": "[All Military units gain the 15 XP upon conquering a city]
 [Gain 150 [Gold] upon conquering a city (+75 [Gold] additionaly per every era)]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[Military] units gain the [Caesar bonus] promotion <upon conquering a city>",
@@ -1067,8 +1067,8 @@
   "replacementTextForUniques": "[Unique specialist – Vizier (+2 [Science], [Culture], +2 Great Scientist point and Great Artist point). This specialist provided for 1 by Library and for 2 by other [Science] buildings]
 [+1 [Science], [Culture] from every specialist starting from the Renaissance era (effect is doubled for Vizier)]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "Destroyed when the city is captured", "Provides [1] [Suleiman bonus]", "[+1 Science, +1 Culture] from every specialist [in all cities] <starting from the [Renaissance era]>",
-  "[+1 Science, +1 Culture] from every [Vizier] <starting from the [Renaissance era]>"],
+  "Destroyed when the city is captured", "Provides [1] [Suleiman bonus]", "[+1 Science] from every specialist [in all cities] <starting from the [Renaissance era]>",
+  "[+1 Science] from every [Vizier] <starting from the [Renaissance era]>"],
 },
 {
 	"name": "Library",
@@ -1187,11 +1187,12 @@
   "uniqueTo": "France",
   "cost": 1,
   "isWonder": true,
-  "replacementTextForUniques": "[+1 Movement and -2 HP when healing for Military units in Enemy Land]
-[Great Generals gains +1 Movement and provides +10% Strength additionaly]",
+  "replacementTextForUniques": "[Unique Unit - Greatest General (like Great General, Can heal 50 HP for All units 1 times) upon entering the Medieval, Renaissance and Industrial eras. Great Generals gains +1 Movement and provides +10% Strength additionaly]
+[+1 Movement for Military units in Enemy Land]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[+1] Movement <for [Great General] units>", "[+1] Movement <for [Military] units> <in [Enemy Land] tiles>",
-  "[-2] HP when healing <in [Enemy Land] tiles> <for [Military] units>", "Provides [1] [Napoleon bonus]"],
+  "Provides [1] [Napoleon bonus]", "Free [Greatest General] appears <upon entering the [Medieval era]>", "Free [Greatest General] appears <upon entering the [Renaissance era]>",
+  "Free [Greatest General] appears <upon entering the [Industrial era]>",],
 },
 {
   "name": "Catherine's Magnificences (Catherine de Medici)",
@@ -1199,7 +1200,7 @@
   "cost": 1,
   "isWonder": true,
   "replacementTextForUniques": "[+2 [Culture] from Improvement tiles in Luxury resource with neighboring City center tiles]
-[+5% [Culture] and +1 [Happiness] from every World Wonder (effect is doubled for World Wonders from Medieval era and Renaissance era)]",
+[+10% [Culture] and +2 [Happiness] from every World Wonder from Medieval era and Renaissance era]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[+2 Culture] from [Mine] tiles [in all cities] <in [Luxury resource] tiles> <with [1] to [6] neighboring [City center] tiles>",
   "[+2 Culture] from [Plantation] tiles [in all cities] <in [Luxury resource] tiles> <with [1] to [6] neighboring [City center] tiles>", 
