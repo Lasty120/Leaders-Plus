@@ -45,8 +45,7 @@
 },
 {
   "name": "Ix Wan Chak Ajaw bonus",
-  "uniques": ["[+10]% Strength <when attacking>", "[+15]% Strength <when fighting in [Land] tiles> <with [1] to [6] neighboring [Luxury resource] tiles>",
-  "Will not be displayed in Civilopedia"]
+  "uniques": ["[+10]% Strength", "[+15]% Strength <when fighting in [Land] tiles> <with [1] to [6] neighboring [Luxury resource] tiles>",]
 },
 {
   "name": "Persia bonus",
