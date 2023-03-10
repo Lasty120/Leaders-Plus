@@ -55,6 +55,17 @@
 	"movement": 2
 	},
 {
+	"name": "Greatest General",
+	"unitType": "Civilian",
+	"uniques": [
+        "Empire enters a [8]-turn Golden Age <by consuming this unit>",
+        "[All] units gain the [Heal Instantly] promotion <[1] times>"
+        "[+15]% Strength bonus for [Military] units within [2] tiles <without [Napoleon bonus]>",
+        "[+25]% Strength bonus for [Military] units within [2] tiles <with [Napoleon bonus]>",
+        "Can instantly construct a [Citadel] improvement <by consuming this unit>", "Unbuildable", "Uncapturable", "Cannot be purchased"],
+	"movement": 2
+	},
+{
 	"name": "Great Actor",
 	"unitType": "Civilian",
 	"uniques": [
