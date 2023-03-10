@@ -14,7 +14,7 @@
 	"attackSound": "horse"
 	},
 {
-	"name": "Turkic Archer",
+	"name": "Turkic archer",
 	"unitType": "Mounted",
 	"movement": 4,
 	"strength": 20,
