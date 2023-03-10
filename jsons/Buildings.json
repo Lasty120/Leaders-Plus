@@ -63,7 +63,7 @@
   "uniqueTo": "England",
   "cost": 1,
   "isWonder": true,
-  "replacementTextForUniques": "[Unique Unit - Great Actor. Can instantly construct Theatre (+3 [Happiness], +2 [Culture], effect is doubled with neighboring City center tiles) and start Golden Age. Points of this Great People gains for 2 from [Happiness] buildings and for 1 from [Culture] buildings]]
+  "replacementTextForUniques": "[Unique Unit - Great Actor. Can instantly construct Theatre (+3 [Happiness], +2 [Culture], effect is doubled with neighboring City center tiles) and start Golden Age. Points of this Great People gains for 2 from [Happiness] buildings and for 1 from [Culture] buildings]
 [+10% [Culture] from all [Happiness] buildings]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "[+10]% [Culture] from every [Colosseum]",
