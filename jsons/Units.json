@@ -21,7 +21,6 @@
         "rangedStrength": 23,
         "range": 2,
 	"cost": 120,
-        "requiredResource": "Horses",
 	"obsoleteTech": "Military Science",
 	"upgradesTo": "Cavalry",
 	"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit",
