@@ -90,5 +90,10 @@
 {
   "name": "Japan bonus VIII",
   "uniques": ["Will not be displayed in Civilopedia", "[+10]% Strength <when attacking>"]
-}
+},
+{
+  "name": "Caesar bonus",
+  "uniques": ["Will not be displayed in Civilopedia", "This Unit gains [15] XP", 
+  "Doing so will consume this opportunity to choose a Promotion"]
+},
 ]
