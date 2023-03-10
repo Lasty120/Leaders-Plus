@@ -564,7 +564,7 @@ UnitIcons/Tagma
   orig: 300, 300
   offset: 0, 0
   index: -1
-UnitIcons/Turkic Archer
+UnitIcons/Turkic archer
   rotate: false
   xy: 4, 4
   size: 464, 469
