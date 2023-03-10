@@ -49,4 +49,9 @@
 	"resourceType": "Bonus",
 	"uniques": ["Will not be displayed in Civilopedia"]
 },
+{
+        "name": "Elizabeth bonus",
+	"resourceType": "Bonus",
+	"uniques": ["Will not be displayed in Civilopedia"]
+},
 ]
