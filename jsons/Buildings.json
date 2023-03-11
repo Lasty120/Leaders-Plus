@@ -1045,10 +1045,10 @@
   "cost": 1,
   "isWonder": true,
   "replacementTextForUniques": "[Empire enters golden age but Golder Age Length -20%]
-[+1 [Happiness] [in annexed cities]]",
+[+2 [Happiness] [in annexed cities]]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "Empire enters golden age <upon conquering a city>","[-20]% Golden Age length",
-  "[+1 Happiness] [in annexed cities]"],
+  "[+2 Happiness] [in annexed cities]"],
 },
 {
   "name": "Sahel Merchants (Mansa Musa)",
