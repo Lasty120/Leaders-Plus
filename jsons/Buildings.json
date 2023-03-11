@@ -1232,7 +1232,7 @@
   "[+10]% [Culture] from every [Taj Mahal]", "[+2 Happiness] from every [Taj Mahal]"],
 },
 {
-  "name": "Gott Mit Uns! (Gustavus Adolphus)",
+  "name": "Lion of the North (Gustavus Adolphus)",
   "uniqueTo": "Sweden",
   "cost": 1,
   "isWonder": true,
