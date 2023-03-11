@@ -946,20 +946,14 @@
   "uniqueTo": "Rome",
   "cost": 1,
   "isWonder": true,
-//  "replacementTextForUniques": "[All Military units gain the 15 XP upon conquering a city]
+//  "replacementTextForUniques": "[Unit that captured the city gains 30 XP. Units gains 2 XP upon defeating unit]
 // [Gain 150 [Gold] upon conquering a city (+75 [Gold] additionaly per every era)]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "Destroyed when the city is captured", "Gain a free [Caesar ability] [in annexed cities]",
+  "Destroyed when the city is captured", "[Military] units gain the [Caesar bonus] promotion",
   "Gain [150] [Gold] <upon conquering a city> <during the [Ancient era]>", "Gain [225] [Gold] <upon conquering a city> <during the [Classical era]>",
   "Gain [300] [Gold] <upon conquering a city> <during the [Medieval era]>","Gain [375] [Gold] <upon conquering a city> <during the [Renaissance era]>",
   "Gain [450] [Gold] <upon conquering a city> <during the [Industrial era]>","Gain [525] [Gold] <upon conquering a city> <during the [Modern era]>",
   "Gain [600] [Gold] <upon conquering a city> <during the [Atomic era]>","Gain [675] [Gold] <upon conquering a city> <during the [Information era]>"],
-},
-{
-  "name": "Caesar ability",
-  "cost": 1,
-  "uniques": ["Unsellable", "Will not be displayed in Civilopedia", "Unbuildable", "Cannot be purchased",
-  "Destroyed when the city is captured", "[Military] units gain the [Caesar bonus] promotion"],
 },
 {
   "name": "Trajan's Column (Trajan)",
