@@ -94,6 +94,6 @@
 {
   "name": "Caesar bonus",
   "uniques": ["Will not be displayed in Civilopedia", "This Unit gains [30] XP <upon conquering a city>",
-  "This Unit gains [2] XP <upon defeating a [Wounded]>"]
+  "This Unit gains [2] XP <upon defeating a [Military] unit>"]
 },
 ]
