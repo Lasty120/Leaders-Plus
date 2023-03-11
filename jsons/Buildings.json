@@ -834,7 +834,7 @@
   "cost": 1,
   "isWonder": true,
   "replacementTextForUniques": "[+10% Yield in all cities with neighboring Luxury resource tiles]
-[All newly-trained Military units in all cities connected to capital receive the Ix Wan Chak Ajaw bonus promotion (+10% Strength, +15% when fighting in tiles with neighboring Luxury resource tiles)]",
+[All newly-trained Military units in all cities connected to capital receive the Ix Wan Chak Ajaw bonus promotion (+10% Strength, +15% Strength when fighting in tiles with neighboring Luxury resource tiles)]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[+10]% [Happiness] [in all cities] <with [1] to [6] neighboring [Luxury resource] tiles>",
   "[+10]% [Science] [in all cities] <with [1] to [6] neighboring [Luxury resource] tiles>","[+10]% [Food] [in all cities] <with [1] to [6] neighboring [Luxury resource] tiles>",
