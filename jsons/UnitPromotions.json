@@ -93,7 +93,7 @@
 },
 {
   "name": "Caesar bonus",
-  "uniques": ["Will not be displayed in Civilopedia", "This Unit gains [15] XP <upon conquering a city>"]
+  "uniques": ["Will not be displayed in Civilopedia", "This Unit gains [15] XP"]
 //  "Doing so will consume this opportunity to choose a Promotion"
 },
 ]
