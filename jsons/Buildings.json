@@ -49,10 +49,10 @@
   "uniqueTo": "America",
   "cost": 1,
   "isWonder": true,
-  "replacementTextForUniques": "[+1 [Happiness] from all [Production] buildings]
+  "replacementTextForUniques": "[+2 [Happiness] from all [Production] buildings]
 [Production buildings provide -25% maintenance cost for all newly-trained Military units]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "[+1 Happiness] from all [Production] buildings", "All newly-trained [Military] units [in all cities] receive the [Reduced maintenance I] promotion <in cities with a [Workshop]>",
+  "[+2 Happiness] from all [Production] buildings", "All newly-trained [Military] units [in all cities] receive the [Reduced maintenance I] promotion <in cities with a [Workshop]>",
   "All newly-trained [Military] units [in all cities] receive the [Reduced maintenance II] promotion <in cities with a [Windmill]>", 
   "All newly-trained [Military] units [in all cities] receive the [Reduced maintenance III] promotion <in cities with a [Factory]>",
   "All newly-trained [Military] units [in all cities] receive the [Reduced maintenance II] promotion <in cities with a [Solar Plant]>",
