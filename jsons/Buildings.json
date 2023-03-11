@@ -873,6 +873,7 @@
   "[1] free random researchable Tech(s) from the [Modern era] <upon constructing [Market] [in annexed cities]> <during the [Modern era]>",
   "[+2 Gold] from every specialist [in all cities]", "Provides [1] [Kublai Khan bonus]"],
 },
+{
 	"name": "Market",
 	"gold": 2,
 	"specialistSlots": {"Merchant": 1},
