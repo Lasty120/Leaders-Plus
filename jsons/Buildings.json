@@ -887,11 +887,10 @@
   "cost": 1,
   "isWonder": true,
   "replacementTextForUniques": "[Allied City-States will occasionally gift Great People but also -25% Great Persin generation]
-[+8% Strength when fighting in Friendly Land tiles after founding a religion and enhancing a religion]",
+[+10% Strength when fighting in Friendly Land tiles after founding a religion and enhancing a religion]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "Allied City-States will occasionally gift Great People", "[-25]% Great Person generation [in all cities]"
-  "[Gold] cost of purchasing [Military] units [-20]% <when at war> <after founding a religion>",
-  "[-50]% maintenance costs <for [Military] units> <when at war> <after founding a religion>"],
+  "[+10]% Strength <when fighting in [Friendly Land] tiles> <after founding a religion>", "[+10]% Strength <when fighting in [Friendly Land] tiles> <after enhancing a religion>"],
 },
 {
   "name": "Radio Oranje (Wilhelmina)",
