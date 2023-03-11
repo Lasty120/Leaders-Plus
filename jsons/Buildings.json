@@ -871,8 +871,16 @@
   "[1] free random researchable Tech(s) from the [Atomic era] <upon constructing [Market] [in annexed cities]> <during the [Atomic era]>",
   "[1] free random researchable Tech(s) from the [Information era] <upon constructing [Market] [in annexed cities]> <during the [Information era]>",
   "[1] free random researchable Tech(s) from the [Modern era] <upon constructing [Market] [in annexed cities]> <during the [Modern era]>",
-  "[+2 Gold] from every specialist [in all cities]"],
+  "[+2 Gold] from every specialist [in all cities]", "Provides [1] [Kublai Khan bonus]"],
 },
+	"name": "Market",
+	"gold": 2,
+	"specialistSlots": {"Merchant": 1},
+	"hurryCostModifier": 25,
+        "uniques": ["Unsellable <with [Kublai Khan bonus]"]
+	"percentStatBonus": {"gold": 25},
+	"requiredTech": "Currency"
+	},
 {
   "name": "Freedom of Religion (William of Orange)",
   "uniqueTo": "The Netherlands",
