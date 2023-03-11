@@ -946,8 +946,8 @@
   "uniqueTo": "Rome",
   "cost": 1,
   "isWonder": true,
-  "replacementTextForUniques": "[All Military units gain the 15 XP upon conquering a city]
-[Gain 150 [Gold] upon conquering a city (+75 [Gold] additionaly per every era)]",
+//  "replacementTextForUniques": "[All Military units gain the 15 XP upon conquering a city]
+// [Gain 150 [Gold] upon conquering a city (+75 [Gold] additionaly per every era)]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[Military] units gain the [Caesar bonus] promotion <upon conquering a city>",
   "Gain [150] [Gold] <upon conquering a city> <during the [Ancient era]>", "Gain [225] [Gold] <upon conquering a city> <during the [Classical era]>",
