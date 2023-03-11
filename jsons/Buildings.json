@@ -955,7 +955,7 @@
   "uniqueTo": "Rome",
   "cost": 1,
   "isWonder": true,
-  "replacementTextForUniques": "[Unit that captured the city gains 30 XP. Units gains 2 XP upon defeating unit]
+  "replacementTextForUniques": "[Unit that captured the city gains 30 XP. Units gains 3 XP upon defeating unit]
 [Gain 150 [Gold] upon conquering a city (+75 [Gold] additionaly per every era)]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[Military] units gain the [Caesar bonus] promotion",
