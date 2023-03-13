@@ -976,22 +976,18 @@
   "uniqueTo": "The Netherlands",
   "cost": 1,
   "isWonder": true,
-  "replacementTextForUniques": "[Allied City-States will occasionally gift Great People but also -25% Great Persin generation]
-[+10% Strength when fighting in Friendly Land tiles after founding a religion and enhancing a religion]",
+  "replacementTextForUniques": "[Allied City-States will occasionally gift Great People]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "Destroyed when the city is captured", "Allied City-States will occasionally gift Great People", "[-25]% Great Person generation [in all cities]"
-  "[+10]% Strength <when fighting in [Friendly Land] tiles> <after founding a religion>", "[+10]% Strength <when fighting in [Friendly Land] tiles> <after enhancing a religion>"],
+  "Destroyed when the city is captured", "Allied City-States will occasionally gift Great People"],
 },
 {
   "name": "Radio Oranje (Wilhelmina)",
   "uniqueTo": "The Netherlands",
   "cost": 1,
   "isWonder": true,
-  "replacementTextForUniques": "[+2 [Culture] from each Trade Route and +1 [Culture] in all cities connected to capital]
-[[-25]% Culture cost of natural border growth [in all cities connected to capital]]",
+  "replacementTextForUniques": "[+1 [Happiness] from every Artist]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "Destroyed when the city is captured", "[+2 Culture] from each Trade Route", "[+1 Culture] [in all cities connected to capital]",
-  "[-25]% Culture cost of natural border growth [in all cities connected to capital]"],
+  "Destroyed when the city is captured", "[+1 Happiness] from every [Artist]"],
 },
 {
   "name": "The Greatest Builder (Darius I)",
