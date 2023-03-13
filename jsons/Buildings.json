@@ -325,7 +325,7 @@
   "uniqueTo": "England",
   "cost": 1,
   "isWonder": true,
-  "replacementTextForUniques": "[Great Engineers do not spend a life to build a Manufactory. Great Engineer is earned 25% faster]
+  "replacementTextForUniques": "[Great Engineers do not spend a life to construct a Manufactory. Great Engineer is earned 25% faster]
 [Workers can instantly build Fort. +1 [Production] from every Fort]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "Provides [1] [Churchill bonus]", "[Great Engineer] is earned [25]% faster",
