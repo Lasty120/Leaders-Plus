@@ -70,7 +70,8 @@
 	"unitType": "Civilian",
 	"uniques": [
         "Empire enters a [8]-turn Golden Age <by consuming this unit>",
-        "Can instantly construct a [Theattre] improvement <by consuming this unit>",
+        "Can instantly construct a [Theattre] improvement <by consuming this unit> <with [Elizabeth bonus]>",
+        "Can instantly construct a [Landmark] improvement <by consuming this unit> <without [Elizabeth bonus]>",
 	"Great Person - [Happiness]", "Unbuildable", "Uncapturable"],
 	"movement": 2
 	},
