@@ -38,7 +38,8 @@
   "uniqueTo": "Austria",
   "cost": 1,
   "isWonder": true,
-//  "replacementTextForUniques": "",
+//  "replacementTextForUniques": "[+10% Yield from every Great Improvement in city per every 2 population]
+// [+2 Great Person point in all cities within 3 tiles of Great Improvement (for example +2 Great Scientist point in all cities within 3 tiles of a Academy)]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[+1 Science] from [Academy] tiles [in al cities] <in cities with at least [2] [Population]>",
   "[+1 Science] from [Academy] tiles [in all cities] <in cities with at least [4] [Population]>","[+1 Science] from [Academy] tiles [in all cities] <in cities with at least [8] [Population]>",
@@ -52,10 +53,39 @@
   "[+1 Production] from [Manufactory] tiles [in all cities] <in cities with at least [18] [Population]>","[+1 Gold] from [Customs house] tiles [in all cities] <in cities with at least [4] [Population]>",
   "[+1 Gold] from [Customs house] tiles [in all cities] <in cities with at least [8] [Population]>","[+1 Gold] from [Customs house] tiles [in all cities] <in cities with at least [14] [Population]>",
   "[+1 Gold] from [Customs house] tiles [in all cities] <in cities with at least [18] [Population]>","[+1 Faith] from [Holy site] tiles [in all cities] <in cities with at least [2] [Population]>",
-  "[+1 Faith] from [Holy site] tiles [in all cities] <in cities with at least [6] [Population]>","[+1 ] from [] tiles [in all cities] <in cities with at least [] [Population]>",
-  "[+1 Faith] from [Holy site] tiles [in all cities] <in cities with at least [12] [Population]>","[+1 ] from [] tiles [in all cities] <in cities with at least [] [Population]>",
-  "[+1 Faith] from [Holy site] tiles [in all cities] <in cities with at least [20] [Population]>","[+1 ] from [] tiles [in all cities] <in cities with at least [] [Population]>",
-  "[+1 ] from [] tiles [in all cities] <in cities with at least [] [Population]>","[+1 ] from [] tiles [in all cities] <in cities with at least [] [Population]>",],
+  "[+1 Faith] from [Holy site] tiles [in all cities] <in cities with at least [6] [Population]>","[+1 Faith] from [Holy site] tiles [in all cities] <in cities with at least [10] [Population]>",
+  "[+1 Faith] from [Holy site] tiles [in all cities] <in cities with at least [12] [Population]>","[+1 Faith] from [Holy site] tiles [in all cities] <in cities with at least [16] [Population]>",
+  "[+1 Faith] from [Holy site] tiles [in all cities] <in cities with at least [20] [Population]>","Gain a free [Great Scientist point] [in all cities] <within [3] tiles of a [Academy]>",
+  "Gain a free [Great Artist point] [in all cities] <within [3] tiles of a [Landmark]>","Gain a free [Great Engineer point] [in all cities] <within [3] tiles of a [Manufactory]>",
+  "Gain a free [Great Merchant point] [in all cities] <within [3] tiles of a [Customs house]>","[+5 Faith] [in all cities] <within [3] tiles of a [Holy site]>"],
+},
+{
+  "name": "Great Artist point",
+  "cost": 1,
+  "greatPersonPoints": {"Great Artist": 2},
+  "uniques": ["Unbuildable", "Cannot be purchased",
+  "Will not be displayed in Civilopedia", "Unsellable", "Destroyed when the city is captured"]
+},
+{
+  "name": "Great Scientist point",
+  "cost": 1,
+  "greatPersonPoints": {"Great Scientist": 1},
+  "uniques": ["Unbuildable", "Cannot be purchased",
+  "Will not be displayed in Civilopedia", "Unsellable", "Destroyed when the city is captured"]
+},
+{
+  "name": "Great Merchant point",
+  "cost": 1,
+  "greatPersonPoints": {"Great Merchant": 2},
+  "uniques": ["Unbuildable", "Cannot be purchased",
+  "Will not be displayed in Civilopedia", "Unsellable", "Destroyed when the city is captured"]
+},
+{
+  "name": "Great Engineer point",
+  "cost": 1,
+  "greatPersonPoints": {"Great Engineer": 2},
+  "uniques": ["Unbuildable", "Cannot be purchased",
+  "Will not be displayed in Civilopedia", "Unsellable", "Destroyed when the city is captured"]
 },
 {
   "name": "Founder of America (George Washington)",
