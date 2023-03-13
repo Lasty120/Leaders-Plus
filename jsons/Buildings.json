@@ -985,7 +985,7 @@
   "uniqueTo": "The Netherlands",
   "cost": 1,
   "isWonder": true,
-  "replacementTextForUniques": "[+1 [Happiness] from every Artist]",
+  "replacementTextForUniques": "[+1 [Happiness] from every Artist (effect is doubled during We Love The King Fay)]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[+1 Happiness] from every [Artist]", "[+1 Happiness] from every [Artist] <during We Love The King Day>"],
 },
