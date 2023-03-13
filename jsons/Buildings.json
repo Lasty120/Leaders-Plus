@@ -114,6 +114,17 @@
   "Destroyed when the city is captured", "Triggers the following global alert: [Ameica's leader – Abraham Lincoln]"],
 },
 {
+  "name": "Roosevelt Corollary (Teddy Roosevelt)",
+  "uniqueTo": "America",
+  "cost": 1,
+  "isWonder": true,
+//  "replacementTextForUniques": "",
+  "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
+  "Destroyed when the city is captured", "[+1 Science] from [Land] tiles <with [1] to [6] neighboring [Mountain] tiles> <in tiles without [Desert]>",
+  "[+1 Science] from [Land] tiles <with [1] to [6] neighboring [Mountain] tiles> <in tiles without [Tundra]>", "[+1 Culture, +1 Science] from every [Mountain]",
+   "Provides [1] [Roosevelt bonus]"],
+},
+{
   "name": "Rise of the Fine Arts (Elizabeth)",
   "uniqueTo": "England",
   "cost": 1,
