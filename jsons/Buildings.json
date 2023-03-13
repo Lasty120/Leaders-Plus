@@ -327,7 +327,8 @@
   "isWonder": true,
 //  "replacementTextForUniques": "",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "Destroyed when the city is captured", "Provides [1]"],
+  "Destroyed when the city is captured", "Provides [1] [Churchill bonus]", "[Great Engineer] is earned [-25]% faster",
+  "[+1 Production] from every [Fort]"],
 },
 {
   "name": "Righteousness (Harun Al Rashid)",
