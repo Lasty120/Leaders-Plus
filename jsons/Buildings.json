@@ -361,8 +361,8 @@
   "uniqueTo": "Arabia",
   "cost": 1,
   "isWonder": true,
-//  "replacementTextForUniques": "[Free Great Prophet appears upon entering the Medieval and Renaissance eras]
-// [Prophet do not spend a life to build Holy site. +2 [Science] from every Holy site]",
+  "replacementTextForUniques": "[Free Great Prophet appears upon entering the Medieval and Renaissance eras]
+[Prophet do not spend a life to build Holy site. +2 [Science] from every Holy site]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "Free [Great Prophet] appears <upon entering the [Medieval era]>",
   "Free [Great Prophet] appears <upon entering the [Renaissance era]>",
