@@ -361,11 +361,11 @@
   "uniqueTo": "Arabia",
   "cost": 1,
   "isWonder": true,
-//  "replacementTextForUniques": "",
+//  "replacementTextForUniques": "[Free Great Prophet appears upon entering the Medieval and Renaissance eras]
+// [Prophet do not spend a life to build Holy site. +2 [Science] from every Holy site]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "Free [Great Prophet] appears <upon entering the [Medieval era]>",
-  "Free [Great Prophet] appears <upon entering the [Renaissance era]>", "Free [Great Prophet] appears <upon entering the [Industrial era]>",
-  "Free [Great Prophet] appears <upon entering the [Modern era]>", "Free [Great Prophet] appears <upon entering the [Atomic era]>",
+  "Free [Great Prophet] appears <upon entering the [Renaissance era]>",
   "Free [Great Prophet] appears <upon entering the [Information era]>", "Provides [1] [Abu Bakr bonus]", "[+2 Science] from [Holy site] tiles [in all cities]"],
 },
 {
