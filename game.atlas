@@ -102,6 +102,13 @@ BuildingIcons/Union Guardian (Abraham Lincoln)
   orig: 100, 100
   offset: 0, 0
   index: -1
+BuildingIcons/Roosevelt Corollary (Teddy Roosevelt)
+  rotate: false
+  xy: 1924, 265
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Pax Britannica (Victoria)
   rotate: false
   xy: 1924, 265
