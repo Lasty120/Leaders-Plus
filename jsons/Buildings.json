@@ -985,9 +985,9 @@
   "uniqueTo": "The Netherlands",
   "cost": 1,
   "isWonder": true,
-  "replacementTextForUniques": "[+2 [Happiness] from every Broadcast Tower]",
+  "replacementTextForUniques": "[+1 [Happiness] from every Artist]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "Destroyed when the city is captured", "[+2 Happiness] from every [Broadcast Tower]"],
+  "Destroyed when the city is captured", "[+1 Happiness] from every [Artist]"],
 },
 {
   "name": "The Greatest Builder (Darius I)",
