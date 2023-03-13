@@ -987,7 +987,7 @@
   "isWonder": true,
   "replacementTextForUniques": "[+1 [Happiness] from every Artist]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "Destroyed when the city is captured", "[+1 Happiness] from every [Artist]"],
+  "Destroyed when the city is captured", "[+1 Happiness] from every [Artist]", "[+10] HP when healing <in [Friendly Land] tiles>"],
 },
 {
   "name": "The Greatest Builder (Darius I)",
