@@ -116,6 +116,13 @@ BuildingIcons/Pax Britannica (Victoria)
   orig: 100, 100
   offset: 0, 0
   index: -1
+BuildingIcons/Workshop of the World (Winston Churchill)
+  rotate: false
+  xy: 1924, 265
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Righteousness (Harun Al Rashid)
   rotate: false
   xy: 1924, 265
