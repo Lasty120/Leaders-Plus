@@ -59,4 +59,9 @@
 	"resourceType": "Bonus",
 	"uniques": ["Will not be displayed in Civilopedia"]
 },
+{
+        "name": "Roosevelt bonus",
+	"resourceType": "Bonus",
+	"uniques": ["Will not be displayed in Civilopedia"]
+},
 ]
