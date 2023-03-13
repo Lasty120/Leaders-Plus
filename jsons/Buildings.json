@@ -118,8 +118,8 @@
   "uniqueTo": "America",
   "cost": 1,
   "isWonder": true,
-//  "replacementTextForUniques": "[+1 [Science] from Land tiles with neighboring Mountain tiles]
-// [+1 [Culture] from every Forest without neighboring Desert, Marsh and Jungle tiles]",
+  "replacementTextForUniques": "[+1 [Science] from Land tiles with neighboring Mountain tiles]
+[+1 [Culture] from every Forest without neighboring Desert, Marsh and Jungle tiles]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[+1 Science] from [Land] tiles [in all cities] <with [1] to [6] neighboring [Mountain] tiles>",
   "[+1 Culture] from every [Forest]","[-1 Culture] from every [Forest] <with [1] to [6] neighboring [Desert] tiles>", 
