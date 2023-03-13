@@ -137,6 +137,13 @@ BuildingIcons/Victorious (Saladin)
   orig: 100, 100
   offset: 0, 0
   index: -1
+BuildingIcons/The Last Prophet (Abu Bakr)
+  rotate: false
+  xy: 1924, 265
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Gifts for Tlatoani (Montezuma I)
   rotate: false
   xy: 1924, 265
