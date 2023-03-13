@@ -80,7 +80,7 @@
 	"unitType": "Civilian",
 	"movement": 2,
 	"uniques": ["Can build [Land] improvements on tiles", 
-        "Can instantly construct a [Fort] improvement <by consuming this unit>"],
+        "Can instantly construct a [Fort] improvement <by consuming this unit> <with [Churchill bonus]>"],
 	"cost": 70
 	},
 {
