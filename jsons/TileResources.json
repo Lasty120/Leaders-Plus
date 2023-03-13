@@ -64,4 +64,9 @@
 	"resourceType": "Bonus",
 	"uniques": ["Will not be displayed in Civilopedia"]
 },
+{
+        "name": "Churchill bonus",
+	"resourceType": "Bonus",
+	"uniques": ["Will not be displayed in Civilopedia"]
+},
 ]
