@@ -54,4 +54,9 @@
 	"resourceType": "Bonus",
 	"uniques": ["Will not be displayed in Civilopedia"]
 },
+{
+        "name": "Kublai Khan bonus",
+	"resourceType": "Bonus",
+	"uniques": ["Will not be displayed in Civilopedia"]
+},
 ]
