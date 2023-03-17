@@ -39,7 +39,7 @@
   "cost": 1,
   "isWonder": true,
   "replacementTextForUniques": "[+10% Yield from every Great Improvement in city per every 2 population]
-[+2 Great Person point in all cities within 3 tiles of Great Improvement (for example +2 Great Scientist point in all cities within 3 tiles of a Academy)]",
+[+1 Great Person point in all cities within 3 tiles of Great Improvement (for example +1 Great Scientist point in all cities within 3 tiles of a Academy)]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[+1 Science] from [Academy] tiles [in all cities] <in cities with at least [2] [Population]>",
   "[+1 Science] from [Academy] tiles [in all cities] <in cities with at least [4] [Population]>","[+1 Science] from [Academy] tiles [in all cities] <in cities with at least [8] [Population]>",
@@ -62,28 +62,28 @@
 {
   "name": "Great Artist point",
   "cost": 1,
-  "greatPersonPoints": {"Great Artist": 2},
+  "greatPersonPoints": {"Great Artist": 1},
   "uniques": ["Unbuildable", "Cannot be purchased",
   "Will not be displayed in Civilopedia", "Unsellable", "Destroyed when the city is captured"]
 },
 {
   "name": "Great Scientist point",
   "cost": 1,
-  "greatPersonPoints": {"Great Scientist": 2},
+  "greatPersonPoints": {"Great Scientist": 1},
   "uniques": ["Unbuildable", "Cannot be purchased",
   "Will not be displayed in Civilopedia", "Unsellable", "Destroyed when the city is captured"]
 },
 {
   "name": "Great Merchant point",
   "cost": 1,
-  "greatPersonPoints": {"Great Merchant": 2},
+  "greatPersonPoints": {"Great Merchant": 1},
   "uniques": ["Unbuildable", "Cannot be purchased",
   "Will not be displayed in Civilopedia", "Unsellable", "Destroyed when the city is captured"]
 },
 {
   "name": "Great Engineer point",
   "cost": 1,
-  "greatPersonPoints": {"Great Engineer": 2},
+  "greatPersonPoints": {"Great Engineer": 1},
   "uniques": ["Unbuildable", "Cannot be purchased",
   "Will not be displayed in Civilopedia", "Unsellable", "Destroyed when the city is captured"]
 },
@@ -325,10 +325,10 @@
   "uniqueTo": "England",
   "cost": 1,
   "isWonder": true,
-  "replacementTextForUniques": "[Great Engineers do not spend a life to construct a Manufactory. Great Engineer is earned 25% faster]
+  "replacementTextForUniques": "[Great Engineers do not spend a life to construct a Manufactory. Great Engineer is earned 25% slower]
 [Workers can instantly build Fort. +1 [Production] from every Fort]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "Destroyed when the city is captured", "Provides [1] [Churchill bonus]", "[Great Engineer] is earned [25]% faster",
+  "Destroyed when the city is captured", "Provides [1] [Churchill bonus]", "[Great Engineer] is earned [-25]% faster",
   "[+1 Production] from [Fort] tiles [in all cities]"],
 },
 {
@@ -362,11 +362,11 @@
   "cost": 1,
   "isWonder": true,
   "replacementTextForUniques": "[Free Great Prophet appears upon entering the Medieval and Renaissance eras]
-[Great Prophet do not spend a life to build Holy site. +2 [Science] from every Holy site]",
+[Great Prophet do not spend a life to build Holy site]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "Free [Great Prophet] appears <upon entering the [Medieval era]>",
   "Free [Great Prophet] appears <upon entering the [Renaissance era]>",
-  "Free [Great Prophet] appears <upon entering the [Information era]>", "Provides [1] [Abu Bakr bonus]", "[+2 Science] from [Holy site] tiles [in all cities]"],
+  "Free [Great Prophet] appears <upon entering the [Information era]>", "Provides [1] [Abu Bakr bonus]"],
 },
 {
   "name": "Gifts for Tlatoani (Montezuma I)",
