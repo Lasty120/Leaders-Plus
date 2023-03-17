@@ -484,6 +484,15 @@
   "Only available <with [Worker limit]>", "Only available <starting from the [Information era]>"]
 },
 {
+  "name": "Temple of Inanna (Karaindash I)",
+  "uniqueTo": "Babylon",
+  "cost": 1,
+  "isWonder": true,
+//  "replacementTextForUniques": "",
+  "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
+  "Destroyed when the city is captured"],
+},
+{
   "name": "Mitera tu lau (Feodora)",
   "uniqueTo": "Byzantium",
   "cost": 1,
