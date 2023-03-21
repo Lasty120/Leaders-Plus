@@ -517,10 +517,10 @@
   "uniqueTo": "Byzantium",
   "cost": 1,
 //  "replacementTextForUniques": "[+6 [Culture] from every Holy site. Holy sites provides +1 Culture, Faith for each adjacent Farm]
-// [Gain enough Faith for 10% of a Great Prophet upon constructing Shrine and Temple]",
+// [Gain enough Faith for 15% of a Great Prophet upon constructing Shrine and Temple]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[+6 Culture] from [Holy site] tiles [in all cities]", "Provides [1] [Konstantin bonus]",
-  "Gain enough Faith for [10]% of a Great Prophet <upon constructing [Shrine]>","Gain enough Faith for [10]% of a Great Prophet <upon constructing [Temple]>"],
+  "Gain enough Faith for [15]% of a Great Prophet <upon constructing [Shrine]>","Gain enough Faith for [15]% of a Great Prophet <upon constructing [Temple]>"],
 },
 {
   "name": "Unioning with Iron and Blood (Otto Von Bismarck)",
@@ -702,12 +702,12 @@
   "name": "Satyagraha (Gandhi)",
   "uniqueTo": "India",
   "cost": 1,
-  "replacementTextForUniques": "[Gain enough Faith for 5% of a Great Prophet upon declaring friendship after founding a Pantheon (+5% additionaly after founding and enhancing a religion)]
+  "replacementTextForUniques": "[Gain enough Faith for 10% of a Great Prophet upon declaring friendship after founding a Pantheon (+10% additionaly after founding and enhancing a religion)]
 [+2 [Faith] after founding a Pantheon, founding and enhancing a religion]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "Destroyed when the city is captured", "Gain enough Faith for [5]% of a Great Prophet <upon declaring friendship> <after founding a Pantheon> <before founding a religion>",
-  "Gain enough Faith for [10]% of a Great Prophet <upon declaring friendship> <after founding a religion> <before enhancing a religion>",
-  "Gain enough Faith for [15]% of a Great Prophet <upon declaring friendship> <after enhancing a religion>", "[+2 Faith] [in this city] <after founding a Pantheon>",
+  "Destroyed when the city is captured", "Gain enough Faith for [10]% of a Great Prophet <upon declaring friendship> <after founding a Pantheon> <before founding a religion>",
+  "Gain enough Faith for [20]% of a Great Prophet <upon declaring friendship> <after founding a religion> <before enhancing a religion>",
+  "Gain enough Faith for [30]% of a Great Prophet <upon declaring friendship> <after enhancing a religion>", "[+2 Faith] [in this city] <after founding a Pantheon>",
   "[+2 Faith] [in this city] <after founding a religion>", "[+2 Faith] [in this city] <after enhancing a religion>", "Triggers the following global alert: [India's leader – Gandhi]"],
 },
 {
