@@ -24,4 +24,11 @@
         "Only available <with [Elizabeth bonus]>", "[+3 Happiness] <with [1] to [6] neighboring [City center] tiles>", 
         "[+2 Culture] <with [1] to [6] neighboring [City center] tiles>"]
 	},
+{
+	"name": "Holy site",
+	"terrainsCanBeBuiltOn": ["Land"],
+	"faith": 6,
+	"uniques": ["Great Improvement", "Removes removable features when built", "Pillaging this improvement yields approximately [+20 Gold]",
+        "[+1 Culture, +1 Faith] for each adjacent [Farm] <with [Konstantin bonus]>"]
+	},
 ]
