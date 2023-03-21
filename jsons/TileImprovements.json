@@ -12,8 +12,8 @@
 	"terrainsCanBeBuiltOn": ["Land"],
 	"faith": 6,
 	"uniques": ["Great Improvement", "Removes removable features when built", "Pillaging this improvement yields approximately [+20 Gold]",
-        "Can be built just outside your borders", "Gives a defensive bonus of [60]%", "Only available <with [Siam bonus]>"
-        "Constructing it will take over the tiles around it and assign them to your closest city"]
+        "Can be built just outside your borders", "Gives a defensive bonus of [60]%", "Only available <with [Siam bonus]>",
+        "Constructing it will take over the tiles around it and assign them to your closest city", "Adjacent enemy units ending their turn take [20] damage"]
 	},
 {
 	"name": "Theattre",
