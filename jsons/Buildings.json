@@ -891,8 +891,8 @@
   "uniqueTo": "Korea",
   "cost": 1,
   "isWonder": true,
-  "replacementTextForUniques": "[+1 [Science] from every Improvement with neighboring City center tiles]
-[+20% [Science], [Culture] from every National Wonder]",
+//  "replacementTextForUniques": "[+1 [Science] from every Improvement with neighboring City center tiles]
+// [+20% [Science], [Culture] from every National Wonder]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[+1 Science] from [Farm] tiles [in all cities] <with [1] to [6] neighboring [City center] tiles>",
   "[+1 Science] from [Mine] tiles [in all cities] <with [1] to [6] neighboring [City center] tiles>","[+1 Science] from [Trading post] tiles [in all cities] <with [1] to [6] neighboring [City center] tiles>",
