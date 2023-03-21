@@ -73,5 +73,10 @@
         "name": "Abu Bakr bonus",
 	"resourceType": "Bonus",
 	"uniques": ["Will not be displayed in Civilopedia"]
+},
+{
+        "name": "Konstantin bonus",
+	"resourceType": "Bonus",
+	"uniques": ["Will not be displayed in Civilopedia"]
 }
 ]
