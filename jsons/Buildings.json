@@ -473,7 +473,7 @@
 //  "replacementTextForUniques": "[Gain 10% of cost Military unit upon gaining as [Science] (effect is doubled starting from the Medieval era, Renaissance era and Industrial era)]
 // [+1 [Science] from all [Faith] buildings]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "Destroyed when the city is captured", "[+1 Science] from all [Faith] buildings", "Gain [4] [Science] <upon gaining a [Warrior] unit>",
+  "Destroyed when the city is captured", "[+1 Science] from all [Faith] buildings", "Gain [100] [Science] <upon gaining a [Warrior] unit>",
   "Gain [4] [Science] <upon gaining a [Archer] unit>","Gain [6] [Science] <upon gaining a [Spearman] unit>","Gain [24] [Science] <upon gaining a [Crossbowman] unit>",
   "Gain [5] [Science] <upon gaining a [Trireme] unit>","Gain [8] [Science] <upon gaining a [Catapult] unit>","Gain [8] [Science] <upon gaining a [Horseman] unit>",
   "Gain [8] [Science] <upon gaining a [Swordsman] unit>","Gain [18] [Science] <upon gaining a [Pikeman] unit>","Gain [24] [Science] <upon gaining a [Knight] unit>",
