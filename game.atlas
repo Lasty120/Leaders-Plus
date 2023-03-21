@@ -172,6 +172,13 @@ BuildingIcons/When Great Anu... (Hammurabi)
   orig: 100, 100
   offset: 0, 0
   index: -1
+BuildingIcons/Temple of Inanna (Karaindash I)
+  rotate: false
+  xy: 1924, 265
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Mitera tu lau (Feodora)
   rotate: false
   xy: 1924, 265
