@@ -516,8 +516,8 @@
   "name": "New Rome (Konstantin I)",
   "uniqueTo": "Byzantium",
   "cost": 1,
-//  "replacementTextForUniques": "[+6 [Culture] from every Holy site. Holy sites provides +1 Culture, Faith for each adjacent Farm]
-// [Gain enough Faith for 15% of a Great Prophet upon constructing Shrine and Temple]",
+  "replacementTextForUniques": "[+6 [Culture] from every Holy site. Holy sites provides +1 Culture, Faith for each adjacent Farm]
+[Gain enough Faith for 15% of a Great Prophet upon constructing Shrine and Temple]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[+6 Culture] from [Holy site] tiles [in all cities]", "Provides [1] [Konstantin bonus]",
   "Gain enough Faith for [15]% of a Great Prophet <upon constructing [Shrine]>","Gain enough Faith for [15]% of a Great Prophet <upon constructing [Temple]>"],
