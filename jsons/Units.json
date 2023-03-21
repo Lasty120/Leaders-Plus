@@ -10,7 +10,8 @@
 	"upgradesTo": "Cavalry",
 	"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit",
         "[+15]% Strength bonus for [Military] units within [3] tiles", "Only available <after adopting [Piety]>", "Only available <with [Byzantium bonus]>",
-        "Only available <after discovering [Chivalry]>"],
+        "Only available <after discovering [Chivalry]>", "Earn [100]% of killed [Military] unit's [Strength] as [Culture]", "[+33]% Strength <vs cities>",
+        "Earn [100]% of killed [Military] unit's [Strength] as [Science]", "Earn [100]% of killed [Military] unit's [Strength] as [Faith]"],
 	"attackSound": "horse"
 	},
 {
