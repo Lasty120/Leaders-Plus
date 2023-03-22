@@ -996,7 +996,7 @@
   "replacementTextForUniques": "[Empire enters a 1-turn Golden Age upon defeating a Military units]
 [2 XP gained from combat for Melee units]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "Destroyed when the city is captured", "[Military] units gain the [Persia bonus] promotion",
+  "Destroyed when the city is captured", "Empire enters a [1]-turn Golden Age <upon defeating a [Military] unit>",
   "[2] XP gained from combat <for [Melee] units>"]
 },
 {
