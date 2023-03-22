@@ -863,10 +863,13 @@
   "name": "Founder of Hangul language (Sejong)",
   "uniqueTo": "Korea",
   "cost": 1,
-  "replacementTextForUniques": "[+1 [Science] per 2 population (effect is doubled in cities with a University)]
+  "replacementTextForUniques": "[Free Technology upon entering each era]
 [+1 [Culture] from every Library and +2 [Culture] from all other [Science] buildings]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "Destroyed when the city is captured", "[+1 Science] per [2] population [in all cities]", "[+1 Science] per [2] population [in all cities] <in cities with a [University]>",
+  "Destroyed when the city is captured", "Free Technology <upon entering the [Classical era]>",
+  "Free Technology <upon entering the [Medieval era]>","Free Technology <upon entering the [Renaissance era]>",
+  "Free Technology <upon entering the [Industrial era]>","Free Technology <upon entering the [Modern era]>",
+  "Free Technology <upon entering the [Atomic era]>","Free Technology <upon entering the [Information era]>",
   "[+2 Culture] from all [Science] buildings", "[-1 Culture] from every [Library]"],
 },
 {
