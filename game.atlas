@@ -217,7 +217,7 @@ BuildingIcons/Iron Crown (Frederick Barbarossa)
 BuildingIcons/Founder of Prussia (Frederick II)
   rotate: false
   xy: 1924, 265
-  size: 100, 100
+  size: 100, 10
   orig: 100, 100
   offset: 0, 0
   index: -1
