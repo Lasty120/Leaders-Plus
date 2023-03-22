@@ -470,7 +470,7 @@
   "name": "Temple of Inanna (Karaindash I)",
   "uniqueTo": "Babylon",
   "cost": 1,
-//  "replacementTextForUniques": "[Gain 10% of cost Military unit upon gaining as [Science] (effect is doubled starting from the Medieval era, Renaissance era and Industrial era)]
+//  "replacementTextForUniques": "[Gain 10% of cost Military unit as [Science] upon gaining (effect is doubled starting from the Medieval era, Renaissance era and Industrial era)]
 // [+1 [Science] from all [Faith] buildings]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[+1 Science] from all [Faith] buildings", "Gain [100] [Science] <upon gaining a [Warrior] unit>",
