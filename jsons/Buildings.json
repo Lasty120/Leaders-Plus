@@ -993,10 +993,10 @@
   "name": "Fall of Babylon (Cyrus)",
   "uniqueTo": "Persia",
   "cost": 1,
-  "replacementTextForUniques": "[Empire enters a 1-turn Golden Age upon defeating a Military units]
+  "replacementTextForUniques": "[Empire enters a 5-turn Golden Age upon declaring war with a major Civilization]
 [2 XP gained from combat for Melee units]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "Destroyed when the city is captured", "Empire enters a [1]-turn Golden Age <upon defeating a [Military] unit>",
+  "Destroyed when the city is captured", "Empire enters a [5]-turn Golden Age <upon declaring war with a major Civilization>",
   "[2] XP gained from combat <for [Melee] units>"]
 },
 {
