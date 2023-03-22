@@ -576,6 +576,20 @@
 	"requiredTech": "Military Science"
 	},
 {
+  "name": "Founder of Prussia (Frederick II)",
+  "uniqueTo": "Germany",
+  "cost": 1,
+//  "replacementTextForUniques": "[Double Yield from every specialist during a Golden Age but also -33% Golden Age length]
+// [+10% Strength when fighting in Neutral Land tiles]",
+  "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
+  "Destroyed when the city is captured", "[+2 Production] from every [Engineer] <during a Golden Age>",
+  "[+3 Science] from every [Scientist] <during a Golden Age>","[+2 Culture] from every [Artist] <during a Golden Age>",
+  "[+3 Gold] from every [Merchant] <during a Golden Age>", "[+2 Science] from every specialist [in all cities] <during a Golden Age>",
+  "[+1 Production] from every specialist [in all cities] <during a Golden Age> <if [Statue of Liberty] is constructed>",
+  "[-33]% Golden Age length", "[+10]% Strength <when fighting in [Foreign Land] tiles>",
+  "[-10]% Strength <when fighting in [Enemy Land] tiles>"],
+},
+{
   "name": "To the World's End (Alexander)",
   "uniqueTo": "Greece",
   "cost": 1,
