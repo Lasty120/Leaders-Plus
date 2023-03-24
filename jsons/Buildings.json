@@ -470,7 +470,7 @@
   "name": "Temple of Inanna (Karaindash I)",
   "uniqueTo": "Babylon",
   "cost": 1,
-//  "replacementTextForUniques": "[Gain 8 Science upon constructing and modernizing Military unit (effect is doubles per every era)]",
+  "replacementTextForUniques": "Gain 6 Science upon constructing and modernizing Military unit (effect is doubles per every era)",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[Military] units gain the [Karaindash bonus] promotion"],
 },
