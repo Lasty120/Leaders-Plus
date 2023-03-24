@@ -971,7 +971,7 @@
 	"gold": 2,
 	"specialistSlots": {"Merchant": 1},
 	"hurryCostModifier": 25,
-        "uniques": ["Unsellable <with [Kublai Khan bonus]"]
+        "uniques": ["Unsellable <with [Kublai Khan bonus]>"]
 	"percentStatBonus": {"gold": 25},
 	"requiredTech": "Currency"
 	},
