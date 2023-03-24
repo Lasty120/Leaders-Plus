@@ -96,4 +96,10 @@
   "uniques": ["Will not be displayed in Civilopedia", "This Unit gains [30] XP <upon conquering a city>",
   "This Unit gains [3] XP <upon defeating a [Military] unit>"]
 },
+{
+  "name": "Karaindash bonus",
+  "uniques": ["Gain [8] [Science] <during the [Ancient era]>","Gain [16] [Science] <during the [Classical era]>","Gain [32] [Science] <during the [Medieval era]>",
+  "Gain [64] [Science] <during the [Renaissance]>","Gain [128] [Science] <during the [Industrial era]>","Gain [256] [Science] <during the [Modern era]>",
+  "Gain [512] [Science] <during the [Atomic era]>","Gain [1024] [Science] <during the [Information era]>", "Will not be displayed in Civilopedia"]
+},
 ]
