@@ -98,8 +98,8 @@
 },
 {
   "name": "Karaindash bonus",
-  "uniques": ["Gain [8] [Science] <during the [Ancient era]>","Gain [16] [Science] <during the [Classical era]>","Gain [32] [Science] <during the [Medieval era]>",
-  "Gain [64] [Science] <during the [Renaissance era]>","Gain [128] [Science] <during the [Industrial era]>","Gain [256] [Science] <during the [Modern era]>",
-  "Gain [512] [Science] <during the [Atomic era]>","Gain [1024] [Science] <during the [Information era]>", "Will not be displayed in Civilopedia"]
+  "uniques": ["Gain [5] [Science] <during the [Ancient era]>","Gain [10] [Science] <during the [Classical era]>","Gain [20] [Science] <during the [Medieval era]>",
+  "Gain [40] [Science] <during the [Renaissance era]>","Gain [80] [Science] <during the [Industrial era]>","Gain [160] [Science] <during the [Modern era]>",
+  "Gain [320] [Science] <during the [Atomic era]>","Gain [640] [Science] <during the [Information era]>", "Will not be displayed in Civilopedia"]
 },
 ]
