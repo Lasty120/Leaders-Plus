@@ -53,7 +53,7 @@
         "[+15]% Strength bonus for [Military] units within [2] tiles <without [Napoleon bonus]>",
         "[+25]% Strength bonus for [Military] units within [2] tiles <with [Napoleon bonus]>",
         "[+30]% Strength bonus for [{Water} {Military}] units within [2] tiles <with [Themistocles bonus]>",
-        "[+2] Movement <in [Water] tiles> <with [Themistocles bonus]>",
+        "[+2] Movement <in [Water] tiles> <with [Themistocles bonus]>", "[+1] Sight <in [Water] tiles> <with [Themistocles bonus]>",
         "Can instantly construct a [Citadel] improvement <by consuming this unit>",
 	"Great Person - [War]", "Unbuildable", "Uncapturable"],
 	"movement": 2
