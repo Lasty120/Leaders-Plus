@@ -605,6 +605,14 @@
   "[+75]% [Culture] from City-States", "Triggers the following global alert: [Greece's leader – Pericles]"],
 },
 {
+  "name": "Thalassoporon (Themistocles)",
+  "uniqueTo": "Greece",
+  "cost": 1,
+//  "replacementTextForUniques": "",
+  "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
+  "Destroyed when the city is captured", "Provides [1] [Themistocles bonus]", "[+10]% Production when constructing [{Water} {Military}] units [in all cities]"],
+},
+{
   "name": "Per-Ramses (Ramses)",
   "uniqueTo": "Egypt",
   "cost": 1,
