@@ -608,7 +608,8 @@
   "name": "Thalassoporon (Themistocles)",
   "uniqueTo": "Greece",
   "cost": 1,
-//  "replacementTextForUniques": "",
+  "replacementTextForUniques": "[Great Generals receive +2 Movement and +1 Sight in Water tiles. Great Generals provides double Strength bonus for Water Military units]
+[+10% Production when constructing Water Military units]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "Provides [1] [Themistocles bonus]", "[+10]% Production when constructing [{Water} {Military}] units [in all cities]"],
 },
