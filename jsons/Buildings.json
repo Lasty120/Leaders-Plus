@@ -1260,11 +1260,11 @@
   "name": "Greatest General in World (Napoleon)",
   "uniqueTo": "France",
   "cost": 1,
-  "replacementTextForUniques": "[Unique Unit - Greatest General (like Great General, Can heal 50 HP for All units 1 times) upon entering the Medieval, Renaissance and Industrial eras. Great Generals gains +1 Movement and provides +10% Strength additionaly]
-[+1 Movement for Military units in Enemy Land]",
+  "replacementTextForUniques": "[Unique Unit - Greatest General (like Great General, Can heal 50 HP for All units 1 times) upon entering the Medieval, Renaissance and Industrial eras]
+[Great Generals gains +1 Movement and provides +10% Strength additionaly]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "Destroyed when the city is captured", "[+1] Movement <for [Great General] units>", "[+1] Movement <for [Military] units> <in [Enemy Land] tiles>",
-  "Provides [1] [Napoleon bonus]", "Free [Greatest General] appears <upon entering the [Medieval era]>", "Free [Greatest General] appears <upon entering the [Renaissance era]>",
+  "Destroyed when the city is captured", "[+1] Movement <for [Great General] units>", "Provides [1] [Napoleon bonus]", 
+  "Free [Greatest General] appears <upon entering the [Medieval era]>", "Free [Greatest General] appears <upon entering the [Renaissance era]>",
   "Free [Greatest General] appears <upon entering the [Industrial era]>",],
 },
 {
