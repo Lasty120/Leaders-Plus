@@ -8,7 +8,7 @@ BuildingIcons/Elizabeth Amphitheater
   rotate: false
   xy: 476, 65
   size: 100, 100
-  orig: 100, 100
+  orig: 100, 10
   offset: 0, 0
   index: -1
 BuildingIcons/Elizabeth Broadcast Tower
