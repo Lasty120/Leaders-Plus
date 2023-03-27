@@ -719,10 +719,10 @@
   "name": "Arthashastra (Chandragupta)",
   "uniqueTo": "India",
   "cost": 1,
-  "replacementTextForUniques": "[1 population in a random city upon conquering a city]
+  "replacementTextForUniques": "[2 population in a random city upon conquering a city]
 [All units from Medieval era upgrades for free]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "Destroyed when the city is captured", "[1] population in a random city <upon conquering a city>",
+  "Destroyed when the city is captured", "[2] population in a random city <upon conquering a city>",
   "[-100]% Gold cost of upgrading <for [Knight] units>", "[-100]% Gold cost of upgrading <for [Crossbowman] units>",
   "[-100]% Gold cost of upgrading <for [Pikeman] units>", "[-100]% Gold cost of upgrading <for [Trebuchet] units>",
   "[-100]% Gold cost of upgrading <for [Galleass] units>", "[-100]% Gold cost of upgrading <for [Longswordsman] units>",
