@@ -708,12 +708,12 @@
   "uniqueTo": "India",
   "cost": 1,
   "replacementTextForUniques": "[Gain enough Faith for 10% of a Great Prophet upon declaring friendship after founding a Pantheon (+10% additionaly after founding and enhancing a religion)]
-[+2 [Faith] after founding a Pantheon, founding and enhancing a religion]",
+[+4 [Faith] after founding a Pantheon, founding and enhancing a religion]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "Gain enough Faith for [10]% of a Great Prophet <upon declaring friendship> <after founding a Pantheon> <before founding a religion>",
   "Gain enough Faith for [20]% of a Great Prophet <upon declaring friendship> <after founding a religion> <before enhancing a religion>",
-  "Gain enough Faith for [30]% of a Great Prophet <upon declaring friendship> <after enhancing a religion>", "[+2 Faith] [in this city] <after founding a Pantheon>",
-  "[+2 Faith] [in this city] <after founding a religion>", "[+2 Faith] [in this city] <after enhancing a religion>", "Triggers the following global alert: [India's leader – Gandhi]"],
+  "Gain enough Faith for [30]% of a Great Prophet <upon declaring friendship> <after enhancing a religion>", "[+4 Faith] [in this city] <after founding a Pantheon>",
+  "[+4 Faith] [in this city] <after founding a religion>", "[+4 Faith] [in this city] <after enhancing a religion>", "Triggers the following global alert: [India's leader – Gandhi]"],
 },
 {
   "name": "Arthashastra (Chandragupta)",
