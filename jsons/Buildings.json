@@ -688,7 +688,7 @@
   "Triggers the following global alert: [Denmark's leader – Harald Bluetooth]"],
 },
 {
-  "name": "Hail Mig! (Ivan Wide Embrace)",
+  "name": "Hail Mig! (Ivan the Boneless)",
   "uniqueTo": "Denmark",
   "cost": 1,
   "replacementTextForUniques": "[Gain 50 [Gold] upon declaring war with a major Civilization (+75 [Gold] additionaly per every Tech where discovering Sword and Gunpowder units)]
