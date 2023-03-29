@@ -745,10 +745,10 @@
   "name": "Sejren er vores (Ivar the Boneless)",
   "uniqueTo": "Denmark",
   "cost": 1,
-  "replacementTextForUniques": "[+100% Production when constructing Courthouse in annexed cities on foreign continents]
+  "replacementTextForUniques": "[+20% Production when constructing All buildings in annexed cities on foreign continents]
 [+30% Strength for Water Military units vs cities in foreign continents]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "Destroyed when the city is captured", "[+100]% Production when constructing [Courthouse] buildings [in annexed cities] <on foreign continents>",
+  "Destroyed when the city is captured", "[+20]% Production when constructing [All] buildings [in annexed cities] <on foreign continents>",
   "[+20]% Strength <for [{Water} {Military}] units> <vs cities> <on foreign continents>"],
 },
 {
