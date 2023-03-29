@@ -670,8 +670,8 @@
   "name": "Abu Simbel (Joser)",
   "uniqueTo": "Egypt",
   "cost": 1,
-//  "replacementTextForUniques": "[Gain 50% of cost World Wonder as [Culture] upon constructing]
-// [+1 Culture from Flood plains tiles with neighboring Luxury resource tiles]",
+  "replacementTextForUniques": "[Gain 50% of cost World Wonder as [Culture] upon constructing]
+[+1 Culture from Flood plains tiles with neighboring Luxury resource tiles]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "Gain [93] [Culture] <upon constructing [Temple of Artemis]>", "Gain [93] [Culture] <upon constructing [The Great Library]>",
   "Gain [93] [Culture] <upon constructing [Stonehenge]>","Gain [93] [Culture] <upon constructing [Mausoleum of Halicarnassus]>","Gain [93] [Culture] <upon constructing [The Pyramids]>",
@@ -745,8 +745,8 @@
   "name": "Sejren er vores (Ivar the Boneless)",
   "uniqueTo": "Denmark",
   "cost": 1,
-//  "replacementTextForUniques": "[+100% Production when constructing Courthouse in annexed cities on foreign continents]
-// [+30% Strength for Water Military units vs cities in foreign continents]",
+  "replacementTextForUniques": "[+100% Production when constructing Courthouse in annexed cities on foreign continents]
+[+30% Strength for Water Military units vs cities in foreign continents]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[+100]% Production when constructing [Courthouse] buildings [in annexed cities] <on foreign continents>",
   "[+20]% Strength <for [{Water} {Military}] units> <vs cities> <on foreign continents>"],
