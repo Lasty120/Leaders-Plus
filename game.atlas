@@ -6,7 +6,7 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Elizabeth Amphitheater
   rotate: false
-  xy: 476, 6
+  xy: 476, 65
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
