@@ -726,7 +726,7 @@
   "Triggers the following global alert: [Denmark's leader – Harald Bluetooth]"],
 },
 {
-  "name": "Hail Mig! (Ivar the Boneless)",
+  "name": "Hail Mig! (Ivan Wide Embrace)",
   "uniqueTo": "Denmark",
   "cost": 1,
   "replacementTextForUniques": "[Gain 50 [Gold] upon declaring war with a major Civilization (+75 [Gold] additionaly per every Tech where discovering Sword and Gunpowder units)]
@@ -740,6 +740,16 @@
   "Gain [425] [Gold] <upon declaring war with a major Civilization> <before discovering [Replaceable Parts]> <after discovering [Rifling]>",
   "Gain [500] [Gold] <upon declaring war with a major Civilization> <before discovering [Plastics]> <after discovering [Replaceable Parts]>",
   "Gain [575] [Gold] <upon declaring war with a major Civilization> <after discovering [Mobile Tactics]>", "Triggers the following global alert: [Denmark's leader – Ivan Wide Embrace]"],
+},
+{
+  "name": "Sejren er vores (Ivar the Boneless)",
+  "uniqueTo": "Denmark",
+  "cost": 1,
+//  "replacementTextForUniques": "[+100% Production when constructing Courthouse in annexed cities on foreign continents]
+// [+30% Strength for Water Military units vs cities in foreign continents]",
+  "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
+  "Destroyed when the city is captured", "[+100]% Production when constructing [Courthouse] buildings [in annexed cities] <on foreign continents>",
+  "[+20]% Strength <for [{Water} {Military}] units> <vs cities> <on foreign continents>"],
 },
 {
   "name": "Satyagraha (Gandhi)",
