@@ -670,7 +670,7 @@
   "name": "Abu Simbel (Joser)",
   "uniqueTo": "Egypt",
   "cost": 1,
-  "replacementTextForUniques": "[Gain 50% of cost World Wonder as [Culture] upon constructing]
+  "replacementTextForUniques": "[Gain 50% of cost constructed World Wonder as [Culture]]
 [+1 Culture from Flood plains tiles with neighboring Luxury resource tiles]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "Gain [93] [Culture] <upon constructing [Temple of Artemis]>", "Gain [93] [Culture] <upon constructing [The Great Library]>",
