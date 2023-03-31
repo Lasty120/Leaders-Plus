@@ -777,6 +777,16 @@
   "Triggers the following global alert: [India's leader – Chandragupta]"],
 },
 {
+  "name": "Singhasan Battisi (Vikramaditya)",
+  "uniqueTo": "India",
+  "cost": 1,
+//  "replacementTextForUniques": "[Free Technology upon conquering a city with a Wonder]
+// [Upon capturing a city, receive [5] times its [Science] production as [Science] immediately]",
+  "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
+  "Destroyed when the city is captured", "Free Technology <upon conquering a city> <in cities with a [Wonder]>",
+  "Upon capturing a city, receive [5] times its [Science] production as [Science] immediately"],
+},
+{
   "name": "Qhapaq Nan (Pachacuti)",
   "uniqueTo": "Inca",
   "cost": 1,
@@ -797,6 +807,17 @@
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[+30]% Strength <for [Melee] units> <vs [Archery] units> <when attacking>",
   "[+1 Happiness] per [4] population [in all cities connected to capital]", "Triggers the following global alert: [Inca's leader – Huayna Capac]"],
+},
+{
+  "name": "Mit'A (Tupac Yupanqui)",
+  "uniqueTo": "Inca",
+  "cost": 1,
+//  "replacementTextForUniques": "[+33% XP gained from combat for Military units when adjacent to a Great General]
+// [Gain a free Military buildings after discovering required technologies]",
+  "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
+  "Destroyed when the city is captured", "[+33]% XP gained from combat <for [Military] units> <when adjacent to a [Great General] unit>",
+  "Gain a free [Barracks] [in capital] <after discovering [Bronze Working]>", "Gain a free [Armory] [in capital] <after discovering [Steel]>", 
+  "Gain a free [Military Academy] [in capital] <after discovering [Military Science]>"],
 },
 {
   "name": "Injun Confederation (Hiawatha)",
