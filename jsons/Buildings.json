@@ -780,7 +780,7 @@
   "name": "Singhasan Battisi (Vikramaditya)",
   "uniqueTo": "India",
   "cost": 1,
-//  "replacementTextForUniques": "[Upon capturing a city, receive [5] times its [Science] production as [Science] immediately]
+//  "replacementTextForUniques": "[Upon capturing a city, receive [5] times its [Science] production as [Science] immediately (+1 additionaly per each social police adopted)]
 // []",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "Upon capturing a city, receive [5] times its [Science] production as [Science] immediately",
