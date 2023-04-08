@@ -828,7 +828,7 @@
 [Double movement in Improvement tiles with neighboring Mountain tiles]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[+1 Food] [in all cities] <with [1] to [1] neighboring [Mountain] tiles>",
-  "[+2 Food] [in all cities] <with [2] to [2] neighboring [Mountain] tiles>", "[+3 Food] [in all cities] <with [3] to [3] neighboring [Mountain] tiles>","[+25]% Production when constructing [] buildings [in all cities] <with [1] to [6] neighboring [Mountain] tiles>",
+  "[+2 Food] [in all cities] <with [2] to [2] neighboring [Mountain] tiles>", "[+3 Food] [in all cities] <with [3] to [3] neighboring [Mountain] tiles>","[+6 Food] [in all cities] <with [6] to [6] neighboring [Mountain] tiles>",
   "[+4 Food] [in all cities] <with [4] to [4] neighboring [Mountain] tiles>", "[+5 Food] [in all cities] <with [5] to [5] neighboring [Mountain] tiles>",
   "[Land] units gain the [Inca bonus] promotion", "Triggers the following global alert: [Inca's leader – Pachacuti]"],
 },
