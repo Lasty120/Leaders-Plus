@@ -361,6 +361,13 @@ BuildingIcons/El Escorial (Philip II)
   orig: 100, 100
   offset: 0, 0
   index: -1
+BuildingIcons/Bourbon Reforms (Carlos III)
+  rotate: false
+  xy: 1924, 265
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Founder of Carthage (Dido)
   rotate: false
   xy: 1924, 265
