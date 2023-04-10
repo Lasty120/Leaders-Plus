@@ -858,6 +858,15 @@
   "[+3 Culture, +3 Science, +3 Gold] for every known Natural Wonder <starting from the [Atomic era]>","[+3 Culture, +3 Science, +3 Gold] for every known Natural Wonder <starting from the [Information era]>"],
 },
 {
+  "name": "Bourbon Reforms (Carlos III)",
+  "uniqueTo": "Spain",
+  "cost": 1,
+//  "replacementTextForUniques": "[Great Scientists can spend a life to adopt social policy]
+// [[+1 Culture] from each Trade Route]",
+  "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
+  "Destroyed when the city is captured", "Gain [1] [Carlos bonus]", "[+1 Culture] from each Trade Route"],
+},
+{
   "name": "Founder of Carthage (Dido)",
   "uniqueTo": "Carthage",
   "cost": 1,
