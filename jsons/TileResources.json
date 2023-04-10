@@ -83,5 +83,10 @@
         "name": "Themistocles bonus",
 	"resourceType": "Bonus",
 	"uniques": ["Will not be displayed in Civilopedia"]
+},
+{
+        "name": "Karlos bonus",
+	"resourceType": "Bonus",
+	"uniques": ["Will not be displayed in Civilopedia"]
 }
 ]
