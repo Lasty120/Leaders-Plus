@@ -102,7 +102,7 @@
 	"uniques": [
         "Can hurry technology research",
         "Can instantly construct a [Academy] improvement <by consuming this unit>",
-        "Free Social Policy <by consuming this unit>",
+        "Free Social Policy <by consuming this unit> <with [Karlos bonus]>",
         "Great Person - [Science]", "Unbuildable", "Uncapturable"],
 	"movement": 2
 	},
