@@ -102,7 +102,7 @@
 	"uniques": [
         "Can hurry technology research",
         "Can instantly construct a [Academy] improvement <by consuming this unit>",
-        "This Unit upgrades for free <[1] times> <with [Carlos bonus]>",
+        "This Unit gains the [Carlos bonus] promotion <by consuming this unit> <with [Carlos bonus]>",
         "Great Person - [Science]", "Unbuildable", "Uncapturable"],
 	"movement": 2
 	},
