@@ -105,6 +105,6 @@
 {
   "name": "Carlos Scientist",
   "unitTypes": ["Great Scientist"],
-  "uniques": ["Will not be displayed in Civilopedia", "Free Social Policy <by consuming this unit>"]
+  "uniques": ["Will not be displayed in Civilopedia", "Free Social Policy"]
 },
 ]
