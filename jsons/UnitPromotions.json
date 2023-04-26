@@ -103,8 +103,8 @@
   "Gain [320] [Science] <during the [Atomic era]>","Gain [640] [Science] <during the [Information era]>", "Will not be displayed in Civilopedia"]
 },
 {
-  "name": "Free Social policy",
+  "name": "Carlos Social policy",
   "unitTypes": ["Great Scientist"],
-  "uniques": ["Will not be displayed in Civilopedia", "Free Social Policy"]
+  "uniques": ["Will not be displayed in Civilopedia", "Free Social Policy <with [Carlos bonus]>"]
 },
 ]
