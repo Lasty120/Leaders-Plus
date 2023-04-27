@@ -96,14 +96,4 @@
         "Great Person - [Production]", "Unbuildable", "Uncapturable"],
 	"movement": 2
 	},
-{
-	"name": "Great Scientist",
-	"unitType": "Civilian",
-	"uniques": [
-        "Can hurry technology research",
-        "Can instantly construct a [Academy] improvement <by consuming this unit>",
-        "This Unit gains the [Carlos Social policy] promotion <by consuming this unit> <with [Carlos bonus]>",
-        "Great Person - [Science]", "Unbuildable", "Uncapturable"],
-	"movement": 2
-	},
 ]
