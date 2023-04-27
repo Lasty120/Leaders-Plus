@@ -869,8 +869,8 @@
   "name": "Bourbon Reforms (Carlos III)",
   "uniqueTo": "Spain",
   "cost": 1,
-//  "replacementTextForUniques": "[Great Scientists can spend a life to adopt social policy]
-// [[+1 Culture] from each Trade Route]",
+  "replacementTextForUniques": "[Great Scientists can spend a life to adopt social policy]
+[[+1 Culture] from each Trade Route]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "Gain [1] [Carlos bonus]", "[+1 Culture] from each Trade Route"],
 },
@@ -901,16 +901,18 @@
 [+20% Strength for Melee units when adjacent to a Melee unit in Enemy Land tiles]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[{Land} {Military}] units gain the [Hannibal bonus] promotion",
-  "[+20]% Strength <for [Melee] units> <when adjacent to a [Melee] unit> <in [Enemy Land] tiles>"],
+  "[+20]% Strength <for [Melee] units> <when adjacent to a [Melee] unit> <when fighting in [Enemy Land] tiles>"],
 },
 {
   "name": "Freedom of Britain (Boudicca)",
   "uniqueTo": "Celts",
   "cost": 1,
- "replacementTextForUniques": "[Cities are razed [4] times as fast]
+ "replacementTextForUniques": "[Melee units gain +10% Strength with adjacent Military unit and +5% Strength for each adjacent Forest tiles]
 [+50% XP gained from combat when fighting in Friendly Land tiles]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "Destroyed when the city is captured", "Cities are razed [4] times as fast", "[+50]% XP gained from combat <for [Military] units> <in [Friendly Land] tiles>"],
+  "Destroyed when the city is captured", "[+10]% Strength <for [Melee] units> <when adjacent to a [Military] unit>", "[+50]% XP gained from combat <for [Military] units> <in [Friendly Land] tiles>",
+  "[+5]% Strength <for [Melee] units> <with [1] to [6] neighboring [Forest] tiles>","[+5]% Strength <for [Melee] units> <with [2] to [6] neighboring [Forest] tiles>","[+5]% Strength <for [Melee] units> <with [3] to [6] neighboring [Forest] tiles>",
+  "[+5]% Strength <for [Melee] units> <with [4] to [6] neighboring [Forest] tiles>","[+5]% Strength <for [Melee] units> <with [5] to [6] neighboring [Forest] tiles>","[+5]% Strength <for [Melee] units> <with [6] to [6] neighboring [Forest] tiles>"],
 },
 {
   "name": "Bannockburn (Robert the Bruce)",
