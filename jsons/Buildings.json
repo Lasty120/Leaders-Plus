@@ -869,11 +869,11 @@
   "name": "Bourbon Reforms (Carlos III)",
   "uniqueTo": "Spain",
   "cost": 1,
-  "replacementTextForUniques": "[Free Social Policy upon gaining Great Scientist but also +10% Culture cost of adopting new Policies]
+  "replacementTextForUniques": "[Free Social Policy upon gaining Great Scientist but also +20% Culture cost of adopting new Policies]
 [[+1 Culture] from each Trade Route]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[Great Scientist] units gain the [Carlos Social policy] promotion", "[+1 Culture] from each Trade Route",
-  "[+10]% Culture cost of adopting new Policies"],
+  "[+20]% Culture cost of adopting new Policies"],
 },
 {
   "name": "Founder of Carthage (Dido)",
