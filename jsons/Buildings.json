@@ -912,8 +912,8 @@
 [+50% XP gained from combat when fighting in Friendly Land tiles]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[+10]% Strength <for [Melee] units> <when adjacent to a [Military] unit>", "[+50]% XP gained from combat <for [Military] units> <in [Friendly Land] tiles>",
-  "[+5]% Strength <for [Melee] units> <with [1] to [6] neighboring [Forest] tiles>","[+5]% Strength <for [Melee] units> <with [2] to [6] neighboring [Forest] tiles>","[+5]% Strength <for [Melee] units> <with [3] to [6] neighboring [Forest] tiles>",
-  "[+5]% Strength <for [Melee] units> <with [4] to [6] neighboring [Forest] tiles>","[+5]% Strength <for [Melee] units> <with [5] to [6] neighboring [Forest] tiles>","[+5]% Strength <for [Melee] units> <with [6] to [6] neighboring [Forest] tiles>"],
+  "[+5]% Strength <for [Melee] units> <with [1] to [1] neighboring [Forest] tiles>","[+10]% Strength <for [Melee] units> <with [2] to [2] neighboring [Forest] tiles>","[+15]% Strength <for [Melee] units> <with [3] to [3] neighboring [Forest] tiles>",
+  "[+20]% Strength <for [Melee] units> <with [4] to [4] neighboring [Forest] tiles>","[+25]% Strength <for [Melee] units> <with [5] to [5] neighboring [Forest] tiles>","[+30]% Strength <for [Melee] units> <with [6] to [6] neighboring [Forest] tiles>"],
 },
 {
   "name": "Bannockburn (Robert the Bruce)",
