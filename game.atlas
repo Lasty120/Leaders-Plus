@@ -410,6 +410,13 @@ BuildingIcons/Wall of 10.000 Li (Qin Shi Huang)
   orig: 100, 100
   offset: 0, 0
   index: -1
+BuildingIcons/Lijia (Yongle)
+  rotate: false
+  xy: 1924, 265
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Founder of Hangul language (Sejong)
   rotate: false
   xy: 1924, 265
