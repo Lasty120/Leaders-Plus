@@ -946,6 +946,16 @@
   "Destroyed when the city is captured", "Provides [1] [China bonus]", "[-25]% tile improvement construction time"],
 },
 {
+  "name": "Lijia (Yongle)",
+  "uniqueTo": "China",
+  "cost": 1,
+//  "replacementTextForUniques": "[+2 [Gold], +1 [Science], +1 [Culture] per each population in cities with at least 10 population]
+// [+10% [Gold] in cities with at least 10 population]",
+  "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
+  "Destroyed when the city is captured", "[+2 Gold, +1 Culture, +1 Science] per [1] population [in all cities] <in cities with at least [10] population>",
+  "[+10]% [Gold] [in all cities] <in cities with at least [10] population>"],
+},
+{
   "name": "Founder of Hangul language (Sejong)",
   "uniqueTo": "Korea",
   "cost": 1,
@@ -1089,11 +1099,11 @@
   "name": "Unifier of Overseas Cities (Kameamea I)",
   "uniqueTo": "Polynesia",
   "cost": 1,
-  "replacementTextForUniques": "[Military units gains the Defensive bonus and may attack when embarked]
-[+1 [Happiness] in all cities on foreign continents (effect is doubled starting from the Medieval era)]",
+  "replacementTextForUniques": "[Military Land units gains +50% Strength in Water tiles and may attack when embarked]
+[+1 [Happiness] in all cities on foreign continents]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[Military] units gain the [Polynesia bonus]", "[+1 Happiness] [in all cities] <on foreign continents>", 
-  "[+1 Happiness] [in all cities] <on foreign continents> <starting from the [Medieval era]>"],
+  "[+1 Happiness] [in all cities] <on foreign continents> <starting from the [Medieval era]>", "[+50]% Strength <for [{Military} {Land}] units> <in [Water] tiles>"],
 },
 {
   "name": "Kupe's Voyage (Kupe)",
