@@ -3,7 +3,7 @@
   "name": " ",
   "uniqueTo": "",
   "cost": 1,
-//  "replacementTextForUniques": "Если что сюда пишется что будет отображаться вместо uniques",
+//  "replacementTextForUniques": "Here is what player would vies instead of uniques",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "Triggers the following global alert: ['s leader – ]"],
 },
@@ -118,172 +118,19 @@
   "[+1 Culture] from every [Forest]","[-1 Culture] from every [Forest] <with [1] to [6] neighboring [Desert] tiles>", 
   "[-1 Culture] from every [Forest] <with [1] to [6] neighboring [Jungle] tiles>", "[-1 Culture] from every [Forest] <with [1] to [6] neighboring [Marsh] tiles>"]
 },
-{
-  "name": "Rise of the Fine Arts (Elizabeth)",
-  "uniqueTo": "England",
-  "cost": 1,
-  "replacementTextForUniques": "[Unique Unit - Great Actor. Can instantly construct Theatre (+3 [Happiness], +2 [Culture], effect is doubled with neighboring City center tiles) and start Golden Age. Points of this Great People gains for 2 from [Happiness] buildings and for 1 from [Culture] buildings]
-[+10% [Culture] from all [Happiness] buildings]",
-  "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "[+10]% [Culture] from every [Colosseum]", "Provides [1] [Elizabeth bonus]",
-  "[+10]% [Culture] from every [Theatre]", "[+10]% [Culture] from every [Stadium]",
-  "Destroyed when the city is captured", "Triggers the following global alert: [England's leader – Elisabeth]"],
-},
-{
-		"name": "Monument",
-		"culture": 2,
-		"cost": 40,
-		"hurryCostModifier": 40,
-		"maintenance": 1,
-		"uniques": ["Destroyed when the city is captured", "Only available <without [Elizabeth bonus]>"]
-	},
-{
-		"name": "Colosseum",
-		"maintenance": 1,
-		"happiness": 2,
-		"hurryCostModifier": 25,
-		"requiredTech": "Construction",
-                "uniques": ["Only available <without [Elizabeth bonus]>"]
-	},
-{
-		"name": "Amphitheater",
-		"culture": 3,
-		"specialistSlots": {"Artist": 1},
-		"requiredBuilding": "Monument",
-		"maintenance": 2,
-		"hurryCostModifier": 25,
-		"uniques": ["Destroyed when the city is captured", "Only available <without [Elizabeth bonus]>"],
-		"requiredTech": "Drama and Poetry"
-	},
-{
-		"name": "Opera House",
-		"culture": 4,
-		"specialistSlots": {"Artist": 1},
-		"hurryCostModifier": 10,
-		"requiredBuilding": "Amphitheater",
-		"maintenance": 2,
-		"requiredTech": "Acoustics",
-		"uniques": ["Destroyed when the city is captured", "Only available <without [Elizabeth bonus]>"]
-	},
-{
-		"name": "Theatre",
-		"happiness": 3,
-		"hurryCostModifier": 10,
-		"maintenance": 2,
-                "uniques": ["Only available <without [Elizabeth bonus]>"],
-		"requiredBuilding": "Colosseum",
-		"requiredTech": "Printing Press"
-	},
-{
-		"name": "Museum",
-		"culture": 5,
-		"specialistSlots": {"Artist": 2},
-		"requiredBuilding": "Opera House",
-		"maintenance": 3,
-		"hurryCostModifier": 0,
-		"requiredTech": "Archaeology",
-		"uniques": ["Destroyed when the city is captured", "Only available <without [Elizabeth bonus]>"]
-	},
-{
-		"name": "Stadium",
-		"happiness": 4,
-		"requiredBuilding": "Theatre",
-		"maintenance": 2,
-                "uniques": ["Only available <without [Elizabeth bonus]>"],
-		"requiredTech": "Refrigeration"
-	},
-{
-		"name": "Broadcast Tower",
-		"culture": 3,
-		"percentStatBonus": {"culture": 33},
-		"requiredBuilding": "Museum",
-		"maintenance": 3,
-		"requiredTech": "Radio",
-		"uniques": ["Destroyed when the city is captured", "Only available <without [Elizabeth bonus]>"]
-	},
-{
-		"name": "Elizabeth Monument",
-		"culture": 2,
-		"cost": 40,
-                "replaces": "Monument",
-                "greatPersonPoints": {"Great Actor": 1},
-		"hurryCostModifier": 40,
-		"maintenance": 1,
-		"uniques": ["Destroyed when the city is captured", "Only available <with [Elizabeth bonus]>"]
-	},
-{
-		"name": "Elizabeth Colosseum",
-		"maintenance": 1,
-		"happiness": 2,
-                "replaces": "Colosseum",
-                "greatPersonPoints": {"Great Actor": 2},
-		"cost": 100,
-                "uniques": ["Only available <with [Elizabeth bonus]>", "Only available <after discovering [Construction]>"],
-	},
-{
-		"name": "Elizabeth Amphitheater",
-		"culture": 3,
-		"specialistSlots": {"Artist": 1},
-		"requiredBuilding": "Elizabeth Monument",
-		"maintenance": 2,
-                "replaces": "Amphitheater",
-                "greatPersonPoints": {"Great Actor": 1},
-		"cost": 100,
-		"uniques": ["Destroyed when the city is captured", "Only available <with [Elizabeth bonus]>", "Only available <after discovering [Drama and Poetry]>"],
-	},
-{
-		"name": "Elizabeth Opera House",
-		"culture": 4,
-		"specialistSlots": {"Artist": 1},
-		"cost": 200,
-                "replaces": "Opera House",
-                "greatPersonPoints": {"Great Actor": 1},
-		"requiredBuilding": "Elizabeth Amphitheater",
-		"maintenance": 2,
-		"uniques": ["Destroyed when the city is captured", "Only available <with [Elizabeth bonus]>", "Only available <after discovering [Acoustics]>"]
-	},
-{
-		"name": "Elizabeth Theatre",
-		"happiness": 3,
-		"cost": 200,
-                "replaces": "Theatre",
-		"maintenance": 2,
-                "greatPersonPoints": {"Great Actor": 2},
-		"requiredBuilding": "Elizabeth Colosseum",
-                "uniques": ["Only available <with [Elizabeth bonus]>", "Only available <after discovering [Printing Press]>"],
-	},
-{
-		"name": "Elizabeth Museum",
-		"culture": 5,
-		"specialistSlots": {"Artist": 2},
-		"requiredBuilding": "Elizabeth Opera House",
-		"maintenance": 3,
-                "replaces": "Museum",
-                "greatPersonPoints": {"Great Actor": 1},
-		"cost": 300,
-		"uniques": ["Destroyed when the city is captured", "Only available <with [Elizabeth bonus]>", "Only available <after discovering [Archaeology]>"]
-	},
-{
-		"name": "Elizabeth Stadium",
-		"happiness": 4,
-                "cost": 500,
-                "replaces": "Stadium",
-                "greatPersonPoints": {"Great Actor": 2},
-		"requiredBuilding": "Elizabeth Theatre",
-		"maintenance": 2,
-                "uniques": ["Only available <with [Elizabeth bonus]>", "Only available <after discovering [Refrigeration]>"],
-	},
-{
-		"name": "Elizabeth Broadcast Tower",
-		"culture": 3,
-                "cost": 500,
-                "replaces": "Broadcast Tower",
-                "greatPersonPoints": {"Great Actor": 1},
-		"percentStatBonus": {"culture": 33},
-		"requiredBuilding": "Elizabeth Museum",
-		"maintenance": 3,
-		"uniques": ["Destroyed when the city is captured", "Only available <with [Elizabeth bonus]>", "Only available <after discovering [Radio]>"]
-	},
+
+// {
+//  "name": "Rise of the Fine Arts (Elizabeth)",
+//  "uniqueTo": "England",
+//  "cost": 1,
+//  "replacementTextForUniques": "[Unique Unit - Great Actor. Can instantly construct Theatre (+3 [Happiness], +2 [Culture], effect is doubled with neighboring City center tiles) and start Golden Age. Points of this Great People gains for 2 from [Happiness] buildings and for 1 from [Culture] buildings]
+// [+10% [Culture] from all [Happiness] buildings]",
+//  "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
+//  "[+10]% [Culture] from every [Colosseum]", "Provides [1] [Elizabeth bonus]",
+//  "[+10]% [Culture] from every [Theatre]", "[+10]% [Culture] from every [Stadium]",
+//  "Destroyed when the city is captured", "Triggers the following global alert: [England's leader – Elisabeth]"],
+// },
+
 {
   "name": "Pax Britannica (Victoria)",
   "uniqueTo": "England",
@@ -1203,7 +1050,7 @@
   "name": "Africa's Greatest Empire (Askia)",
   "uniqueTo": "Songhai",
   "cost": 1,
-  "replacementTextForUniques": "[Empire enters golden age but Golder Age Length -20%]
+  "replacementTextForUniques": "[Empire enters golden age upon conquiering a city but Golder Age Length -20%]
 [+2 [Happiness] [in annexed cities]]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "Empire enters golden age <upon conquering a city>","[-20]% Golden Age length",
@@ -1226,122 +1073,18 @@
   "[-4 Food, -4 Gold] [in capital] <with [4] to [4] neighboring [Desert] tiles>","[-5 Food, -5 Gold] [in capital] <with [5] to [5] neighboring [Desert] tiles>",
   "[-6 Food, -6 Gold] [in capital] <with [6] to [6] neighboring [Desert] tiles>",]
 },
-{
-  "name": "Grand Vizier (Suleiman)",
-  "uniqueTo": "The Ottomans",
-  "cost": 1,
-  "replacementTextForUniques": "[Unique specialist – Vizier (+2 [Science], [Culture], +2 Great Scientist point and Great Artist point). This specialist provided for 1 by Library and for 2 by other [Science] buildings]
-[+1 [Science] from every specialist starting from the Renaissance era (effect is doubled for Vizier)]",
-  "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "Destroyed when the city is captured", "Provides [1] [Suleiman bonus]", "[+1 Science] from every specialist [in all cities] <starting from the [Renaissance era]>",
-  "[+1 Science] from every [Vizier] <starting from the [Renaissance era]>"],
-},
-{
-	"name": "Library",
-	"hurryCostModifier": 25,
-	"maintenance": 1,
-	"uniques": ["[+1 Science] per [2] population [in this city]", "Only available <without [Suleiman bonus]>",
-        "Only available <in cities without a [Suleiman's Library]>"],
-	"requiredTech": "Writing"
-	},
-{
-	"name": "Suleiman's Library",
-	"maintenance": 1,
-        "cost": 75,
-	"replaces": "Library",
-        "specialistSlots": {"Vizier": 1},
-	"uniques": ["[+1 Science] per [2] population [in this city]", "Only available <with [Suleiman bonus]>",
-        "Only available <in cities without a [Library]>", "Only available <after discovering [Writing]>"],
-	},
-{
-	"name": "University",
-	"maintenance": 2,
-	"hurryCostModifier": 15,
-	"percentStatBonus": {"science": 33},
-	"specialistSlots": {"Scientist": 2},
-	"requiredBuilding": "Library",
-	"uniques": ["[+2 Science] from [Jungle] tiles [in this city]", "Only available <without [Suleiman bonus]>",
-        "Only available <in cities without a [Suleiman's University]>"],
-	"requiredTech": "Education"
-	},
-{
-	"name": "Suleiman's University",
-	"maintenance": 2,
-        "cost": 160,
-	"replaces": "University",
-	"percentStatBonus": {"science": 33},
-	"specialistSlots": {"Scientist": 2,
-        "Vizier": 2},
-	"requiredBuilding": "Suleiman's Library",
-	"uniques": ["[+2 Science] from [Jungle] tiles [in this city]", "Only available <with [Suleiman bonus]>",
-        "Only available <in cities without a [University]>", "Only available <after discovering [Education]>"],
-	},
-{
-	"name": "Suleiman's Observatory",
-	"maintenance": 0,
-        "cost": 200,
-	"replaces": "Observatory",
-	"percentStatBonus": {"science": 50},
-        "specialistSlots": {"Vizier": 2},
-	"requiredBuilding": "Suleiman's Library",
-	"uniques": ["Must be next to [Mountain]", "Only available <with [Suleiman bonus]>",
-        "Only available <in cities without a [Observatory]>", "Only available <after discovering [Astronomy]>"],
-	},
-{
-	"name": "Observatory",
-	"maintenance": 0,
-        "cost": 200,
-	"percentStatBonus": {"science": 50},
-	"requiredBuilding": "Library",
-	"uniques": ["Must be next to [Mountain]", "Only available <without [Suleiman bonus]>",
-        "Only available <in cities without a [Suleiman's Observatory]>"],
-	"requiredTech": "Astronomy"
-	},
-{
-	"name": "Suleiman's Public School",
-	"science": 3,
-	"specialistSlots": {"Scientist": 1,
-        "Vizier": 2},
-	"replaces": "Public School",
-	"requiredBuilding": "Suleiman's University",
-	"maintenance": 3,
-        "cost": 300,
-	"uniques": ["[+1 Science] per [2] population [in this city]", "Only available <with [Suleiman bonus]>",
-        "Only available <in cities without a [Public School]>","Only available <after discovering [Scientific Theory]>"],
-	},
-{
-	"name": "Public School",
-	"science": 3,
-	"specialistSlots": {"Scientist": 1},
-	"requiredBuilding": "University",
-	"maintenance": 3,
-	"hurryCostModifier": 0,
-	"uniques": ["[+1 Science] per [2] population [in this city]", "Only available <without [Suleiman bonus]>",
-        "Only available <in cities without a [Suleiman's Public School]>"],
-        "requiredTech": "Scientific Theory"
-	},
-{
-	"name": "Suleiman's Research Lab",
-	"science": 4,
-	"replaces": "Research Lab",
-	"percentStatBonus": {"science": 50},
-	"specialistSlots": {"Scientist": 1,
-        "Vizier": 1},
-        "cost": 500,
-        "uniques": ["Only available <with [Suleiman bonus]>","Only available <in cities without a [Research Lab]>", "Only available <after discovering [Plastics]>"]
-	"requiredBuilding": "Suleiman's Public School",
-	"maintenance": 3,
-	},
-{
-	"name": "Research Lab",
-	"science": 4,
-	"percentStatBonus": {"science": 50},
-	"specialistSlots": {"Scientist": 1},
-        "uniques": ["Only available <without [Suleiman bonus]>","Only available <in cities without a [Suleiman's Research Lab]>"]
-	"requiredBuilding": "Public School",
-	"maintenance": 3,
-	"requiredTech": "Plastics"
-	},
+
+//{
+//  "name": "Grand Vizier (Suleiman)",
+//  "uniqueTo": "The Ottomans",
+//  "cost": 1,
+//  "replacementTextForUniques": "[Unique specialist – Vizier (+2 [Science], [Culture], +2 Great Scientist point and Great Artist point). This specialist provided for 1 by Library and for 2 by other [Science] buildings]
+//[+1 [Science] from every specialist starting from the Renaissance era (effect is doubled for Vizier)]",
+//  "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
+//  "Destroyed when the city is captured", "Provides [1] [Suleiman bonus]", "[+1 Science] from every specialist [in all cities] <starting from the [Renaissance era]>",
+//  "[+1 Science] from every [Vizier] <starting from the [Renaissance era]>"],
+//},
+
 {
   "name": "Great Bombard (Mehmed II)",
   "uniqueTo": "The Ottomans",
