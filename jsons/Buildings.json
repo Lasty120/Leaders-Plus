@@ -5,7 +5,7 @@
   "cost": 1,
 //  "replacementTextForUniques": "Here is what player would vies instead of uniques",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "Destroyed when the city is captured", "Triggers the following global alert: ['s leader – ]"],
+  "Destroyed when the city is captured", "Destroyed when the city is captured", "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
   "name": "Landowning reforms (Maria Theresa)",
