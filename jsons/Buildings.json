@@ -16,7 +16,7 @@
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "[+1 Production, +1 Food, +1 Gold] from every [Farm] <in [Bonus resource] tiles>", "[+1 Food, +1 Gold] from every [Plantation]",
   "[+1 Food, +1 Gold] from every [Plantation] <with [1] to [6] neighboring [City center] tiles>",
-   "Destroyed when the city is captured", "Triggers the following global alert: ["Austria's Leader — Maria Theresa"]"],
+   "Destroyed when the city is captured", "Triggers the following global alert: ["Austria's Leader — Maria Theresa"]", "Triggers a global alert upon build start"],
 },
 {
   "name": "King of the Habsburgs (Otakar II)",
