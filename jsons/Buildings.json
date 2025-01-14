@@ -11,13 +11,12 @@
   "name": "Landowning reforms (Maria Theresa)",
   "uniqueTo": "Austria",
   "cost": 1,
-  "isWonder": true,
   "replacementTextForUniques": "[+1 [Production], +1 [Food], +1 [Gold] from every Farm in Bonus resource tiles]
 [+1 [Food], +1 [Gold] from every Plantation (effect is doubled with neighboring City center tiles)]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "[+1 Production, +1 Food, +1 Gold] from every [Farm] <in [Bonus resource] tiles>", "[+1 Food, +1 Gold] from every [Plantation]",
   "[+1 Food, +1 Gold] from every [Plantation] <with [1] to [6] neighboring [City center] tiles>",
-   "Destroyed when the city is captured"],
+   "Destroyed when the city is captured", "Triggers the following global alert: [Austria's Leader — Maria Theresa]"],
 },
 {
   "name": "King of the Habsburgs (Otakar II)",
@@ -29,7 +28,7 @@
   "Earn [75]% of killed [Military] unit's [Strength] as [Faith] <starting from the [Ancient era]> <before the [Medieval era]>",
   "Earn [150]% of killed [Military] unit's [Strength] as [Faith] <during the [Medieval era]>", "Earn [75]% of killed [Military] unit's [Strength] as [Faith] <starting from the [Renaissance era]>",
   "Gain [100] [Faith] <upon conquering a city>", "Gain [50] [Faith] <upon conquering a city> <in cities with a [Shrine]>", "Gain [50] [Faith] <upon conquering a city> <in cities with a [Temple]>",
-  "Destroyed when the city is captured"],
+  "Destroyed when the city is captured", "Triggers the following global alert: [Austria's Leader — Otakar II]"],
 },
 {
   "name": "Crownlands (Charles V)",
@@ -54,7 +53,7 @@
   "[+1 Faith] from [Holy site] tiles [in all cities] <in cities with at least [12] [Population]>","[+1 Faith] from [Holy site] tiles [in all cities] <in cities with at least [16] [Population]>",
   "[+1 Faith] from [Holy site] tiles [in all cities] <in cities with at least [20] [Population]>","Gain a free [Great Scientist point] [in all cities] <within [3] tiles of a [Academy]>",
   "Gain a free [Great Artist point] [in all cities] <within [3] tiles of a [Landmark]>","Gain a free [Great Engineer point] [in all cities] <within [3] tiles of a [Manufactory]>",
-  "Gain a free [Great Merchant point] [in all cities] <within [3] tiles of a [Customs house]>","[+5 Faith] [in all cities] <within [3] tiles of a [Holy site]>"],
+  "Gain a free [Great Merchant point] [in all cities] <within [3] tiles of a [Customs house]>","[+5 Faith] [in all cities] <within [3] tiles of a [Holy site]>", "Triggers the following global alert: [Austria's Leader — Charles V]"],
 },
 {
   "name": "Great Artist point",
