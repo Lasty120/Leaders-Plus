@@ -1234,7 +1234,7 @@
   "[Catapult] units gain the [Japan bonus I] promotion","[Trebuchet] units gain the [Japan bonus II] promotion",
   "[Cannon] units gain the [Japan bonus III] promotion","[Artillery] units gain the [Japan bonus IV] promotion",
   "[Rocket Artillery] units gain the [Japan bonus V] promotion", "Upon capturing a city, receive [10] times its [Science] production as [Science] immediately",
-  "Triggers a global alert upon build start","Cannot be purchased""],
+  "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
   "name": "Divine Wind (Hojo Tokimune)",
