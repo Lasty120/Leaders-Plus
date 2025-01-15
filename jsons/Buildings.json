@@ -28,7 +28,7 @@
   "Earn [75]% of killed [Military] unit's [Strength] as [Faith] <starting from the [Ancient era]> <before the [Medieval era]>",
   "Earn [150]% of killed [Military] unit's [Strength] as [Faith] <during the [Medieval era]>", "Earn [75]% of killed [Military] unit's [Strength] as [Faith] <starting from the [Renaissance era]>",
   "Gain [100] [Faith] <upon conquering a city>", "Gain [50] [Faith] <upon conquering a city> <in cities with a [Shrine]>", "Gain [50] [Faith] <upon conquering a city> <in cities with a [Temple]>",
-  "Destroyed when the city is captured", "Triggers the following global alert: [Austria's Leader — Otakar II]"],
+  "Destroyed when the city is captured", "Triggers the following global alert: [Austria's Leader — Otakar II]", "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
   "name": "Crownlands (Charles V)",
@@ -53,7 +53,8 @@
   "[+1 Faith] from [Holy site] tiles [in all cities] <in cities with at least [12] [Population]>","[+1 Faith] from [Holy site] tiles [in all cities] <in cities with at least [16] [Population]>",
   "[+1 Faith] from [Holy site] tiles [in all cities] <in cities with at least [20] [Population]>","Gain a free [Great Scientist point] [in all cities] <within [3] tiles of a [Academy]>",
   "Gain a free [Great Artist point] [in all cities] <within [3] tiles of a [Landmark]>","Gain a free [Great Engineer point] [in all cities] <within [3] tiles of a [Manufactory]>",
-  "Gain a free [Great Merchant point] [in all cities] <within [3] tiles of a [Customs house]>","[+5 Faith] [in all cities] <within [3] tiles of a [Holy site]>", "Triggers the following global alert: [Austria's Leader — Charles V]"],
+  "Gain a free [Great Merchant point] [in all cities] <within [3] tiles of a [Customs house]>","[+5 Faith] [in all cities] <within [3] tiles of a [Holy site]>", 
+  "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
   "name": "Great Artist point",
@@ -91,7 +92,7 @@
 [+25% Strength for cities when defending]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "[+15]% Strength <when fighting in [Friendly Land] tiles>", "[+25]% Strength for cities <when defending>",
-  "Destroyed when the city is captured"],
+  "Destroyed when the city is captured", "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
   "name": "Union Guardian (Abraham Lincoln)",
@@ -105,7 +106,7 @@
   "All newly-trained [Military] units [in all cities] receive the [Reduced maintenance III] promotion <in cities with a [Factory]>",
   "All newly-trained [Military] units [in all cities] receive the [Reduced maintenance II] promotion <in cities with a [Solar Plant]>",
   "All newly-trained [Military] units [in all cities] receive the [Reduced maintenance II] promotion <in cities with a [Nuclear Plant]>",
-  "Destroyed when the city is captured", "Triggers the following global alert: [Ameica's leader – Abraham Lincoln]"],
+  "Destroyed when the city is captured", "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
   "name": "Roosevelt Corollary (Teddy Roosevelt)",
@@ -116,7 +117,8 @@
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[+1 Science] from [Land] tiles [in all cities] <with [1] to [6] neighboring [Mountain] tiles>",
   "[+1 Culture] from every [Forest]","[-1 Culture] from every [Forest] <with [1] to [6] neighboring [Desert] tiles>", 
-  "[-1 Culture] from every [Forest] <with [1] to [6] neighboring [Jungle] tiles>", "[-1 Culture] from every [Forest] <with [1] to [6] neighboring [Marsh] tiles>"]
+  "[-1 Culture] from every [Forest] <with [1] to [6] neighboring [Jungle] tiles>", "[-1 Culture] from every [Forest] <with [1] to [6] neighboring [Marsh] tiles>", 
+  "Triggers a global alert upon build start","Cannot be purchased"]
 },
 
 // {
@@ -128,7 +130,7 @@
 //  "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
 //  "[+10]% [Culture] from every [Colosseum]", "Provides [1] [Elizabeth bonus]",
 //  "[+10]% [Culture] from every [Theatre]", "[+10]% [Culture] from every [Stadium]",
-//  "Destroyed when the city is captured", "Triggers the following global alert: [England's leader – Elisabeth]"],
+//  "Destroyed when the city is captured", "Triggers a global alert upon build start","Cannot be purchased"],
 // },
 
 {
@@ -151,7 +153,7 @@
   "Free [Great War Infantry] appears <upon founding a city> <on foreign continents> <before discovering [Plastics]> <after discovering [Replaceable Parts]>",
   "Free [Infantry] appears <upon founding a city> <on foreign continents> <before discovering [Mobile Tactics]> <after discovering [Plastics]>",
   "Free [Mechanized Infantry] appears <upon founding a city> <on foreign continents> <after discovering [Mobile Tactics]>", "Destroyed when the city is captured",
-  "Triggers the following global alert: [England's leader – Victoria]"],
+  "Triggers a global alert upon build start","Cannot be purchased"],
 },
   {
   "name": "Free Water unitt",
@@ -174,7 +176,7 @@
 [Workers can instantly build Fort. +1 [Production] from every Fort]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "Provides [1] [Churchill bonus]", "[Great Engineer] is earned [-25]% faster",
-  "[+1 Production] from [Fort] tiles [in all cities]"],
+  "[+1 Production] from [Fort] tiles [in all cities]", "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
   "name": "Righteousness (Harun Al Rashid)",
@@ -187,7 +189,7 @@
   "[+15]% [Science] from every [Cathedral]", "[+15]% [Culture] from every [Monastery]",
   "[+15]% [Science] from every [Monastery]", "[+15]% [Culture] from every [Mosque]",
   "[+15]% [Science] from every [Mosque]", "[+15]% [Culture] from every [Pagoda]",
-  "[+15]% [Science] from every [Pagoda]", "Destroyed when the city is captured", "Triggers the following global alert: [Arabia's leader – Harun Al Rashid]"],
+  "[+15]% [Science] from every [Pagoda]", "Destroyed when the city is captured", "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
   "name": "Victorious (Saladin)",
@@ -197,7 +199,7 @@
 [+30% Spread Religion Strength]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "[+100]% to Flank Attack bonuses <when adjacent to a [Great Prophet] unit>", "[+30]% Spread Religion Strength",
-  "Destroyed when the city is captured", "Triggers the following global alert: [Arabia's leader – Saladin]"],
+  "Destroyed when the city is captured", "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
   "name": "The Last Prophet (Abu Bakr)",
@@ -208,7 +210,7 @@
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "Free [Great Prophet] appears <upon entering the [Medieval era]>",
   "Free [Great Prophet] appears <upon entering the [Renaissance era]>",
-  "Free [Great Prophet] appears <upon entering the [Information era]>", "Provides [1] [Abu Bakr bonus]"],
+  "Free [Great Prophet] appears <upon entering the [Information era]>", "Provides [1] [Abu Bakr bonus]", "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
   "name": "Gifts for Tlatoani (Montezuma I)",
@@ -223,7 +225,7 @@
   "[+4]% Strength <with [Jewelry]>","[+4]% Strength <with [Marble]>","[+4]% Strength <with [Pearls]>","[+4]% Strength <with [Porcelain]>",
   "[+4]% Strength <with [Salt]>","[+4]% Strength <with [Silk]>","[+4]% Strength <with [Silver]>","[+4]% Strength <with [Spices]>",
   "[+4]% Strength <with [Sugar]>","[+4]% Strength <with [Truffles]>","[+4]% Strength <with [Whales]>","[+4]% Strength <with [Wine]>",
-  "Destroyed when the city is captured", "Triggers the following global alert: [Aztecs' leader – Montezuma I]"],
+  "Destroyed when the city is captured", "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
   "name": "Legend of the Five Suns (Ahuizotl)",
@@ -233,7 +235,7 @@
 [+20% Strength when fighting in Forest or Jungle tiles]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Heals [25] damage if it kills a unit <for [Melee] units>", "[+20]% Strength <when fighting in [Jungle] tiles>",
-  "[+20]% Strength <when fighting in [Forest] tiles>", "Destroyed when the city is captured", "Triggers the following global alert: [Aztecs' leader – Ahuizotl]"],
+  "[+20]% Strength <when fighting in [Forest] tiles>", "Destroyed when the city is captured", "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
   "name": "Rabum abu (Nebuchadnezzar II)",
@@ -247,7 +249,7 @@
   "[+1 Gold] from every [Lighthouse]","[+1 Gold] from every [Temple]","[+1 Gold] from every [Amphitheater]","[+1 Gold] from every [Water Mill]",
   "[+1 Gold] from every [Stable]","[+1 Gold] from every [Courthouse]","[+1 Gold] from every [Barracks]","[+1 Gold] from every [Colosseum]",
   "[+1 Gold] from every [Aqueduct]", "Upon capturing a city, receive [5] times its [Gold] production as [Culture] immediately",
-  "Destroyed when the city is captured", "Triggers the following global alert: [Babylon's leader – Nebuchadnezzar II]"],
+  "Destroyed when the city is captured", "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
   "name": "When Great Anu... (Hammurabi)",
@@ -260,7 +262,7 @@
   "[-10]% Production when constructing [2 Workers2] buildings [in all cities] <in cities with a [Windmill]>", "[-10]% Production when constructing [2 Workers3] buildings [in all cities] <in cities with a [Windmill]>",
   "[-10]% Production when constructing [2 Workers4] buildings [in all cities] <in cities with a [Windmill]>", "[-10]% Production when constructing [2 Workers5] buildings [in all cities] <in cities with a [Windmill]>",
   "[-10]% Production when constructing [2 Workers6] buildings [in all cities] <in cities with a [Windmill]>", "[-10]% Production when constructing [2 Workers7] buildings [in all cities] <in cities with a [Windmill]>",
-  "Destroyed when the city is captured", "[+15]% Production when constructing [Settler] units [in all cities]"],
+  "Destroyed when the city is captured", "[+15]% Production when constructing [Settler] units [in all cities]", "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
   "name": "2 Workers1",
@@ -327,7 +329,7 @@
   "cost": 1,
   "replacementTextForUniques": "Gain 6 Science upon constructing and modernizing Military unit (effect is doubles per every era)",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "Destroyed when the city is captured", "[Military] units gain the [Karaindash bonus] promotion"],
+  "Destroyed when the city is captured", "[Military] units gain the [Karaindash bonus] promotion", "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
   "name": "Mitera tu lau (Feodora)",
@@ -337,7 +339,7 @@
 [+1 [Happiness] per 4 population and per 6 population in all cities]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[+1 Food] per [3] population [in all cities]", "[+1 Happiness] per [4] population [in all cities]", "[+1 Happiness] per [6] population [in all cities]",
-  "Triggers the following global alert: [Byzatium's leader – Feodora]"],
+  "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
   "name": "Porphyrrogennetos (Basil II)",
@@ -347,7 +349,7 @@
 [Can build unique unit [Tagma] after adopting Pierty (replaces Knight, Horses not required, +3 strength, +15% strength bonus for Military units within 3 tiles, Earn 100% of killed Military unit's Strength as [Culture], [Science] and [Faith], +33% Strength vs cities)]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[+33]% Strength <for [Mounted] units> <vs cities> <when attacking>", "Provides [1] [Byzantium bonus]",
-  "Triggers the following global alert: [Byzantium's leader – Basil II]"],
+  "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
   "name": "New Rome (Konstantin I)",
@@ -357,7 +359,8 @@
 [Gain enough Faith for 10% of a Great Prophet upon constructing Shrine and Temple]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[+3 Culture] from [Holy site] tiles [in all cities]", "Provides [1] [Konstantin bonus]",
-  "Gain enough Faith for [10]% of a Great Prophet <upon constructing [Shrine]>","Gain enough Faith for [10]% of a Great Prophet <upon constructing [Temple]>"],
+  "Gain enough Faith for [10]% of a Great Prophet <upon constructing [Shrine]>","Gain enough Faith for [10]% of a Great Prophet <upon constructing [Temple]>",
+  "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
 		"name": "Shrine",
@@ -385,7 +388,7 @@
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured",
   "Can spend Gold to annex or puppet a City-State that has been your ally for [7] turns.", "[+20]% Strength <when fighting in [Foreign Land] tiles>",
-  "[-20]% Strength <when fighting in [Enemy Land] tiles>", "Triggers the following global alert: [Germany's leader – Otto Von Bismark]"],
+  "[-20]% Strength <when fighting in [Enemy Land] tiles>", "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
   "name": "-2 Happiness",
@@ -401,7 +404,7 @@
 [+10% Strength vs cities (+30% additionaly for Siege units)]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "Provides [1] [Germany bonus]", "[+10]% Strength <vs cities>",
-  "[+30]% Strength <for [Siege] units> <vs cities>", "Triggers the following global alert: [Germany's leader – Frederick Barbarossa]"],
+  "[+30]% Strength <for [Siege] units> <vs cities>", "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
 	"name": "Barracks",
@@ -441,7 +444,7 @@
   "[+3 Gold] from every [Merchant] <during a Golden Age>", "[+2 Science] from every specialist [in all cities] <during a Golden Age> <after adopting [Secularism]>",
   "[+1 Production] from every specialist [in all cities] <during a Golden Age> <if [Statue of Liberty] is constructed>",
   "[-33]% Golden Age length", "[+10]% Strength <when fighting in [Foreign Land] tiles>",
-  "[-10]% Strength <when fighting in [Enemy Land] tiles>"],
+  "[-10]% Strength <when fighting in [Enemy Land] tiles>", "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
   "name": "To the World's End (Alexander)",
@@ -458,7 +461,7 @@
   "Upon capturing a city, receive [5] times its [Gold] production as [Gold] immediately <in cities with a [Wonder]>",
   "Upon capturing a city, receive [5] times its [Gold] production as [Science] immediately <in cities with a [Wonder]>",
   "Upon capturing a city, receive [5] times its [Gold] production as [Culture] immediately <in cities with a [Wonder]>",
-  "Triggers the following global alert: [Greece's leader – Alexander]"],
+  "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
   "name": "+2 Happiness",
@@ -474,7 +477,7 @@
 [+75% [Culture] from City-States]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "Allied City-States provide [Culture] equal to [+25]% of what they produce for themselves",
-  "[+75]% [Culture] from City-States", "Triggers the following global alert: [Greece's leader – Pericles]"],
+  "[+75]% [Culture] from City-States", "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
   "name": "Thalassoporon (Themistocles)",
@@ -483,7 +486,8 @@
   "replacementTextForUniques": "[Great Generals receive +2 Movement and +1 Sight in Water tiles. Great Generals provides double Strength bonus for Water Military units]
 [+10% Production when constructing Water Military units]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "Destroyed when the city is captured", "Provides [1] [Themistocles bonus]", "[+10]% Production when constructing [{Water} {Military}] units [in all cities]"],
+  "Destroyed when the city is captured", "Provides [1] [Themistocles bonus]", "[+10]% Production when constructing [{Water} {Military}] units [in all cities]",
+  "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
   "name": "Per-Ramses (Ramses)",
@@ -494,7 +498,7 @@
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[+60]% Production towards any buildings that already exist in the Capital <in cities with a [Egypt bonus]>",
   "Provides a [Egypt bonus] in your first [2] cities for free", "[+10]% Production when constructing [All] buildings [in all cities] <in [River] tiles>",
-  "Triggers the following global alert: [Egypt's leader – Ramses]"],
+  "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
   "name": "Egypt bonus",
@@ -518,8 +522,7 @@
   "Free [Rifleman] appears <upon declaring friendship> <before discovering [Replaceable Parts]> <after discovering [Rifling]>",
   "Free [Great War Infantry] appears <upon declaring friendship> <before discovering [Plastics]> <after discovering [Replaceable Parts]>",
   "Free [Infantry] appears <upon declaring friendship> <on foreign continents> <before discovering [Mobile Tactics]> <after discovering [Plastics]>",
-  "Free [Mechanized Infantry] appears <upon declaring friendship> <after discovering [Mobile Tactics]>",
-  "Triggers the following global alert: [Egypt's leader – Cleopatra]"],
+  "Free [Mechanized Infantry] appears <upon declaring friendship> <after discovering [Mobile Tactics]>", "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
   "name": "Abu Simbel (Joser)",
@@ -540,7 +543,8 @@
   "Gain [250] [Culture] <upon constructing [Kremlin]>","Gain [375] [Culture] <upon constructing [The Louvre]>","Gain [375] [Culture] <upon constructing [Big Ben]>",
   "Gain [375] [Culture] <upon constructing [Brandenburg Gate]>","Gain [530] [Culture] <upon constructing [Eiffel Tower]>","Gain [530] [Culture] <upon constructing [Statue of Liberty]>",
   "Gain [625] [Culture] <upon constructing [Pentagon]>","Gain [625] [Culture] <upon constructing [Sydney Opera House]>","Gain [530] [Culture] <upon constructing [Neuschwanstein]>",
-  "Gain [530] [Culture] <upon constructing [Cristo Redentor]>","Gain [625] [Culture] <upon constructing [CN Tower]>", "[+1 Culture] from [Flood plains] tiles [in all cities] <with [1] to [6] neighboring [Luxury resource] tiles>"],
+  "Gain [530] [Culture] <upon constructing [Cristo Redentor]>","Gain [625] [Culture] <upon constructing [CN Tower]>", "[+1 Culture] from [Flood plains] tiles [in all cities] <with [1] to [6] neighboring [Luxury resource] tiles>",
+  "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
   "name": "Scourge of God (Attila)",
@@ -557,7 +561,7 @@
   "Gain [140] [Culture] <upon conquering a city> <before the [Modern era]> <starting from the [Industrial era]>",
   "Gain [170] [Culture] <upon conquering a city> <before the [Atomic era]> <starting from the [Modern era]>",
   "Gain [200] [Culture] <upon conquering a city> <before the [Information era]> <starting from the [Atomic era]>",
-  "Gain [230] [Culture] <upon conquering a city> <starting from the [Information era]>", "Triggers the following global alert: [The Huns' leader – Attila]"],
+  "Gain [230] [Culture] <upon conquering a city> <starting from the [Information era]>", "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
   "name": "Ruler of Turks (Tobo-Kagan)",
@@ -566,8 +570,8 @@
   "replacementTextForUniques": "[Unique Unit [Turkic Archer] (replaces Knight, not required Horses, 21 Ranged Strength, 2 Range)]
 [+33% Strength for Mounted units vs cities when attacking before the Renaissance era]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "Destroyed when the city is captured", "Provides [1] [Huns bonus]", "[+33]% Strength <for [Mounted] units> <vs cities> <when attacking> <before the [Renaissance era]>",
-  "Triggers the following global alert: [The Huns' leader – Tobo-Khagan]"],
+  "Destroyed when the city is captured", "Provides [1] [Huns bonus]", "[+33]% Strength <for [Mounted] units> <vs cities> <when attacking> <before the [Renaissance era]>", 
+  "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
   "name": "Thunder of the North (Harald Bluetooth)",
@@ -578,7 +582,7 @@
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[+15]% Strength <for [Water] units> <within [2] tiles of a [Land]>",
   "[+15]% Strength <for [Water] units> <within [1] tiles of a [Land]>", "No movement cost to pillage <for [Water] units>",
-  "Triggers the following global alert: [Denmark's leader – Harald Bluetooth]"],
+  "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
   "name": "Hail Mig! (Ivan Wide Embrace)",
@@ -594,7 +598,7 @@
   "Gain [350] [Gold] <upon declaring war with a major Civilization> <before discovering [Rifling]> <after discovering [Gunpowder]>",
   "Gain [425] [Gold] <upon declaring war with a major Civilization> <before discovering [Replaceable Parts]> <after discovering [Rifling]>",
   "Gain [500] [Gold] <upon declaring war with a major Civilization> <before discovering [Plastics]> <after discovering [Replaceable Parts]>",
-  "Gain [575] [Gold] <upon declaring war with a major Civilization> <after discovering [Mobile Tactics]>", "Triggers the following global alert: [Denmark's leader – Ivan Wide Embrace]"],
+  "Gain [575] [Gold] <upon declaring war with a major Civilization> <after discovering [Mobile Tactics]>", "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
   "name": "Sejren er vores (Ivar the Boneless)",
@@ -604,7 +608,7 @@
 [+30% Strength for Water Military units vs cities in foreign continents]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[+20]% Production when constructing [All] buildings [in annexed cities] <on foreign continents>",
-  "[+20]% Strength <for [{Water} {Military}] units> <vs cities> <on foreign continents>"],
+  "[+20]% Strength <for [{Water} {Military}] units> <vs cities> <on foreign continents>", "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
   "name": "Satyagraha (Gandhi)",
@@ -616,7 +620,7 @@
   "Destroyed when the city is captured", "Gain enough Faith for [10]% of a Great Prophet <upon declaring friendship> <after founding a Pantheon> <before founding a religion>",
   "Gain enough Faith for [20]% of a Great Prophet <upon declaring friendship> <after founding a religion> <before enhancing a religion>",
   "Gain enough Faith for [30]% of a Great Prophet <upon declaring friendship> <after enhancing a religion>", "[+4 Faith] [in this city] <after founding a Pantheon>",
-  "[+4 Faith] [in this city] <after founding a religion>", "[+4 Faith] [in this city] <after enhancing a religion>", "Triggers the following global alert: [India's leader – Gandhi]"],
+  "[+4 Faith] [in this city] <after founding a religion>", "[+4 Faith] [in this city] <after enhancing a religion>", "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
   "name": "Arthashastra (Chandragupta)",
@@ -629,7 +633,7 @@
   "[-100]% Gold cost of upgrading <for [Knight] units>", "[-100]% Gold cost of upgrading <for [Crossbowman] units>",
   "[-100]% Gold cost of upgrading <for [Pikeman] units>", "[-100]% Gold cost of upgrading <for [Trebuchet] units>",
   "[-100]% Gold cost of upgrading <for [Galleass] units>", "[-100]% Gold cost of upgrading <for [Longswordsman] units>",
-  "Triggers the following global alert: [India's leader – Chandragupta]"],
+  "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
   "name": "Singhasan Battisi (Vikramaditya)",
@@ -642,7 +646,7 @@
   "Gain [65] [Science] <upon conquering a city> <during the [Classical era]>","Gain [200] [Science] <upon conquering a city> <during the [Medieval era]> ",
   "Gain [420] [Science] <upon conquering a city> <during the [Renaissance era]>","Gain [850] [Science] <upon conquering a city> <during the [Industrial era]>",
   "Gain [1500] [Science] <upon conquering a city> <during the [Modern era]>","Gain [2500] [Science] <upon conquering a city> <during the [Atomic era]>",
-  "Gain [3500] [Science] <upon conquering a city> <during the [Information era]>"],
+  "Gain [3500] [Science] <upon conquering a city> <during the [Information era]>", "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
   "name": "Qhapaq Nan (Pachacuti)",
@@ -654,7 +658,7 @@
   "Destroyed when the city is captured", "[+1 Food] [in all cities] <with [1] to [1] neighboring [Mountain] tiles>",
   "[+2 Food] [in all cities] <with [2] to [2] neighboring [Mountain] tiles>", "[+3 Food] [in all cities] <with [3] to [3] neighboring [Mountain] tiles>","[+6 Food] [in all cities] <with [6] to [6] neighboring [Mountain] tiles>",
   "[+4 Food] [in all cities] <with [4] to [4] neighboring [Mountain] tiles>", "[+5 Food] [in all cities] <with [5] to [5] neighboring [Mountain] tiles>",
-  "[Land] units gain the [Inca bonus] promotion", "Triggers the following global alert: [Inca's leader – Pachacuti]"],
+  "[Land] units gain the [Inca bonus] promotion", "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
   "name": "Sapa Inca (Huayna Capac)",
@@ -664,7 +668,7 @@
 [+1 [Happiness] per 4 population in all cities connected to capital]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[+30]% Strength <for [Melee] units> <vs [Archery] units> <when attacking>",
-  "[+1 Happiness] per [4] population [in all cities connected to capital]", "Triggers the following global alert: [Inca's leader – Huayna Capac]"],
+  "[+1 Happiness] per [4] population [in all cities connected to capital]", "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
   "name": "Injun Confederation (Hiawatha)",
@@ -674,7 +678,7 @@
 [Allied City-States provide [Gold] equal to [+20]% of what they produce for themselves]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "Militaristic City-States grant units [2] times as fast when you are at war with a common nation",
-  "Allied City-States provide [Gold] equal to [+20]% of what they produce for themselves", "Triggers the following global alert: [Iroquois' leader – Hiawatha]"],
+  "Allied City-States provide [Gold] equal to [+20]% of what they produce for themselves", "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
   "name": "Favorable Terms (Poundmaker)",
@@ -685,7 +689,7 @@
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[+1 Food] from [Pasture] tiles [in all cities connected to capital]", 
   "[+1 Food] from [Camp] tiles [in all cities connected to capital]", "[+1 Gold] from [Farm] tiles [in all cities connected to capital]",
-  "Triggers the following global alert: [Iroquois' leader – Poundmaker]"],
+  "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
   "name": "Spanish Inquisition (Isabella)",
@@ -696,7 +700,7 @@
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "Triggers the following global alert: [Spain's leader – Isabella]",
   "[Inquisitor] units built [in all cities] can [Remove Foreign religions from your own cities] [1] extra times",
-  "[Inquisitor] units gain the [Spain bonus] promotion"],
+  "[Inquisitor] units gain the [Spain bonus] promotion", "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
   "name": "El Escorial (Philip II)",
@@ -710,7 +714,8 @@
   "[+3 Culture, +2 Science, +2 Gold] for every known Natural Wonder", "[+3 Culture, +3 Science, +3 Gold] for every known Natural Wonder <starting from the [Classical era]>",
   "[+3 Culture, +3 Science, +3 Gold] for every known Natural Wonder <starting from the [Medieval era]>","[+3 Culture, +3 Science, +3 Gold] for every known Natural Wonder <starting from the [Renaissance era]>",
   "[+3 Culture, +3 Science, +3 Gold] for every known Natural Wonder <starting from the [Industrial era]>","[+3 Culture, +3 Science, +3 Gold] for every known Natural Wonder <starting from the [Modern era]>",
-  "[+3 Culture, +3 Science, +3 Gold] for every known Natural Wonder <starting from the [Atomic era]>","[+3 Culture, +3 Science, +3 Gold] for every known Natural Wonder <starting from the [Information era]>"],
+  "[+3 Culture, +3 Science, +3 Gold] for every known Natural Wonder <starting from the [Atomic era]>","[+3 Culture, +3 Science, +3 Gold] for every known Natural Wonder <starting from the [Information era]>",
+  "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
   "name": "Bourbon Reforms (Carlos III)",
@@ -720,7 +725,7 @@
 [[+1 Culture] from each Trade Route]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[Great Scientist] units gain the [Carlos Social policy] promotion", "[+1 Culture] from each Trade Route",
-  "[+20]% Culture cost of adopting new Policies"],
+  "[+20]% Culture cost of adopting new Policies", "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
   "name": "Founder of Carthage (Dido)",
@@ -732,7 +737,8 @@
   "Destroyed when the city is captured", "Provides [1] [Dido bonus]", "[-50]% tile improvement construction time <in [Land] tiles> <with [1] to [6] neighboring [City center] tiles>",
   "[+1 Culture, +1 Food, +1 Science, +1 Gold, +1 Production] [in capital] <starting from the [Classical era]>","[+1 Culture, +1 Food, +1 Science, +1 Gold, +1 Production] [in capital] <starting from the [Medieval era]>",
   "[+1 Culture, +1 Food, +1 Science, +1 Gold, +1 Production] [in capital] <starting from the [Renaissance era]>","[+1 Culture, +1 Food, +1 Science, +1 Gold, +1 Production] [in capital] <starting from the [Industrial era]>",
-  "[+1 Culture, +1 Food, +1 Science, +1 Gold, +1 Production] [in capital] <starting from the [Atomic era]>","[+1 Culture, +1 Food, +1 Science, +1 Gold, +1 Production] [in capital] <starting from the [Information era]>"],
+  "[+1 Culture, +1 Food, +1 Science, +1 Gold, +1 Production] [in capital] <starting from the [Atomic era]>","[+1 Culture, +1 Food, +1 Science, +1 Gold, +1 Production] [in capital] <starting from the [Information era]>",
+  "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
   "name": "Second capital",
@@ -749,7 +755,7 @@
 [+20% Strength for Melee units when adjacent to a Melee unit in Enemy Land tiles]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[{Land} {Military}] units gain the [Hannibal bonus] promotion",
-  "[+20]% Strength <for [Melee] units> <when adjacent to a [Melee] unit> <when fighting in [Enemy Land] tiles>"],
+  "[+20]% Strength <for [Melee] units> <when adjacent to a [Melee] unit> <when fighting in [Enemy Land] tiles>", "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
   "name": "Freedom of Britain (Boudicca)",
@@ -760,7 +766,8 @@
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[+10]% Strength <for [Melee] units> <when adjacent to a [Military] unit>", "[+50]% XP gained from combat <for [Military] units> <in [Friendly Land] tiles>",
   "[+5]% Strength <for [Melee] units> <with [1] to [1] neighboring [Forest] tiles>","[+10]% Strength <for [Melee] units> <with [2] to [2] neighboring [Forest] tiles>","[+15]% Strength <for [Melee] units> <with [3] to [3] neighboring [Forest] tiles>",
-  "[+20]% Strength <for [Melee] units> <with [4] to [4] neighboring [Forest] tiles>","[+25]% Strength <for [Melee] units> <with [5] to [5] neighboring [Forest] tiles>","[+30]% Strength <for [Melee] units> <with [6] to [6] neighboring [Forest] tiles>"],
+  "[+20]% Strength <for [Melee] units> <with [4] to [4] neighboring [Forest] tiles>","[+25]% Strength <for [Melee] units> <with [5] to [5] neighboring [Forest] tiles>","[+30]% Strength <for [Melee] units> <with [6] to [6] neighboring [Forest] tiles>",
+  "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
   "name": "Bannockburn (Robert the Bruce)",
@@ -770,7 +777,7 @@
 [+5% [Science] in all cities upon conquering a city]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[+5]% [Science] [in all cities] <upon conquering a city>",
-  "Earn [100]% of killed [Military] unit's [Strength] as [Science]"],
+  "Earn [100]% of killed [Military] unit's [Strength] as [Science]", "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
   "name": "Officials also plows the land (Wu Zetian)",
@@ -781,7 +788,7 @@
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "Triggers the following global alert: [China's leader – Wu Zetian]", 
   "[-50]% Food consumption by specialists [in all cities]", "[+25]% Unhappiness from [Specialists] [in all cities]",
-  "[+1 Food] from every [Farm] <with [1] to [6] neighboring [City center] tiles>"],
+  "[+1 Food] from every [Farm] <with [1] to [6] neighboring [City center] tiles>", "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
   "name": "Wall of 10.000 Li (Qin Shi Huang)",
@@ -790,7 +797,7 @@
   "replacementTextForUniques": "[Workers can construct Chinese Wall (replaces Fort, +10% additionaly defensive bonus, Adjacent enemy units ending their turn take 12 damage)]
 [[-25]% tile improvement construction time]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "Destroyed when the city is captured", "Provides [1] [China bonus]", "[-25]% tile improvement construction time"],
+  "Destroyed when the city is captured", "Provides [1] [China bonus]", "[-25]% tile improvement construction time", "Triggers a global alert upon build start","Cannot be purchased"],
 },
 // {
 //  "name": "Lijia (Yongle)",
@@ -800,7 +807,7 @@
 // [+10% [Gold] in cities with at least 10 population]",
 //  "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
 //  "Destroyed when the city is captured", "[+2 Gold, +1 Culture, +1 Science] per [1] population [in all cities] <in cities with at least [10] population>",
-//  "[+10]% [Gold] [in all cities] <in cities with at least [10] population>"],
+//  "[+10]% [Gold] [in all cities] <in cities with at least [10] population>", "Triggers a global alert upon build start","Cannot be purchased"],
 // },
 {
   "name": "Founder of Hangul language (Sejong)",
@@ -813,7 +820,7 @@
   "Free Technology <upon entering the [Medieval era]>","Free Technology <upon entering the [Renaissance era]>",
   "Free Technology <upon entering the [Industrial era]>","Free Technology <upon entering the [Modern era]>",
   "Free Technology <upon entering the [Atomic era]>","Free Technology <upon entering the [Information era]>",
-  "[+2 Culture] from all [Science] buildings", "[-1 Culture] from every [Library]"],
+  "[+2 Culture] from all [Science] buildings", "[-1 Culture] from every [Library]", "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
   "name": "Hwarang (Seondeok)",
@@ -834,7 +841,7 @@
   "[+1 Science] from [Holy site] tiles [in all cities] <with [1] to [6] neighboring [City center] tiles>","[+1 Science] from [Citadel] tiles [in all cities] <with [1] to [6] neighboring [City center] tiles>",
   "[+1 Science] from [Moai] tiles [in all cities] <with [1] to [6] neighboring [City center] tiles>","[+1 Science] from [Terrace farm] tiles [in all cities] <with [1] to [6] neighboring [City center] tiles>",
   "[+1 Science] from  [Polder] tiles [in all cities] <with [1] to [6] neighboring [City center] tiles>","[+1 Science] from [City ruins] tiles [in all cities] <with [1] to [6] neighboring [City center] tiles>",
-  "[+20]% [Science] from every [National Wonder]", "[+20]% [Culture] from every [National Wonder]"],
+  "[+20]% [Science] from every [National Wonder]", "[+20]% [Culture] from every [National Wonder]", "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
   "name": "Palenque's ingenious Tactics (Pacal)",
@@ -851,7 +858,7 @@
   "Free [Great War Infantry] appears <upon declaring war with a major Civilization> <before discovering [Plastics]> <after discovering [Replaceable Parts]>",
   "Free [Infantry] appears <upon declaring war with a major Civilization> <before discovering [Mobile Tactics]> <after discovering [Plastics]>",
   "Free [Mechanized Infantry] appears <upon declaring war with a major Civilization> <after discovering [Mobile Tactics]>", "[+20]% Strength <for [Military] units> <in [Jungle] tiles>",
-  "[+20]% Strength <for [Military] units> <in [Forest] tiles>"],
+  "[+20]% Strength <for [Military] units> <in [Forest] tiles>", "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
   "name": "Ix Mutal Ajaw (Ix Wan Chak Ajaw)",
@@ -864,7 +871,7 @@
   "[+10]% [Science] [in all cities] <with [1] to [6] neighboring [Luxury resource] tiles>","[+10]% [Food] [in all cities] <with [1] to [6] neighboring [Luxury resource] tiles>",
   "[+10]% [Culture] [in all cities] <with [1] to [6] neighboring [Luxury resource] tiles>","[+10]% [Faith] [in all cities] <with [1] to [6] neighboring [Luxury resource] tiles>",
   "[+10]% [Gold] [in all cities] <with [1] to [6] neighboring [Luxury resource] tiles>","[+10]% [Production] [in all cities] <with [1] to [6] neighboring [Luxury resource] tiles>",
-  "All newly-trained [non-air] units [in all cities connected to capital] receive the [Ix Wan Chak Ajaw bonus] promotion"],
+  "All newly-trained [non-air] units [in all cities connected to capital] receive the [Ix Wan Chak Ajaw bonus] promotion", "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
   "name": "Horse Lord (Genghis Khan)",
@@ -876,7 +883,7 @@
   "Destroyed when the city is captured", "When defeating a [Mounted] unit, earn [20] Gold and recruit it <with [67]% chance>",
   "[+15]% Strength <for [Mounted] units>", "Provides [1] [Horses] <after discovering [Animal Husbandry]>","Provides [1] [Horses] <after discovering [The Wheel]>",
   "Provides [1] [Horses] <after discovering [Horseback Riding]>","Provides [1] [Horses] <after discovering [Chivalry]>",
-  "Provides [1] [Horses] <after discovering [Metallurgy]>","Provides [1] [Horses] <after discovering [Military Science]>"]
+  "Provides [1] [Horses] <after discovering [Metallurgy]>","Provides [1] [Horses] <after discovering [Military Science]>", "Triggers a global alert upon build start","Cannot be purchased"]
 },
 {
   "name": "Gerege (Kublai Khan)",
@@ -893,7 +900,7 @@
   "[1] free random researchable Tech(s) from the [Atomic era] <upon constructing [Market] [in annexed cities]> <during the [Atomic era]>",
   "[1] free random researchable Tech(s) from the [Information era] <upon constructing [Market] [in annexed cities]> <during the [Information era]>",
   "[1] free random researchable Tech(s) from the [Modern era] <upon constructing [Market] [in annexed cities]> <during the [Modern era]>",
-  "[+2 Gold] from every specialist [in all cities]", "Provides [1] [Kublai Khan bonus]"],
+  "[+2 Gold] from every specialist [in all cities]", "Provides [1] [Kublai Khan bonus]", "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
 	"name": "Market",
@@ -910,7 +917,7 @@
   "cost": 1,
   "replacementTextForUniques": "[Allied City-States will occasionally gift Great People]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "Destroyed when the city is captured", "Allied City-States will occasionally gift Great People"],
+  "Destroyed when the city is captured", "Allied City-States will occasionally gift Great People", "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
   "name": "Radio Oranje (Wilhelmina)",
@@ -918,7 +925,7 @@
   "cost": 1,
   "replacementTextForUniques": "[+1 [Happiness] from every Artist (effect is doubled during We Love The King Fay)]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "Destroyed when the city is captured", "[+1 Happiness] from every [Artist]", "[+1 Happiness] from every [Artist] <during We Love The King Day>"],
+  "Destroyed when the city is captured", "[+1 Happiness] from every [Artist]", "[+1 Happiness] from every [Artist] <during We Love The King Day>", "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
   "name": "The Greatest Builder (Darius I)",
@@ -930,7 +937,7 @@
   "Destroyed when the city is captured", "[+2 Happiness] from every [Palace]",
   "[+2 Happiness] from every [Walls]","[+2 Happiness] from every [Castle]",
   "[+2 Happiness] from every [Arsenal]","[+2 Happiness] from every [Bomb Shelter]", 
-  "[+15]% Production when constructing [All] buildings [in all cities] <before the [Renaissance era]>"],
+  "[+15]% Production when constructing [All] buildings [in all cities] <before the [Renaissance era]>", "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
   "name": "Fall of Babylon (Cyrus)",
@@ -940,7 +947,7 @@
 [2 XP gained from combat for Melee units]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "Empire enters a [5]-turn Golden Age <upon declaring war with a major Civilization>",
-  "[2] XP gained from combat <for [Melee] units>"]
+  "[2] XP gained from combat <for [Melee] units>", "Triggers a global alert upon build start","Cannot be purchased"]
 },
 {
   "name": "Unifier of Overseas Cities (Kameamea I)",
@@ -950,7 +957,8 @@
 [+1 [Happiness] in all cities on foreign continents]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[Military] units gain the [Polynesia bonus]", "[+1 Happiness] [in all cities] <on foreign continents>", 
-  "[+1 Happiness] [in all cities] <on foreign continents> <starting from the [Medieval era]>", "[+50]% Strength <for [{Military} {Land}] units> <in [Water] tiles>"],
+  "[+1 Happiness] [in all cities] <on foreign continents> <starting from the [Medieval era]>", "[+50]% Strength <for [{Military} {Land}] units> <in [Water] tiles>",
+  "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
   "name": "Kupe's Voyage (Kupe)",
@@ -960,7 +968,7 @@
 [+3 [Science], [Culture] in all cities on foreign continents]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "Free [Worker] appears <in cities with a [Palace]>",
-  "[+3 Science, +3 Culture] [in all cities] <on foreign continents>"],
+  "[+3 Science, +3 Culture] [in all cities] <on foreign continents>", "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
   "name": "Veni, Vedi, Visi (Julius Caesar)",
@@ -973,7 +981,8 @@
   "Gain [150] [Gold] <upon conquering a city> <during the [Ancient era]>", "Gain [225] [Gold] <upon conquering a city> <during the [Classical era]>",
   "Gain [300] [Gold] <upon conquering a city> <during the [Medieval era]>","Gain [375] [Gold] <upon conquering a city> <during the [Renaissance era]>",
   "Gain [450] [Gold] <upon conquering a city> <during the [Industrial era]>","Gain [525] [Gold] <upon conquering a city> <during the [Modern era]>",
-  "Gain [600] [Gold] <upon conquering a city> <during the [Atomic era]>","Gain [675] [Gold] <upon conquering a city> <during the [Information era]>"],
+  "Gain [600] [Gold] <upon conquering a city> <during the [Atomic era]>","Gain [675] [Gold] <upon conquering a city> <during the [Information era]>",
+  "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
   "name": "Trajan's Column (Trajan)",
@@ -983,7 +992,8 @@
 [+1 [Food], [Gold] from Trading post tiles with neighboring City center tiles]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "Provides the cheapest [Culture] building in your first [999] cities for free",
-  "[-15]% Production when constructing [Culture] buildings [in all cities]", "[+1 Food, +1 Gold] from [Trading post] tiles [in all cities] <with [1] to [6] neighboring [City center] tiles>"]
+  "[-15]% Production when constructing [Culture] buildings [in all cities]", "[+1 Food, +1 Gold] from [Trading post] tiles [in all cities] <with [1] to [6] neighboring [City center] tiles>",
+  "Triggers a global alert upon build start","Cannot be purchased"]
 },
 {
   "name": "Royal Enlightener (Catherine)",
@@ -993,7 +1003,7 @@
 [+20% Production when constructing [Culture] buildings]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[-50]% Unhappiness from [Specialists] [in all cities]",
-  "[+20]% Production when constructing [Culture] buildings [in all cities]"],
+  "[+20]% Production when constructing [Culture] buildings [in all cities]", "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
   "name": "The Grand Embassy (Peter I)",
@@ -1018,7 +1028,8 @@
   "Allied City-States provide [Culture] equal to [+25]% of what they produce for themselves <during the [Industrial era]>", "Allied City-States provide [Science] equal to [+25]% of what they produce for themselves <during the [Industrial era]>",
   "Allied City-States provide [Culture] equal to [+30]% of what they produce for themselves <during the [Modern era]>", "Allied City-States provide [Science] equal to [+30]% of what they produce for themselves <during the [Modern era]>",
   "Allied City-States provide [Culture] equal to [+35]% of what they produce for themselves <during the [Atomic era]>", "Allied City-States provide [Science] equal to [+35]% of what they produce for themselves <during the [Atomic era]>",
-  "Allied City-States provide [Culture] equal to [+40]% of what they produce for themselves <during the [Information era]>", "Allied City-States provide [Science] equal to [+40]% of what they produce for themselves <during the [Information era]>",],
+  "Allied City-States provide [Culture] equal to [+40]% of what they produce for themselves <during the [Information era]>", "Allied City-States provide [Science] equal to [+40]% of what they produce for themselves <during the [Information era]>",
+  "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
   "name": "Phra Ram Hamhaeng (Ramkhamhaeng)",
@@ -1033,7 +1044,8 @@
   "[-60]% Culture cost of natural border growth [in all cities] <with [6] to [6] neighboring [Jungle] tiles>", "[+1 Science] from every [Jungle] <with [1] to [6] neighboring [Forest] tiles>", 
   "[+1 Science] from every [Forest] <with [1] to [6] neighboring [Jungle] tiles>",
   "[+1]% Culture cost of natural border growth [in all cities] <with [5] to [5] neighboring [Jungle] tiles> <if [Alhambra] is constructed> <after adopting [Tradition]>", 
-  "[+11]% Culture cost of natural border growth [in all cities] <with [6] to [6] neighboring [Jungle] tiles> <if [Alhambra] is constructed> <after adopting [Tradition]>",],
+  "[+11]% Culture cost of natural border growth [in all cities] <with [6] to [6] neighboring [Jungle] tiles> <if [Alhambra] is constructed> <after adopting [Tradition]>",
+  "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
   "name": "Monasteries of the King (Jayavarman VII)",
@@ -1044,7 +1056,7 @@
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[+15]% [Science] [in all cities] <within [2] tiles of a [Siamese Holy site]>",
   "[+15]% [Culture] [in all cities] <within [2] tiles of a [Siamese Holy site]>","[+15]% [Faith] [in all cities] <within [2] tiles of a [Siamese Holy site]>",
-  "Provides [1] [Siam bonus]"]
+  "Provides [1] [Siam bonus]", "Triggers a global alert upon build start","Cannot be purchased"]
 },
 {
   "name": "Africa's Greatest Empire (Askia)",
@@ -1054,7 +1066,7 @@
 [+2 [Happiness] [in annexed cities]]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "Empire enters golden age <upon conquering a city>","[-20]% Golden Age length",
-  "[+2 Happiness] [in annexed cities]"],
+  "[+2 Happiness] [in annexed cities]", "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
   "name": "Sahel Merchants (Mansa Musa)",
@@ -1071,7 +1083,7 @@
   "[+1 Gold] from each Trade Route <starting from the [Information era]>", "[-1 Food, -1 Gold] [in capital] <with [1] to [1] neighboring [Desert] tiles>",
   "[-2 Food, -2 Gold] [in capital] <with [2] to [2] neighboring [Desert] tiles>", "[-3 Food, -3 Gold] [in capital] <with [3] to [3] neighboring [Desert] tiles>",
   "[-4 Food, -4 Gold] [in capital] <with [4] to [4] neighboring [Desert] tiles>","[-5 Food, -5 Gold] [in capital] <with [5] to [5] neighboring [Desert] tiles>",
-  "[-6 Food, -6 Gold] [in capital] <with [6] to [6] neighboring [Desert] tiles>",]
+  "[-6 Food, -6 Gold] [in capital] <with [6] to [6] neighboring [Desert] tiles>", "Triggers a global alert upon build start","Cannot be purchased"]
 },
 
 //{
@@ -1082,7 +1094,7 @@
 //[+1 [Science] from every specialist starting from the Renaissance era (effect is doubled for Vizier)]",
 //  "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
 //  "Destroyed when the city is captured", "Provides [1] [Suleiman bonus]", "[+1 Science] from every specialist [in all cities] <starting from the [Renaissance era]>",
-//  "[+1 Science] from every [Vizier] <starting from the [Renaissance era]>"],
+//  "[+1 Science] from every [Vizier] <starting from the [Renaissance era]>", "Triggers a global alert upon build start","Cannot be purchased"],
 //},
 
 {
@@ -1093,7 +1105,7 @@
 [Siege units earn 100% of killed Military unit's Strength as [Faith] (effect is doubled for Cannon)]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[Siege] units gain the [Mehmed II bonus] promotion", "Earn [100]% of killed [Military] unit's [Strength] as [Faith] <for [Siege] units>",
-  "Earn [100]% of killed [Military] unit's [Strength] as [Faith] <for [Cannon] units>"],
+  "Earn [100]% of killed [Military] unit's [Strength] as [Faith] <for [Cannon] units>", "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
   "name": "Greatest General in World (Napoleon)",
@@ -1104,7 +1116,7 @@
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[+1] Movement <for [Great General] units>", "Provides [1] [Napoleon bonus]", 
   "Free [Greatest General] appears <upon entering the [Medieval era]>", "Free [Greatest General] appears <upon entering the [Renaissance era]>",
-  "Free [Greatest General] appears <upon entering the [Industrial era]>",],
+  "Free [Greatest General] appears <upon entering the [Industrial era]>", "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
   "name": "Catherine's Magnificences (Catherine de Medici)",
@@ -1138,7 +1150,7 @@
   "[+10]% [Culture] from every [Forbidden Palace]", "[+2 Happiness] from every [Forbidden Palace]","[+10]% [Culture] from every [Himeji Castle]", "[+2 Happiness] from every [Himeji Castle]",
   "[+10]% [Culture] from every [Kremlin]", "[+2 Happiness] from every [Kremlin]","[+10]% [Culture] from every [Leaning Tower of Pisa]", "[+2 Happiness] from every [Leaning Tower of Pisa]",
   "[+10]% [Culture] from every [Porcelain Tower]", "[+2 Happiness] from every [Porcelain Tower]","[+10]% [Culture] from every [Sistine Chapel]", "[+2 Happiness] from every [Sistine Chapel]",
-  "[+10]% [Culture] from every [Taj Mahal]", "[+2 Happiness] from every [Taj Mahal]"],
+  "[+10]% [Culture] from every [Taj Mahal]", "[+2 Happiness] from every [Taj Mahal]", "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
   "name": "Lion of the North (Gustavus Adolphus)",
@@ -1148,7 +1160,7 @@
 [Melee units gain the Great Generals I promotion (Great General is earned 50% faster)]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured",  "[+50]% XP gained from combat <for [Military] units> <in [Enemy Land] tiles>",
-  "[Melee] units gain the [Great Generals I] promotion"],
+  "[Melee] units gain the [Great Generals I] promotion", "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
   "name": "Minevra of the North (Kristina)",
@@ -1157,7 +1169,8 @@
   "replacementTextForUniques": "[Unique building – Queen's Bibliotheque (+2 [Culture], [Science], +1 Great Artist point and Great Scientist point, +1 [Culture] per 2 population in this city, +1 [Culture] from every specialist, Only available in capital)]
 [Great Artist is earned 50% faster]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "Destroyed when the city is captured", "Gain a free [Sweden bonus] [in capital]", "[Great Artist] is earned [50]% faster"],
+  "Destroyed when the city is captured", "Gain a free [Sweden bonus] [in capital]", "[Great Artist] is earned [50]% faster",
+  "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
   "name": "Sweden bonus",
@@ -1186,7 +1199,7 @@
   "Destroyed when the city is captured", "[-25]% Gold cost of upgrading <for [Military] units> <when not at war>",
   "[-50]% Gold cost of upgrading <for [Military] units> <when at war>", "[Gold] cost of purchasing [All] buildings [-10]% <when not at war>",
   "[Gold] cost of purchasing [All] buildings [-20]% <when at war>","[Gold] cost of purchasing [All] units [-10]% <when not at war>",
-  "[Gold] cost of purchasing [All] units [-20]% <when at war>"],
+  "[Gold] cost of purchasing [All] units [-20]% <when at war>", "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
   "name": "Council of Ministers (Menelik II)",
@@ -1196,7 +1209,7 @@
 [+15% Strength when fighting in Hill tiles]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[+15]% growth [in all cities connected to capital]", "[15]% Food is carried over after population increases [in all cities connected to capital]",
-  "[+15]% Strength <when fighting in [Hill] tiles>"],
+  "[+15]% Strength <when fighting in [Hill] tiles>", "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
   "name": "Technological Unification of Japan (Oda Nobunaga)",
@@ -1220,7 +1233,8 @@
   "[Anti-Tank Gun] units gain the [Japan bonus IV] promotion","[Helicopter Gunship] units gain the [Japan bonus V] promotion",
   "[Catapult] units gain the [Japan bonus I] promotion","[Trebuchet] units gain the [Japan bonus II] promotion",
   "[Cannon] units gain the [Japan bonus III] promotion","[Artillery] units gain the [Japan bonus IV] promotion",
-  "[Rocket Artillery] units gain the [Japan bonus V] promotion", "Upon capturing a city, receive [10] times its [Science] production as [Science] immediately"],
+  "[Rocket Artillery] units gain the [Japan bonus V] promotion", "Upon capturing a city, receive [10] times its [Science] production as [Science] immediately",
+  "Triggers a global alert upon build start","Cannot be purchased""],
 },
 {
   "name": "Divine Wind (Hojo Tokimune)",
@@ -1231,6 +1245,7 @@
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[+20]% Strength <when fighting in [Land] tiles> <with [1] to [6] neighboring [Water] tiles>"
   "[+40]% Production when constructing [Faith] buildings [in all cities]", "[+40]% Production when constructing [Barracks] buildings [in all cities]",
-  "[+40]% Production when constructing [Armory] buildings [in all cities]","[+40]% Production when constructing [Military Academy] buildings [in all cities]"],
+  "[+40]% Production when constructing [Armory] buildings [in all cities]","[+40]% Production when constructing [Military Academy] buildings [in all cities]",
+  "Triggers a global alert upon build start","Cannot be purchased"],
 },
 ]
